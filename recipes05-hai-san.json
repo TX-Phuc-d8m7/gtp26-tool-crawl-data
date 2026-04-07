@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Chíp chíp hấp sả",
+        "ingredients": [
+            "chíp chíp",
+            "sả",
+            "tỏi vừa",
+            "ớt xanh",
+            "chanh",
+            "rau quế",
+            "muối",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Nghêu hấp Thái",
+        "ingredients": [
+            "nghêu",
+            "sốt thái",
+            "sả",
+            "ớt hiểm",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Ốc Hương Rang Muối Ớt (Đông Tuyết)",
+        "ingredients": [
+            "bột ngọt",
+            "đường",
+            "muối",
+            "ớt xay ( ăn cay nhìu thì cho nhìu)",
+            "nước",
+            "ốc hương"
+        ]
+    },
+    {
+        "name": "Ốc hương xào bơ tỏi",
+        "ingredients": [
+            "ốc hương đã ngâm rửa sạch",
+            "ăn canh bơ",
+            "ăn canh tỏi băm",
+            "gia vị: 1 muỗng cà phê hạt nêm",
+            "1/2 muỗng cà phê tiêu",
+            "1 muỗng cà phê đường",
+            "1 muỗng cà phê nước mắm",
+            "1/2 muỗng cà phê ớt sate",
+            "nước chấm: 2 muỗng cà phê muối",
+            "1/2 muỗng cà phê tiêu",
+            "nửa muỗng ăn canh đường",
+            "1/4 muỗng cà phê sate",
+            "nước cốt 2 trái tắc",
+            "1 trái ớt to dằm nát",
+            "1 ít rau răm cắt nhuyễn"
+        ]
+    },
+    {
+        "name": "Mực nướng sa tế bằng nckd",
+        "ingredients": [
+            "mực",
+            "sả",
+            "ớt",
+            "hành khô",
+            "tỏi",
+            "sa tế",
+            "tương ớt",
+            "mì chính",
+            "đường",
+            "muối tôm tây ninh",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Tôm hùm nướng phô mai",
+        "ingredients": [
+            "tôm",
+            "phômai bò cười",
+            "creamchess",
+            "bơ tường an nhỏ",
+            "bột mì hoặc bột bắp",
+            "sữa tươi không đường",
+            "phomai sợi",
+            "củ hành trắng",
+            "lá ngò rí",
+            "hạt nêm hải sản",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Cua rang me",
+        "ingredients": [
+            "cua",
+            "tỏi",
+            "hành lá",
+            "hành tím",
+            "me"
+        ]
+    },
+    {
+        "name": "Ghẹ hấp nước dừa",
+        "ingredients": [
+            "ghẹ sống",
+            "dừa tươi",
+            "muối ớt xanh"
+        ]
+    },
+    {
+        "name": "Lẩu Thái Chua Cay Hải Sản 🦐 🐟 🥬",
+        "ingredients": [
+            "nghêu hoa",
+            "tôm càng xanh",
+            "tôm thẻ loại to",
+            "cá giò",
+            "nước lẩu",
+            "sả",
+            "cà chua",
+            "hành tây",
+            "tỏi",
+            "hành",
+            "me",
+            "ớt khô",
+            "gia vị: nước mắm",
+            "bột ngọt",
+            "đường",
+            "bột nêm",
+            "rau nhúm lẩu",
+            "cần",
+            "cải",
+            "các loại nấm",
+            "bún",
+            "mì ăn kèm"
+        ]
+    },
+    {
+        "name": "Hàu nướng mỡ hành bằng nồi chiên không dầu",
+        "ingredients": [
+            "hàu sữa (tuỳ các bác thích ăn nhiều hay ăn ít) hàu to lắm",
+            "trứng cút",
+            "bơ tuỳ thích cho ít vào thơm thì mọi người cho",
+            "hành khô e ra chợ mua cho nhanh chiên hành lâu lắm các mẹ",
+            "lạc đập dập",
+            "hành lá + dầu ăn",
+            "muối tiêu tuỳ chỉnh"
+        ]
+    },
+    {
+        "name": "Hàu Nướng Phô Mai",
+        "ingredients": [
+            "hàu",
+            "rau răm",
+            "sốt phô mai",
+            "phô mai bò cười",
+            "sữa đặc",
+            "sữa tươi"
+        ]
+    },
+    {
+        "name": "Sò điệp nướng mỡ hành",
+        "ingredients": [
+            "sò điệp",
+            "hành",
+            "tỏi",
+            "xả",
+            "gừng",
+            "lạc",
+            "nước mắm",
+            "đường",
+            "muối",
+            "giấm",
+            "bột nêm"
+        ]
+    },
+    {
+        "name": "SP.0536 - Nhum Nướng Mỡ Trứng - Bơ Hành",
+        "ingredients": [
+            "nhum tươi",
+            "hành",
+            "trứng gà",
+            "bơ vàng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Cá mú hấp xì dầu",
+        "ingredients": [
+            "cá mú",
+            "gừng",
+            "rượu trắng",
+            "hành lá",
+            "thì là",
+            "đường",
+            "xì dầu",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Sò huyết rang me",
+        "ingredients": [
+            "sò huyết",
+            "nước cốt me",
+            "muỗng cafe nước mắm",
+            "muỗng cafe tương ớt",
+            "muỗng cafe tương cà",
+            "muỗng canh đường",
+            "dầu ăn",
+            "rau răm",
+            "ớt trái",
+            "tỏi băm nhỏ",
+            "đậu phộng rang giã nhỏ"
+        ]
+    },
+    {
+        "name": "Bề bề rang muối",
+        "ingredients": [
+            "bề bề",
+            "sả",
+            "ớt sừng",
+            "hành khô",
+            "dầu ăn",
+            "muối tiêu"
+        ]
+    },
+    {
+        "name": "Lẩu Đầu Cá Bớp Măng Chua",
+        "ingredients": [
+            "đầu cá bớp",
+            "cá bớp cắt lát",
+            "bạc hà",
+            "rau muống",
+            "măng chua",
+            "cà chua",
+            "sả",
+            "thơm",
+            "me",
+            "nước mắm",
+            "đường",
+            "lá ngò gai",
+            "hành tỏi băm",
+            "sả cắt khúc 5 cm đập dập"
+        ]
+    },
+    {
+        "name": "Cua huỳnh đế hấp",
+        "ingredients": [
+            "cua huỳnh đế",
+            "nhánh gừng",
+            "vài củ sả",
+            "lòng trắng trứng",
+            "hành",
+            "muối",
+            "hạt tiêu"
+        ]
+    },
+    {
+        "name": "Mực trứng chiên nước mắm",
+        "ingredients": [
+            "mực trứng hấp",
+            "tỏi",
+            "ớt",
+            "đường (mình dùng si ruýp đường thốt nốt)"
+        ]
+    },
+    {
+        "name": "Bạch tuộc nướng sa tế",
+        "ingredients": [
+            "bạch tuộc",
+            "ớt sa tế",
+            "gừng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Ốc móng tay xào rau muống",
+        "ingredients": [
+            "ốc móng tay",
+            "rau muống",
+            "tỏi",
+            "hành"
+        ]
+    },
+    {
+        "name": "Ốc Len Xào Dừa",
+        "ingredients": [
+            "ốc len",
+            "nước cốt dừa đặc",
+            "nước cốt dừa loãng (nước giảo)",
+            "rau răm",
+            "ớt",
+            "sả",
+            "sả băm",
+            "dầu ăn",
+            "tỏi băm",
+            "muối",
+            "bột ngọt",
+            "đường",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Sò dẹo, sò lông nướng mỡ hành",
+        "ingredients": [
+            "sò dẹo + lông",
+            "nước chấm",
+            "nước mắm loãng",
+            "mỡ hành",
+            "đậu phộng"
+        ]
+    },
+    {
+        "name": "Cháo Hàu Nấu Nấm Lộc Nhung",
+        "ingredients": [
+            "ruột hàu",
+            "gạo",
+            "tiêu xay",
+            "đầu hành lá",
+            "nấm lộc nhung",
+            "gừng nhỏ (cắt sợi )",
+            "mắm",
+            "muối hồng",
+            "bột ngọt (tuỳ thích)"
+        ]
+    }
+]
