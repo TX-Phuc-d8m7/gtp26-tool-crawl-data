@@ -1,0 +1,7866 @@
+[
+    {
+        "name": "Mì Quảng ếch đơn giản",
+        "ingredients": [
+            "ếch",
+            "mì lá tươi",
+            "rau ăn kèm",
+            "bánh đa nướng",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Mì Quảng Xào Tôm Thịt Eat Clean",
+        "ingredients": [
+            "mì quảng tươi",
+            "thịt nạc",
+            "nõn tôm biển",
+            "đậu phụ chiên",
+            "hành tây",
+            "ớt chuông",
+            "ngò rí"
+        ]
+    },
+    {
+        "name": "Mì quảng gà",
+        "ingredients": [
+            "gà ta",
+            "nén",
+            "nghệ tươi",
+            "hành tím",
+            "tỏi",
+            "đường nâu",
+            "hạt nêm",
+            "đường phèn",
+            "dầu hào",
+            "muối",
+            "dầu phộng",
+            "tiêu",
+            "nước mắm",
+            "bánh tráng nướng",
+            "rau sống ăn kèm",
+            "mì quảng",
+            "trứng gà luộc chín bóc vỏ"
+        ]
+    },
+    {
+        "name": "Mì Quảng Cá Lóc (Cá Fillet)",
+        "ingredients": [
+            "mì quảng",
+            "bánh tráng nướng",
+            "đậu phộng",
+            "cá lóc",
+            "gia vị: hành tím",
+            "nén",
+            "nghệ",
+            "ớt bột",
+            "tiêu",
+            "nước mắm",
+            "muối",
+            "đường",
+            "rau sống : cải",
+            "húng lủi",
+            "bắp chuối",
+            "lá é",
+            "diếp cá",
+            "nước mắm tỏi ớt giã nhuyễn"
+        ]
+    },
+    {
+        "name": "Mì Quảng tôm bò",
+        "ingredients": [
+            "bò phile",
+            "tôm lớn",
+            "mì lá tươi",
+            "đậu phộng",
+            "hành lá",
+            "nén",
+            "dầu phụng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Vịt Nấu Mì Quảng (Mì Quảng Vịt)",
+        "ingredients": [
+            "vịt ko lấy đầu cổ cánh",
+            "nước dừa khô để nước dừa ngọt ko bị chua",
+            "mì quảng",
+            "đậu phộng",
+            "nước mắm gừng",
+            "xà lách",
+            "húng lủi",
+            "dầu ăn",
+            "đường phèn",
+            "muối",
+            "hạt nêm",
+            "nước mắm",
+            "màu dầu điều",
+            "tỏi băm",
+            "hành băm",
+            "gừng băm",
+            "ớt sa tế"
+        ]
+    },
+    {
+        "name": "Mì quảng trộn chay",
+        "ingredients": [
+            "mì quảng",
+            "giá",
+            "nấm bào ngư"
+        ]
+    },
+    {
+        "name": "Bún Cá Ngừ, Chả Cá",
+        "ingredients": [
+            "hành tím",
+            "nước",
+            "rau sống ăn kèm",
+            "hành lá",
+            "ngò rí",
+            "tiêu",
+            "muối",
+            "hạt nêm",
+            "bột ngọt",
+            "đường",
+            "mắm ruốc huế",
+            "nước mắm",
+            "bún tươi",
+            "cà chua",
+            "thơm",
+            "bắp cải",
+            "cà rốt",
+            "su su",
+            "bắp mỹ",
+            "chả cá nha trang",
+            "cá ngừ"
+        ]
+    },
+    {
+        "name": "Bún Cá Ngừ, Chả Cá",
+        "ingredients": [
+            "hành tím",
+            "nước",
+            "rau sống ăn kèm",
+            "hành lá",
+            "ngò rí",
+            "tiêu",
+            "muối",
+            "hạt nêm",
+            "bột ngọt",
+            "đường",
+            "mắm ruốc huế",
+            "nước mắm",
+            "bún tươi",
+            "cà chua",
+            "thơm",
+            "bắp cải",
+            "cà rốt",
+            "su su",
+            "bắp mỹ",
+            "chả cá nha trang",
+            "cá ngừ"
+        ]
+    },
+    {
+        "name": "Bún cá rô đồng",
+        "ingredients": [
+            "cá rô đồng",
+            "xương heo",
+            "bún tươi",
+            "cà chua",
+            "rau cần nước",
+            "hành lá",
+            "thì là",
+            "hành tím",
+            "gừng",
+            "bột nghệ",
+            "muối",
+            "nước mắm",
+            "hạt nêm",
+            "tiêu xay",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bún Cá Sứa",
+        "ingredients": [
+            "cá thu",
+            "sứa ăn liền",
+            "chả cá nha trang",
+            "cà chua beef",
+            "thơm",
+            "sả",
+            "hành tím",
+            "gừng",
+            "rễ ngò",
+            "bún tươi",
+            "hành lá",
+            "rau thơm",
+            "hành phi",
+            "nước mắm",
+            "muối",
+            "đường",
+            "tiêu",
+            "nước lọc",
+            "rau ăn kèm"
+        ]
+    },
+    {
+        "name": "Bún hải sản đơn giản",
+        "ingredients": [
+            "sườn heo",
+            "tôm sắt biển",
+            "mực mành",
+            "cà chua",
+            "sa tế tôm",
+            "gia vị: muối",
+            "đường",
+            "bột ngọt"
+        ]
+    },
+    {
+        "name": "Bún Thái Chay",
+        "ingredients": [
+            "su su",
+            "cà rốt",
+            "cà chua",
+            "thơm",
+            "bắp mỹ",
+            "sả",
+            "nấm đùi gà",
+            "đậu hũ chiên",
+            "tàu hũ ky tươi chiên",
+            "me",
+            "bún tươi",
+            "rau sống ăn kèm",
+            "muối",
+            "đường",
+            "nước mắm chay",
+            "dầu ăn",
+            "ớt bột"
+        ]
+    },
+    {
+        "name": "Bún mắm nêm thịt luộc",
+        "ingredients": [
+            "bún",
+            "thịt ba chỉ",
+            "rau xà lách",
+            "rau thơm ăn kèm",
+            "dưa leo",
+            "mắm nêm",
+            "mắm nêm",
+            "tỏi",
+            "ớt",
+            "đường",
+            "bột ngọt",
+            "chanh"
+        ]
+    },
+    {
+        "name": "Nước Mắm Kiệu Chua Ngọt (Ăn bún thịt nướng, bún chả giò,…)",
+        "ingredients": [
+            "nước mắm",
+            "cốt chanh",
+            "đường",
+            "nước lọc",
+            "kiệu chua ngọt"
+        ]
+    },
+    {
+        "name": "Bún bò Huế - Ẩm thực Việt",
+        "ingredients": [
+            "nguyên liệu tạo hương",
+            "hành lá",
+            "ngò",
+            "hành tây",
+            "rau răm",
+            "nguyên liệu nước dùng",
+            "sả đập dập",
+            "xương heo",
+            "hành tây",
+            "hành tím",
+            "nước",
+            "bột ngọt",
+            "đường phèn",
+            "hạt nêm",
+            "muối",
+            "nước màu điều",
+            "bột màu điều",
+            "nước nấu với mắm ruốc",
+            "mắm ruốc",
+            "nguyên liệu đạm",
+            "bắp bò",
+            "bắp giò heo",
+            "nguyên liệu làm chả cua",
+            "thịt heo xay",
+            "muối",
+            "tiêu",
+            "hành tím băm"
+        ]
+    },
+    {
+        "name": "Bún LÒNG xào nghệ",
+        "ingredients": [
+            "lòng già heo",
+            "nghệ tươi",
+            "hành tây",
+            "hành tím",
+            "tỏi",
+            "hẹ lá",
+            "bún tươi",
+            "gia vị:",
+            "dầu ăn",
+            "nước mắm",
+            "hạt nêm",
+            "tiêu xay",
+            "bột ngọt",
+            "đường"
+        ]
+    },
+    {
+        "name": "Bún riêu cua đồng",
+        "ingredients": [
+            "cua đồng xay",
+            "sườn heo non",
+            "cà chua chín",
+            "thịt heo xay",
+            "trứng gà",
+            "đậu chiên cắt",
+            "gia vị nấu riêu",
+            "chanh ớt",
+            "rau sống",
+            "hành lá",
+            "bún"
+        ]
+    },
+    {
+        "name": "Bún Ốc Chay 🌱",
+        "ingredients": [
+            "bún",
+            "nấm hỗn hợp: nấm bào ngư",
+            "nấm đùi gà",
+            "nấm sò",
+            "nấm linh chi",
+            "nấm kim châm",
+            "nấm hương",
+            "tía",
+            "lá lốt",
+            "dấm bỗng",
+            "nước dùng chay hầm từ",
+            "chả chay",
+            "tàu hũ ky",
+            "đậu hũ chiên",
+            "gia vị muối đường"
+        ]
+    },
+    {
+        "name": "Bún Đậu Mắm Tôm Lòng Heo Luộc",
+        "ingredients": [
+            "bún lá tươi",
+            "đậu phụ",
+            "lòng heo : tim heo",
+            "gan heo",
+            "phèo",
+            "bao tử",
+            "dồi huyết đã luộc",
+            "thịt ba rọi heo luộc",
+            "húng lủi",
+            "húng láng",
+            "kinh giới",
+            "đầu hành lá",
+            "dầu ăn",
+            "pha mắm tôm",
+            "mắm tôm",
+            "đường",
+            "nước cốt chanh",
+            "ớt tươi"
+        ]
+    },
+    {
+        "name": "Bún Thang Hà Nội",
+        "ingredients": [
+            "gà",
+            "trứng gà",
+            "nấm hương",
+            "củ cải khô",
+            "tôm tươi",
+            "chả lụa",
+            "rau răm",
+            "hành lá",
+            "mắm tôm",
+            "tỏi ớt",
+            "tiêu",
+            "muối",
+            "hạt nêm",
+            "sả",
+            "gừng",
+            "hành tím",
+            "bột nghệ",
+            "chanh",
+            "đường",
+            "lá chanh",
+            "bún tươi"
+        ]
+    },
+    {
+        "name": "Bún Chả Hà Nội (90% giống)",
+        "ingredients": [
+            "thịt ba chỉ hơi mỡ chút",
+            "thịt xay sẵn",
+            "sả",
+            "hành tím",
+            "tỏi",
+            "xốt ướp thịt nướng sả",
+            "nước mắm",
+            "nước mắm",
+            "giấm gạo",
+            "đường",
+            "nước lọc",
+            "ớt",
+            "tỏi băm nhuyễn để tách riêng ra"
+        ]
+    },
+    {
+        "name": "Bún dọc mùng",
+        "ingredients": [
+            "nước",
+            "muối",
+            "nước mắm",
+            "đường",
+            "cà chua to",
+            "thơm",
+            "cá basa",
+            "me vàng cô nguyệt",
+            "rau ngổ",
+            "rau ngò gai",
+            "mọc",
+            "giò sống",
+            "thịt heo xay",
+            "nước mắm phú quốc",
+            "đường nâu",
+            "hành tây",
+            "rau ăn kèm",
+            "giá",
+            "rau muống bào",
+            "bắp chuối bào",
+            "rau thơm",
+            "hành lá",
+            "ngò rí",
+            "ốc bươu xào",
+            "ốc bươu ruột vàng",
+            "sa tế tôm tự làm"
+        ]
+    },
+    {
+        "name": "Bún Măng Vịt",
+        "ingredients": [
+            "vịt",
+            "măng chua",
+            "rau răm",
+            "gừng",
+            "hành tím đập dập",
+            "dừa xiêm",
+            "hành phi",
+            "hành lá xắt khúc",
+            "lát ớt xắt"
+        ]
+    },
+    {
+        "name": "Bún bề bề rau ngót",
+        "ingredients": [
+            "_ bún khô",
+            "_ bề bề bóc nõn",
+            "hành khô",
+            "rau ngót",
+            "gia vị cơ bản"
+        ]
+    },
+    {
+        "name": "Phở bò tái chín",
+        "ingredients": [
+            "gầu bò",
+            "thăn bò",
+            "xả",
+            "gừng",
+            "hành lá",
+            "mùi tàu",
+            "mùi ta",
+            "vị phở:",
+            "hồi",
+            "quế",
+            "thảo",
+            "hạt tiêu",
+            "gừng",
+            "hạt mùi hoặc rễ mùi già",
+            "nước dùng:",
+            "hành tây",
+            "cải gọt vỏ",
+            "cắt khúc"
+        ]
+    },
+    {
+        "name": "Phở bò",
+        "ingredients": [
+            "thịt bò",
+            "xương bò",
+            "sườn bò",
+            "nước lạnh",
+            "gia vị phở: đinh hương",
+            "hoa hồi",
+            "thảo",
+            "hạt mùi",
+            "quế",
+            "rễ ngò",
+            "rễ hành",
+            "hành tây",
+            "gừng",
+            "hành tím",
+            "cải trắng",
+            "gọt vỏ",
+            "đường phèn",
+            "hạt nêm",
+            "bột ngọt",
+            "muối",
+            "bột canh",
+            "nước mắm",
+            "rượu vodka hoặc rượu trắng - độ để khử mùi bò",
+            "giấm ăn",
+            "bánh phở cắt sợi nhỏ vừa",
+            "hành tây cắt múi cau",
+            "hành lá",
+            "rau răm",
+            "rau thơm",
+            "tương ớt",
+            "tương ăn phở",
+            "bánh giò chéo quẩy ăn cùng",
+            "bò viên",
+            "hỗn hợp thịt bắp bò",
+            "thăn bò",
+            "gân bò",
+            "mỡ heo",
+            "rửa sạch",
+            "bột khoai tây",
+            "bột bắp",
+            "bột nở",
+            "nước đá lạnh",
+            "rượu trắng",
+            "dầu ăn",
+            "gia vị:nước mắm",
+            "bột tỏi",
+            "hạt nêm",
+            "tiêu hạt",
+            "tiêu đập nhỏ"
+        ]
+    },
+    {
+        "name": "Phở bò",
+        "ingredients": [
+            "thịt bò",
+            "xương bò",
+            "sườn bò",
+            "nước lạnh",
+            "gia vị phở: đinh hương",
+            "hoa hồi",
+            "thảo",
+            "hạt mùi",
+            "quế",
+            "rễ ngò",
+            "rễ hành",
+            "hành tây",
+            "gừng",
+            "hành tím",
+            "cải trắng",
+            "gọt vỏ",
+            "đường phèn",
+            "hạt nêm",
+            "bột ngọt",
+            "muối",
+            "bột canh",
+            "nước mắm",
+            "rượu vodka hoặc rượu trắng - độ để khử mùi bò",
+            "giấm ăn",
+            "bánh phở cắt sợi nhỏ vừa",
+            "hành tây cắt múi cau",
+            "hành lá",
+            "rau răm",
+            "rau thơm",
+            "tương ớt",
+            "tương ăn phở",
+            "bánh giò chéo quẩy ăn cùng",
+            "bò viên",
+            "hỗn hợp thịt bắp bò",
+            "thăn bò",
+            "gân bò",
+            "mỡ heo",
+            "rửa sạch",
+            "bột khoai tây",
+            "bột bắp",
+            "bột nở",
+            "nước đá lạnh",
+            "rượu trắng",
+            "dầu ăn",
+            "gia vị:nước mắm",
+            "bột tỏi",
+            "hạt nêm",
+            "tiêu hạt",
+            "tiêu đập nhỏ"
+        ]
+    },
+    {
+        "name": "Phở bò",
+        "ingredients": [
+            "thịt bò",
+            "xương bò",
+            "sườn bò",
+            "nước lạnh",
+            "gia vị phở: đinh hương",
+            "hoa hồi",
+            "thảo",
+            "hạt mùi",
+            "quế",
+            "rễ ngò",
+            "rễ hành",
+            "hành tây",
+            "gừng",
+            "hành tím",
+            "cải trắng",
+            "gọt vỏ",
+            "đường phèn",
+            "hạt nêm",
+            "bột ngọt",
+            "muối",
+            "bột canh",
+            "nước mắm",
+            "rượu vodka hoặc rượu trắng - độ để khử mùi bò",
+            "giấm ăn",
+            "bánh phở cắt sợi nhỏ vừa",
+            "hành tây cắt múi cau",
+            "hành lá",
+            "rau răm",
+            "rau thơm",
+            "tương ớt",
+            "tương ăn phở",
+            "bánh giò chéo quẩy ăn cùng",
+            "bò viên",
+            "hỗn hợp thịt bắp bò",
+            "thăn bò",
+            "gân bò",
+            "mỡ heo",
+            "rửa sạch",
+            "bột khoai tây",
+            "bột bắp",
+            "bột nở",
+            "nước đá lạnh",
+            "rượu trắng",
+            "dầu ăn",
+            "gia vị:nước mắm",
+            "bột tỏi",
+            "hạt nêm",
+            "tiêu hạt",
+            "tiêu đập nhỏ"
+        ]
+    },
+    {
+        "name": "Phở bò",
+        "ingredients": [
+            "thịt bò",
+            "xương bò",
+            "sườn bò",
+            "nước lạnh",
+            "gia vị phở: đinh hương",
+            "hoa hồi",
+            "thảo",
+            "hạt mùi",
+            "quế",
+            "rễ ngò",
+            "rễ hành",
+            "hành tây",
+            "gừng",
+            "hành tím",
+            "cải trắng",
+            "gọt vỏ",
+            "đường phèn",
+            "hạt nêm",
+            "bột ngọt",
+            "muối",
+            "bột canh",
+            "nước mắm",
+            "rượu vodka hoặc rượu trắng - độ để khử mùi bò",
+            "giấm ăn",
+            "bánh phở cắt sợi nhỏ vừa",
+            "hành tây cắt múi cau",
+            "hành lá",
+            "rau răm",
+            "rau thơm",
+            "tương ớt",
+            "tương ăn phở",
+            "bánh giò chéo quẩy ăn cùng",
+            "bò viên",
+            "hỗn hợp thịt bắp bò",
+            "thăn bò",
+            "gân bò",
+            "mỡ heo",
+            "rửa sạch",
+            "bột khoai tây",
+            "bột bắp",
+            "bột nở",
+            "nước đá lạnh",
+            "rượu trắng",
+            "dầu ăn",
+            "gia vị:nước mắm",
+            "bột tỏi",
+            "hạt nêm",
+            "tiêu hạt",
+            "tiêu đập nhỏ"
+        ]
+    },
+    {
+        "name": "Phở Tái Lăn",
+        "ingredients": [
+            "thịt bò",
+            "xương heo",
+            "đuôi bò",
+            "hành tây",
+            "gừng to",
+            "hành tím",
+            "hành",
+            "đầu hành trắng",
+            "ngò",
+            "bánh phở",
+            "bột nêm",
+            "muối",
+            "đường phèn",
+            "nước mắm",
+            "quế",
+            "hoa hồi",
+            "tỏi",
+            "dấm",
+            "ớt",
+            "thảo"
+        ]
+    },
+    {
+        "name": "Phở bò sốt vang",
+        "ingredients": [
+            "thịt dẻ sườn lẫn gân riềm thăn bò",
+            "hành tây",
+            "mùi ta",
+            "hành lá",
+            "đốt tay gừng",
+            "đốt tay quế",
+            "hoa hồi",
+            "xả lấy phần gốc",
+            "ngũ vị hương kim hưng",
+            "đường đỏ",
+            "mắm ngon",
+            "hạt nêm",
+            "bột canh"
+        ]
+    },
+    {
+        "name": "Phở xào bò",
+        "ingredients": [
+            "phở khô",
+            "bắp bò thái mỏng",
+            "cà rốt",
+            "hành tây",
+            "giá",
+            "rau cải chíp",
+            "hành phi",
+            "gia vị ướp bò:",
+            "tỏi băm",
+            "tiêu",
+            "hạt nêm",
+            "dầu hào",
+            "sốt xào rau :",
+            "hạt nêm",
+            "tiêu",
+            "bột canh",
+            "đường",
+            "dầu hào",
+            "nước tương",
+            "tương ớt",
+            "tỏi băm",
+            "bột năng hoà với nước"
+        ]
+    },
+    {
+        "name": "Phở gà",
+        "ingredients": [
+            "gà thai vi gà công nghiệp",
+            "hành tím",
+            "hành tây",
+            "hoa hồi",
+            "thảo",
+            "hạt mùi",
+            "quế",
+            "gừng thái lát mỏng",
+            "đinh hương",
+            "gốc ngò rí",
+            "gốc hành lá",
+            "tiêu hạt",
+            "lòng gà : trứng non",
+            "huyết gà",
+            "tim gà",
+            "xương gà",
+            "gia vị: hạt nêm",
+            "đường phèn",
+            "bột ngọt",
+            "bột canh",
+            "viên nấu phở",
+            "bánh phở",
+            "hành tây cắt lát nhỏ",
+            "rau mùi tây",
+            "ngò rí",
+            "hành lá",
+            "tương đen",
+            "rau thơm ăn kèm",
+            "bò viên",
+            "gà viên tuỳ thích"
+        ]
+    },
+    {
+        "name": "Phở khô 2 tô Gia Lai",
+        "ingredients": [
+            "gà",
+            "gia vị nấu phở: hồi",
+            "quế",
+            "gừng",
+            "hành tím",
+            "hành tây",
+            "rau ăn kèm: xà lách",
+            "húng quế",
+            "ngò gai",
+            "ngổ",
+            "giá",
+            "hành lá",
+            "gia vị phở khô gia lai: tương đen",
+            "nước tương trộn phở",
+            "sa tế",
+            "phở khô gia lai"
+        ]
+    },
+    {
+        "name": "Phở trộn bò băm",
+        "ingredients": [
+            "bánh phở",
+            "bò xay",
+            "heo xay",
+            "xà lách",
+            "rau thơm",
+            "giá sống",
+            "tỏi băm",
+            "đậu phộng rang",
+            "tỏi phi",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Phở Gà Trộn - Ẩm thực Việt",
+        "ingredients": [
+            "nguyên liệu chính",
+            "gà góc tư rút xương",
+            "phở khô",
+            "bột nghệ",
+            "hành phi",
+            "hành lá",
+            "giá đỗ",
+            "đậu phộng rang",
+            "dưa leo",
+            "nguyên liệu sốt",
+            "nước tương",
+            "dầu hào",
+            "nước luộc gà",
+            "đường"
+        ]
+    },
+    {
+        "name": "Phở cuốn",
+        "ingredients": [
+            "thịt bắp bò",
+            "thích béo thì gầu bò nha!",
+            "trứng",
+            "đậu",
+            "bánh phở tươi",
+            "các loại rau thơm",
+            "rau sống",
+            "tỏi",
+            "ớt",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Bánh phở chiên giòn kèm thịt xào hành tây",
+        "ingredients": [
+            "thịt xào hành tây",
+            "bánh phở",
+            "bánh tráng",
+            "đậu phộng rang",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "PHỞ xào mềm",
+        "ingredients": [
+            "thịt thăn bò",
+            "sợi phở tươi",
+            "hành tây",
+            "hành lá",
+            "tỏi băm",
+            "giá sống",
+            "dầu ăn",
+            "gia vị: hắc xì dầu",
+            "nước tương",
+            "dầu hào",
+            "đường",
+            "bột bắp",
+            "dầu mè"
+        ]
+    },
+    {
+        "name": "Miến Dong Gà Ta(Ức Gà) Nấu Với Măng Khô Đặc Sản Tây Bắc",
+        "ingredients": [
+            "gà ta",
+            "măng khô phia đén",
+            "nấm hương",
+            "gừng",
+            "hành lá",
+            "hành tím",
+            "ngò rí",
+            "muối",
+            "hạt nêm",
+            "nước mắm",
+            "tiêu",
+            "bột ngọt",
+            "bột nghệ"
+        ]
+    },
+    {
+        "name": "Miến lươn nước / trộn",
+        "ingredients": [
+            "lươn khô",
+            "xương lươn",
+            "miến dong",
+            "hành khô",
+            "rau răm",
+            "giá đỗ",
+            "bột năng hoặc bột chiên giòn",
+            "dầu hào",
+            "nước tương",
+            "dấm tỏi",
+            "tương ớt"
+        ]
+    },
+    {
+        "name": "Miến lươn nước / trộn",
+        "ingredients": [
+            "lươn khô",
+            "xương lươn",
+            "miến dong",
+            "hành khô",
+            "rau răm",
+            "giá đỗ",
+            "bột năng hoặc bột chiên giòn",
+            "dầu hào",
+            "nước tương",
+            "dấm tỏi",
+            "tương ớt"
+        ]
+    },
+    {
+        "name": "Miến xào cua 5 sao",
+        "ingredients": [
+            "cua thịt -",
+            "miến thái lan g",
+            "đậu que",
+            "hành hoa",
+            "rau răm",
+            "cần tây",
+            "tiêu bột",
+            "hạt nêm",
+            "dầu hào",
+            "nước tương",
+            "dầu ăn",
+            "hành tím"
+        ]
+    },
+    {
+        "name": "Miến xào hải sản 🦑 🦀 🐙",
+        "ingredients": [
+            "miến",
+            "tôm",
+            "nấm hương",
+            "mộc nhĩ",
+            "cà rốt",
+            "su hào",
+            "hành tây",
+            "rau mùi ta",
+            "hành khô",
+            "hành lá",
+            "nước mắm",
+            "bột nêm",
+            "bột ngọt",
+            "muối"
+        ]
+    },
+    {
+        "name": "Hủ Tiếu Nam Vang Chay",
+        "ingredients": [
+            "nước lèo hủ tiếu",
+            "mướp hương",
+            "su su",
+            "sắn",
+            "cải trắng",
+            "cải muối",
+            "hành boaro",
+            "nước lọc",
+            "gia vị cho nước lèo",
+            "muối hột",
+            "đường phèn",
+            "bột ngọt",
+            "hạt nêm",
+            "cải trắng",
+            "cà rốt",
+            "sốt hủ tiếu nam vang khô",
+            "nước tương nhật",
+            "nước tương thượng hạng hk",
+            "hắc xì dầu",
+            "đường thốt nốt",
+            "nước sôi",
+            "hạt nêm",
+            "tiêu",
+            "bột ngọt",
+            "dầu tỏi",
+            "cải thảo muối",
+            "cải thảo bắp",
+            "muối hột",
+            "định lượng",
+            "nấm hương tươi",
+            "nấm bào ngư",
+            "nấm đùi gà",
+            "nấm mỡ",
+            "đậu hủ",
+            "hủ ky chiên",
+            "ngó sen muối chua",
+            "hành phi",
+            "tỏi phi",
+            "cải thảo muối",
+            "tần ô",
+            "cần tàu",
+            "xà lách",
+            "giá",
+            "hẹ",
+            "hủ tiếu",
+            "nước chấm",
+            "nước tương",
+            "tương ớt",
+            "tỏi ngâm chua"
+        ]
+    },
+    {
+        "name": "Sốt trộn mì, hủ tiếu khô",
+        "ingredients": [
+            "tỏi băm",
+            "nước tương",
+            "dầu hào",
+            "đường",
+            "giấm",
+            "muối",
+            "nước",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Hủ tiếu mực",
+        "ingredients": [
+            "hủ tiếu khô",
+            "mực",
+            "tôm",
+            "cải trắng",
+            "cải đỏ",
+            "nước lọc",
+            "thịt băm",
+            "hành tím",
+            "tỏi",
+            "trứng cút",
+            "giá",
+            "quế thơm",
+            "hành lá",
+            "đường phèn",
+            "dầu ăn",
+            "bột ngọt hạt nêm",
+            "muối"
+        ]
+    },
+    {
+        "name": "Mì xá xíu",
+        "ingredients": [
+            "thịt xá xíu",
+            "cải thìa",
+            "mì trứng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Mì Trộn Cay 🌶️",
+        "ingredients": [
+            "mì tuỳ chọn",
+            "trứng gà",
+            "rong biển",
+            "dầu mè"
+        ]
+    },
+    {
+        "name": "Mì xào giòn hải sản",
+        "ingredients": [
+            "tôm",
+            "mực tươi",
+            "cải thìa",
+            "cà rốt",
+            "hành tây",
+            "mì chiên giòn",
+            "tỏi băm",
+            "bột năng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Mì Udon Xào Thịt Bò",
+        "ingredients": [
+            "mì udon đông lạnh",
+            "thịt bò thái lát",
+            "giá đỗ",
+            "hẹ",
+            "bắp cải",
+            "mè rang",
+            "dầu ăn",
+            "sốt xào",
+            "tỏi băm",
+            "dầu hào",
+            "dầu mè",
+            "nước tương",
+            "đường",
+            "tương ớt",
+            "nước lọc"
+        ]
+    },
+    {
+        "name": "Mì xào giòn hải sản",
+        "ingredients": [
+            "tôm",
+            "mực tươi",
+            "cải thìa",
+            "cà rốt",
+            "hành tây",
+            "mì chiên giòn",
+            "tỏi băm",
+            "bột năng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Mì trứng xào rau",
+        "ingredients": [
+            "thịt ba chỉ",
+            "mì trứng",
+            "rau cải",
+            "bắp cải",
+            "sốt xào",
+            "xì dầu",
+            "dầu hào",
+            "tương ớt",
+            "bột nêm"
+        ]
+    },
+    {
+        "name": "Mì udon chay",
+        "ingredients": [
+            "phần sốt",
+            "sốt tương đen jajang",
+            "tỏi băm",
+            "hành tây",
+            "bí ngòi",
+            "khoai tây",
+            "hạt nêm chay",
+            "đường",
+            "dầu hào",
+            "hoa hồi",
+            "nước",
+            "phần topping ăn kèm",
+            "nấm các loại",
+            "đậu phụ chiên cắt",
+            "mì udon",
+            "hành lá hoặc hành boaro",
+            "vừng rang",
+            "rong biển"
+        ]
+    },
+    {
+        "name": "Mì Ramen Sốt Cay Xào Gà Và Cải",
+        "ingredients": [
+            "mì ramen sốt cay",
+            "ức gà",
+            "hành tây",
+            "cải"
+        ]
+    },
+    {
+        "name": "Wonton, seafood noodles, crispy chicken (hoành thánh, mì hải sản, gà giòn)",
+        "ingredients": [
+            "chicken wings",
+            "shrimp",
+            "scallops",
+            "squid",
+            "ground pork",
+            "wonton noodles",
+            "black fungus",
+            "mushrooms",
+            "peanut butter",
+            "noodle pack",
+            "seasoning: oyster sauce",
+            "sesame oil",
+            "seasoning powder",
+            "soy sauce",
+            "chives",
+            "onion",
+            "garlic",
+            "ginger powder"
+        ]
+    },
+    {
+        "name": "Mì ý rau củ Chay (công thức nhà hàng)",
+        "ingredients": [
+            "garam masala",
+            "curry paste thái",
+            "nước cốt dừa",
+            "bơ lạc",
+            "tỏi",
+            "bí ngòi",
+            "hành tây",
+            "cà chua",
+            "nấm đông cô",
+            "cà chua bi",
+            "hoa hồi",
+            "lá nguyệt quế",
+            "hạt nêm chay",
+            "bơ nấu ăn",
+            "mì ý"
+        ]
+    },
+    {
+        "name": "Bánh canh ruộng",
+        "ingredients": [
+            "bánh canh khô",
+            "nước",
+            "cá nục bông",
+            "trứng cút",
+            "hành ngâm chua",
+            "hành lá",
+            "tiêu",
+            "ớt bột"
+        ]
+    },
+    {
+        "name": "Bánh canh xương sụn chả cá",
+        "ingredients": [
+            "xương sụn heo",
+            "chả cá chiên",
+            "bánh canh",
+            "hành tím lớn",
+            "giá",
+            "ít cải thìa",
+            "chanh ớt",
+            "hành ngò",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "BÁNH CANH chả cá thì là",
+        "ingredients": [
+            "chả cá",
+            "xương gà",
+            "hành tây",
+            "hành tím",
+            "bánh canh",
+            "ăn kèm: hành lá - ngò rí",
+            "hành tím phi vàng",
+            "chanh",
+            "ớt xay",
+            "gia vi: muối",
+            "hạt nêm",
+            "nước mắm",
+            "đường",
+            "bột ngọt",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Bánh Canh Cá Lóc Chiên",
+        "ingredients": [
+            "file cá lóc",
+            "chả cá hấp/chiên",
+            "cải",
+            "sắn",
+            "hành tây",
+            "xương gà / heo",
+            "bánh canh gạo hoặc bánh canh xắt",
+            "giá",
+            "rau đắng",
+            "cải",
+            "hành hẹ ngò",
+            "mắm mặn",
+            "chanh ớt",
+            "bột nghệ",
+            "bột chiên giòn"
+        ]
+    },
+    {
+        "name": "Bánh canh Nam Phổ sườn non",
+        "ingredients": [
+            "bột gạo",
+            "bột năng",
+            "sườn non",
+            "tôm tươi",
+            "giò sống",
+            "hành",
+            "ngò rí",
+            "chanh",
+            "tỏi",
+            "ớt",
+            "hạt nêm",
+            "nước mắm",
+            "tiêu",
+            "muối",
+            "đường",
+            "màu hạt điều",
+            "mắm ruốc",
+            "dầu ăn",
+            "hành tỏi băm nhỏ"
+        ]
+    },
+    {
+        "name": "Bánh canh ghẹ chả cá",
+        "ingredients": [
+            "xương heo",
+            "nước",
+            "bột gạo",
+            "bột năng",
+            "thịt càng ghẹ",
+            "chả cá",
+            "nấm",
+            "vỏ tôm cho ngọt nước",
+            "cà rốt",
+            "cải trắng",
+            "hành lá",
+            "hành",
+            "rau răm",
+            "chanh",
+            "ớt",
+            "dầu màu điều"
+        ]
+    },
+    {
+        "name": "Bánh canh CUA 🦀",
+        "ingredients": [
+            "cua biển gr",
+            "giò heo trước",
+            "nấm rơm búp",
+            "bánh canh bột lọc",
+            "hành tím",
+            "màu dầu điều",
+            "bột năng",
+            "hành ngò cắt nhỏ",
+            "ớt xay",
+            "tiêu",
+            "chanh",
+            "gia vị: nước mắm",
+            "hạt nêm",
+            "đường",
+            "bột ngọt nếu thích"
+        ]
+    },
+    {
+        "name": "SP.0988 - Bánh Canh Tôm Thịt Miền Tây",
+        "ingredients": [
+            "nước hầm xương",
+            "thịt ba rọi",
+            "tôm sú",
+            "nước cốt dừa",
+            "bánh canh bột gạo",
+            "tỏi",
+            "ngò gai",
+            "hành ngò rí",
+            "gốc hành lá",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Bánh canh chả cá,chả cua",
+        "ingredients": [
+            "xương ống heo",
+            "cải trắng",
+            "chả cá nhồng chả cá nhồng chiên",
+            "chả cua"
+        ]
+    },
+    {
+        "name": "Bánh xèo Miền Trung",
+        "ingredients": [
+            "vỏ bánh xèo",
+            "bột gạo tài kí",
+            "bột chiên giòn",
+            "muối",
+            "hạt nêm",
+            "nước lọc",
+            "soda",
+            "cốt dừa lon",
+            "trứng gà",
+            "bột nghệ",
+            "bột đâụ nành",
+            "đồ chua",
+            "cà rốt",
+            "cải trắng",
+            "me vắt",
+            "nước",
+            "muối",
+            "giấm gạo",
+            "đường",
+            "nước lọc",
+            "thịt bò",
+            "mực",
+            "bạch tuột",
+            "đường thốt nốt",
+            "tuong ot cholimex",
+            "nước măm nam ngư:",
+            "nước lọc",
+            "đường cát",
+            "tôm",
+            "giá đỗ"
+        ]
+    },
+    {
+        "name": "Bánh xèo",
+        "ingredients": [
+            "gạo",
+            "bột chiên giòn",
+            "tôm nhảy",
+            "thịt ba chỉ",
+            "rau sống",
+            "chuối",
+            "khế",
+            "giá đỗ",
+            "chanh",
+            "hành",
+            "hành lá",
+            "bánh tráng cuốn",
+            "gia vị: muối",
+            "nghệ bột",
+            "nước mắm",
+            "đường",
+            "tỏi",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Bánh đa cua hải sản",
+        "ingredients": [
+            "cua đồng",
+            "cá thu",
+            "bề bề bóc nõn",
+            "mộc nhĩ",
+            "cà chua",
+            "me",
+            "hành khô",
+            "gia vị",
+            "rau cải đắng hoặc cải ngọt",
+            "bánh đa đỏ tươi",
+            "nếu không có thì dùng bánh đa khô nhen!"
+        ]
+    },
+    {
+        "name": "Bê Thui Bóp Thấu",
+        "ingredients": [
+            "thịt bê thui",
+            "khế chua",
+            "chuối chát",
+            "hành tây",
+            "hành tím",
+            "ớt sừng",
+            "ớt hiểm",
+            "vừng rang",
+            "hoặc chanh",
+            "mắm tỏi ớt",
+            "các loại rau thơm gồm: mùi tàu",
+            "húng quế",
+            "rau răm"
+        ]
+    },
+    {
+        "name": "Bún thịt nướng và nem lụi",
+        "ingredients": [
+            "nguyên liệu",
+            "cách làm thịt nướng bất lại trong link này ạ thịt nướng",
+            "nem lụi bọc sả",
+            "giò sống",
+            "thịt heo xay",
+            "sả",
+            "hành tím",
+            "tỏi băm nhỏ",
+            "dầu hào",
+            "hạt nêm",
+            "đường"
+        ]
+    },
+    {
+        "name": "Ram cuốn cải",
+        "ingredients": [
+            "thịt xay",
+            "môn nhỏ",
+            "nấm mèo",
+            "cà rốt",
+            "hành lá",
+            "ngò tây",
+            "tiêu",
+            "tỏi",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Mít trộn",
+        "ingredients": [
+            "mít non cỡ bàn tay",
+            "tôm đất",
+            "g thịt ba rọi nhỏ",
+            "rau răm",
+            "hành tây nhỏ",
+            "đậu phộng",
+            "mắm",
+            "đường",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Cao Lầu Hội an",
+        "ingredients": [
+            "cao lầu khô",
+            "bánh bì khô",
+            "sườn non chay",
+            "nấm đùi gà",
+            "lá tàu hủ ky tưoi",
+            "ngũ vị hương",
+            "coca",
+            "nước dừa tươi",
+            "hạt nêm",
+            "đường",
+            "nước tương",
+            "giá đỗ",
+            "bắp chuối",
+            "húng lũi",
+            "tỏi hành băm nhuyễn"
+        ]
+    },
+    {
+        "name": "Hoành thánh chiên (món chay)",
+        "ingredients": [
+            "bắp mỹ",
+            "nấm kim châm",
+            "nấm mèo",
+            "cà rốt",
+            "hoành thánh",
+            "hạt nêm chay",
+            "bột ngọt",
+            "tiêu",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Hoành thánh nước",
+        "ingredients": [
+            "hoành thánh lá",
+            "thịt heo bằm",
+            "trứng gà",
+            "nấm mèo băm",
+            "hạt nêm",
+            "mcf tiêu",
+            "hành tím băm",
+            "xương"
+        ]
+    },
+    {
+        "name": "Bánh BÈO tôm chấy",
+        "ingredients": [
+            "▪︎ phần tôm chấy",
+            "tôm sú",
+            "▪︎ phần bột bánh bèo",
+            "bột gạo",
+            "bột năng",
+            "muối",
+            "dầu ăn",
+            "nước lọc",
+            "nước sôi",
+            "ăn kèm: nước mắm tôm",
+            "tôm chấy",
+            "hành tím phi"
+        ]
+    },
+    {
+        "name": "Bánh Nậm Chay",
+        "ingredients": [
+            "bột bánh",
+            "bột gạo",
+            "nước",
+            "muối",
+            "dầu ăn",
+            "nhân bánh",
+            "nấm đùi gà",
+            "nấm mèo đã ngâm nở",
+            "cà rốt",
+            "đậu hũ xay nhuyễn",
+            "hành lá cắt nhỏ",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bánh gói khoai tím",
+        "ingredients": [
+            "đậu xanh",
+            "khoai tím",
+            "bột gạo",
+            "bột năng",
+            "đường",
+            "muối",
+            "nước cốt dừa"
+        ]
+    },
+    {
+        "name": "Bánh bột lọc",
+        "ingredients": [
+            "tép nhỏ",
+            "thịt ba rọi",
+            "bột năng",
+            "nước",
+            "tỏi",
+            "hành lá",
+            "hành tím",
+            "bột nêm",
+            "đường",
+            "tiêu",
+            "đường",
+            "nước mắm",
+            "nước tắc",
+            "tỏi xay",
+            "ớt xay"
+        ]
+    },
+    {
+        "name": "Bánh Bột Lọc Trần Phiên Bản Bánh Tráng",
+        "ingredients": [
+            "bánh tráng",
+            "tôm đất",
+            "thịt ba rọi",
+            "hành tím băm",
+            "tỏi băm",
+            "ớt sừng băm",
+            "hành lá",
+            "hạt nêm",
+            "bột ngọt",
+            "tiêu",
+            "dầu màu điều",
+            "nước mắm",
+            "đường",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bánh RAM - ÍT",
+        "ingredients": [
+            "▪︎phần bột bánh",
+            "bột nếp",
+            "bột khoai tây",
+            "muối",
+            "dầu ăn",
+            "nước sôi",
+            "▪︎nhân bánh",
+            "tôm tươi",
+            "thịt ba rọi nhiều mỡ",
+            "hành tím khô",
+            "gia vị:",
+            "hạt nêm",
+            "nước mắm",
+            "đường",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Bánh đập (Bánh chập)",
+        "ingredients": [
+            "bánh tráng",
+            "bánh ướt",
+            "mắm nêm",
+            "thơm",
+            "đường",
+            "bột ngọt",
+            "tỏi",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Bánh Cuốn Bằng Bánh Tráng",
+        "ingredients": [
+            "bánh tráng gạo",
+            "thịt heo xay có mỡ",
+            "mộc nhĩ băm",
+            "nước mắm chua ngọt",
+            "hành phi",
+            "rau xà lách",
+            "rau thơm"
+        ]
+    },
+    {
+        "name": "Bánh tráng kẹp chả cá",
+        "ingredients": [
+            "chả cá",
+            "nạc xay",
+            "bánh tráng nem",
+            "bột nêm",
+            "tiêu",
+            "hành",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Cháo vịt",
+        "ingredients": [
+            "gạo",
+            "vịt",
+            "hành tím phi vàng",
+            "hành tím băm nhỏ",
+            "mắm",
+            "muối",
+            "đường",
+            "bột canh",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Cháo gà",
+        "ingredients": [
+            "ức gà",
+            "gạo",
+            "rau răm",
+            "hành",
+            "gừng",
+            "hành tây",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Cháo lòng",
+        "ingredients": [
+            "gan heo",
+            "tim gà",
+            "xương heo",
+            "trứng thảo",
+            "gạo",
+            "nắm gạo nếp",
+            "đậu lăng",
+            "gia vị",
+            "hành ngò rau răm",
+            "tiêu",
+            "hành tím",
+            "hành tây",
+            "hành phi"
+        ]
+    },
+    {
+        "name": "Cháo nghêu Hội An",
+        "ingredients": [
+            "nghêu trắng",
+            "xương heo",
+            "gạo tẻ",
+            "nắm đậu xanh",
+            "hành phi",
+            "hành lá",
+            "ớt tươi xay",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Cháo nghêu Hội An",
+        "ingredients": [
+            "nghêu trắng",
+            "xương heo",
+            "gạo tẻ",
+            "nắm đậu xanh",
+            "hành phi",
+            "hành lá",
+            "ớt tươi xay",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Cháo lươn Nghệ An 😍",
+        "ingredients": [
+            "hộp lươn đã xào sẵn theo công thức gia truyền",
+            "cấp đông chuyển từ vinh ra",
+            "nồi cháo trắng",
+            "hành lá",
+            "mùi tàu",
+            "rau thơm",
+            "chanh",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Giò cháo quẩy",
+        "ingredients": [
+            "bột mì đa dụng",
+            "baking powder",
+            "baking soda",
+            "đường",
+            "muối",
+            "nước",
+            "dầu ăn",
+            "dầu dừa dùng để chiên"
+        ]
+    },
+    {
+        "name": "Cháo sườn sụn pha-ke 🤣",
+        "ingredients": [
+            "bông cải",
+            "sườn non",
+            "nấm rơm or đông cô",
+            "máy xay sinh tố",
+            "hành lá",
+            "bơ"
+        ]
+    },
+    {
+        "name": "Cháo lươn đậu xanh",
+        "ingredients": [
+            "lươn",
+            "gạo",
+            "đậu xanh",
+            "hành lá",
+            "giá đỗ",
+            "gia vị: tiêu xay",
+            "gừng",
+            "đường",
+            "muối",
+            "hạt nêm…"
+        ]
+    },
+    {
+        "name": "Bún bò (phiên bản nhà làm 🤤)",
+        "ingredients": [
+            "chân giò",
+            "bắp bò",
+            "bún",
+            "hành tây",
+            "gừng",
+            "tép sả",
+            "hành tím",
+            "sả",
+            "tỏi băm nhuyễn",
+            "gốc ngò rí",
+            "đường phèn",
+            "muối",
+            "hạt nêm",
+            "gia vị phở bò",
+            "mắm tôm",
+            "dầu điều"
+        ]
+    },
+    {
+        "name": "Bún mắm nêm",
+        "ingredients": [
+            "thịt mũi",
+            "tai heo",
+            "lạc nhân",
+            "đậu nhỏ",
+            "bún",
+            "rau ghém các loại",
+            "hành khô",
+            "rễ mùi",
+            "tiêu xanh",
+            "gia vị",
+            "pha mắm nêm:",
+            "mắm nêm",
+            "tỏi",
+            "ớt",
+            "dứa",
+            "đường"
+        ]
+    },
+    {
+        "name": "Mì quảng sườn non dzét tủ lạnh",
+        "ingredients": [
+            "súp",
+            "hành tím băm",
+            "dầu ăn",
+            "nước gà",
+            "đường phèn",
+            "bột nêm nấm",
+            "muối",
+            "dầu điều",
+            "thịt",
+            "thịt bò cắt mỏng",
+            "sườn đã sơ chế",
+            "bột nghệ",
+            "đường",
+            "nước mắm",
+            "muối",
+            "tiêu",
+            "khác",
+            "mì quảng dài đã luộc chín",
+            "bắp cải cắt sợi",
+            "hành lá cắt nhỏ",
+            "đậu phọng rang"
+        ]
+    },
+    {
+        "name": "Bánh Canh Giò Heo",
+        "ingredients": [
+            "chân giò cắt khoanh",
+            "bò viên",
+            "da heo",
+            "bánh huyết vịt",
+            "trứng cút",
+            "mỡ heo",
+            "bánh canh",
+            "hành lá",
+            "ngò rí",
+            "ớt xay",
+            "tiêu xay",
+            "hành tỏi phi",
+            "cải thảo khô",
+            "nước",
+            "hạt nêm",
+            "muối",
+            "đường"
+        ]
+    },
+    {
+        "name": "BÁNH BÈO từ gạo xay",
+        "ingredients": [
+            "gạo cũ loại nở xốp",
+            "nước",
+            "muối",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bánh bột lọc chiên nhân ngọt",
+        "ingredients": [
+            "nhân đậu đen",
+            "bột năng"
+        ]
+    },
+    {
+        "name": "Cá nục hấp cuốn bánh tráng",
+        "ingredients": [
+            "cá nục",
+            "hành lá",
+            "tiêu",
+            "hạt nêm",
+            "nước mắm ngon",
+            "đường",
+            "chanh",
+            "tỏi giã ớt"
+        ]
+    },
+    {
+        "name": "Ram Tôm Đất Bình Định Cuốn Bánh Tráng Rau Sống",
+        "ingredients": [
+            "ram tôm đất nhỏ",
+            "nước mắm tỏi ớt/ mắm me",
+            "rau sống các loại: dưa leo",
+            "xà lách",
+            "diếp cá",
+            "húng lủi",
+            "rau thơm các loại",
+            "bánh tráng mỏng"
+        ]
+    },
+    {
+        "name": "Bún xào hến",
+        "ingredients": [
+            "hến",
+            "bún",
+            "rau răm",
+            "sả",
+            "hành",
+            "tỏi",
+            "mắm",
+            "xì dầu",
+            "mì chính",
+            "tiêu",
+            "ớt",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Bánh cuốn nóng bột tự pha",
+        "ingredients": [
+            "bột gạo",
+            "bột năng",
+            "thịt xay",
+            "nấm mèo",
+            "hành tây",
+            "hành phi",
+            "giò chả",
+            "pate",
+            "rau thơm",
+            "giá",
+            "dưa leo 🥒",
+            "gia vị: nước mắm",
+            "đường",
+            "muối",
+            "dầu ăn",
+            "tỏi",
+            "ớt",
+            "giấm"
+        ]
+    },
+    {
+        "name": "Bún Bò Huế với gói gia vị nêm sẵn/ Vietnam Beef Noodle homemade",
+        "ingredients": [
+            "gia vị ajiquick bún bò huế",
+            "bún khô",
+            "giò heo hoặc cái đuôi heo",
+            "bò tái",
+            "bò bắp",
+            "sả",
+            "hành",
+            "carrot",
+            "hành tím",
+            "cải trắng",
+            "muối",
+            "hành lá & hành sắt khoanh mỏng",
+            "rau quế",
+            "ớt khô",
+            "chanh",
+            "nước mắm"
+        ]
+    },
+    {
+        "name": "Bún riêu ốc",
+        "ingredients": [
+            "bún tươi",
+            "ốc bươu",
+            "cua đồng xay lược vỏ",
+            "sườn non",
+            "cà chua",
+            "cải trắng",
+            "nấm",
+            "tôm khô ngâm mềm",
+            "thịt nạc xay",
+            "trứng",
+            "gia vị: me",
+            "mắm tôm",
+            "hạt điều",
+            "hành ngò",
+            "tiêu chanh",
+            "hành tây",
+            "rau"
+        ]
+    },
+    {
+        "name": "Bánh Chưng Chiên",
+        "ingredients": [
+            "bánh chưng",
+            "dầu ăn",
+            "dưa món",
+            "chà bông",
+            "đoạn màng bọc thực phẩm"
+        ]
+    },
+    {
+        "name": "Bánh Giò Chén Từ Chén Cơm Nóng",
+        "ingredients": [
+            "cơm nóng",
+            "nước dùng gà",
+            "bột năng",
+            "gạo",
+            "thịt xay",
+            "nấm hương",
+            "nấm mèo",
+            "trứng cút",
+            "hành phi",
+            "hành lá",
+            "hành tím tỏi băm"
+        ]
+    },
+    {
+        "name": "Bún chả Hà Nội (chuẩn vị)",
+        "ingredients": [
+            "nước chấm",
+            "cà rốt 🥕",
+            "hành 🧅",
+            "su hào",
+            "chanh 🍋",
+            "nước mắm",
+            "đường",
+            "tỏi bằm",
+            "ớt bằm",
+            "chả nem",
+            "thịt vai heo bằm",
+            "tôm bằm",
+            "giá đỗ",
+            "đậu",
+            "cà rốt",
+            "su hào",
+            "nấm hương",
+            "mộc nhĩ",
+            "hành lá",
+            "trứng",
+            "hạt nêm",
+            "nuóc mắm",
+            "tiêu",
+            "nem nướng",
+            "thịt vai bằm",
+            "dầu hào",
+            "mật ong",
+            "nước mắm",
+            "bột ngọt",
+            "tiêu",
+            "tỏi băm",
+            "hành băm"
+        ]
+    },
+    {
+        "name": "Mì quảng ếch",
+        "ingredients": [
+            "ếch làm sạch",
+            "nghệ tươi",
+            "mì quảng",
+            "hành khô",
+            "nén",
+            "mắm",
+            "muối",
+            "dầu phộng",
+            "ớt bột",
+            "hành lá",
+            "chanh",
+            "ớt mọi",
+            "đậu phộng rang",
+            "rau sống",
+            "búp chuối",
+            "bánh tráng nướng"
+        ]
+    },
+    {
+        "name": "Chíp chíp hấp sả",
+        "ingredients": [
+            "chíp chíp",
+            "sả",
+            "tỏi vừa",
+            "ớt xanh",
+            "chanh",
+            "rau quế",
+            "muối",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Nghêu hấp Thái",
+        "ingredients": [
+            "nghêu",
+            "sốt thái",
+            "sả",
+            "ớt hiểm",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Ốc Hương Rang Muối Ớt (Đông Tuyết)",
+        "ingredients": [
+            "bột ngọt",
+            "đường",
+            "muối",
+            "ớt xay",
+            "nước",
+            "ốc hương"
+        ]
+    },
+    {
+        "name": "Ốc hương xào bơ tỏi",
+        "ingredients": [
+            "ốc hương đã ngâm rửa sạch",
+            "ăn canh bơ",
+            "ăn canh tỏi băm",
+            "gia vị: hạt nêm",
+            "tiêu",
+            "đường",
+            "nước mắm",
+            "ớt sate",
+            "nước chấm: muối",
+            "tiêu",
+            "nửa ăn canh đường",
+            "sate",
+            "nước cốt tắc",
+            "ớt to dằm nát",
+            "ít rau răm cắt nhuyễn"
+        ]
+    },
+    {
+        "name": "Ốc hương 2 món: hấp sả & xào tỏi",
+        "ingredients": [
+            "ốc hương",
+            "sả",
+            "tỏi",
+            "rau răm",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Ốc móng tay xào rau muống",
+        "ingredients": [
+            "ốc móng tay",
+            "rau muống",
+            "tỏi",
+            "hành"
+        ]
+    },
+    {
+        "name": "Ốc móng tay xào rau muống sốt mắm me",
+        "ingredients": [
+            "ốc móng tay",
+            "rau muống",
+            "me",
+            "tỏi xay",
+            "ớt xay",
+            "gừng",
+            "đường",
+            "nước mắm hạt nêm",
+            "mỡ heo"
+        ]
+    },
+    {
+        "name": "Ốc Đinh(ốc Dùi) xào sả ớt đặm đà",
+        "ingredients": [
+            "ốc",
+            "sả",
+            "ớt cay",
+            "lá chanh hoặc lá bưởi",
+            "lá quất",
+            "gia vị :",
+            "bột nêm",
+            "súp",
+            "đường",
+            "nước"
+        ]
+    },
+    {
+        "name": "Ốc Bươu Hấp Sả",
+        "ingredients": [
+            "ốc bươu",
+            "sả",
+            "chanh",
+            "ớt băm",
+            "gừng giã nhuyễn",
+            "tỏi băm",
+            "nước mắm",
+            "đường",
+            "bột ngọt",
+            "muối"
+        ]
+    },
+    {
+        "name": "Ốc Len Xào Dừa",
+        "ingredients": [
+            "ốc len",
+            "nước cốt dừa đặc",
+            "nước cốt dừa loãng",
+            "rau răm",
+            "ớt",
+            "sả",
+            "sả băm",
+            "dầu ăn",
+            "tỏi băm",
+            "muối",
+            "bột ngọt",
+            "đường",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Sò điệp nướng mỡ hành",
+        "ingredients": [
+            "sò điệp",
+            "hành",
+            "tỏi",
+            "xả",
+            "gừng",
+            "lạc",
+            "nước mắm",
+            "đường",
+            "muối",
+            "giấm",
+            "bột nêm"
+        ]
+    },
+    {
+        "name": "Sò huyết rang me",
+        "ingredients": [
+            "sò huyết",
+            "nước cốt me",
+            "muỗng cafe nước mắm",
+            "muỗng cafe tương ớt",
+            "muỗng cafe tương cà",
+            "muỗng canh đường",
+            "dầu ăn",
+            "rau răm",
+            "ớt trái",
+            "tỏi băm nhỏ",
+            "đậu phộng rang giã nhỏ"
+        ]
+    },
+    {
+        "name": "Sò dẹo, sò lông nướng mỡ hành",
+        "ingredients": [
+            "sò dẹo",
+            "lông",
+            "nước chấm",
+            "nước mắm loãng",
+            "mỡ hành",
+            "đậu phộng"
+        ]
+    },
+    {
+        "name": "Sò Lụa Hấp Sả",
+        "ingredients": [
+            "sò lụa",
+            "sả",
+            "hạt nêm",
+            "bia"
+        ]
+    },
+    {
+        "name": "Vẹm Xanh Nướng Mỡ Hành",
+        "ingredients": [
+            "vẹm xanh",
+            "hành lá",
+            "dầu ăn",
+            "tỏi",
+            "hành phi sẵn",
+            "gia vị",
+            "đường",
+            "bột canh",
+            "bột ngọt",
+            "muối"
+        ]
+    },
+    {
+        "name": "Mực nướng sa tế bằng nckd",
+        "ingredients": [
+            "mực",
+            "sả",
+            "ớt",
+            "hành khô",
+            "tỏi",
+            "sa tế",
+            "tương ớt",
+            "mì chính",
+            "đường",
+            "muối tôm tây ninh",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Mực trứng chiên nước mắm",
+        "ingredients": [
+            "mực trứng hấp",
+            "tỏi",
+            "ớt",
+            "đường"
+        ]
+    },
+    {
+        "name": "Mực nướng sa tế (nồi chiên không dầu)",
+        "ingredients": [
+            "mực nang làm sạch khứa chéo",
+            "tỏi băm",
+            "bột nêm",
+            "bột ớt",
+            "sa tế"
+        ]
+    },
+    {
+        "name": "Bạch tuộc nướng sa tế",
+        "ingredients": [
+            "bạch tuộc",
+            "ớt sa tế",
+            "gừng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Răng mực xào bơ tỏi",
+        "ingredients": [
+            "răng mực",
+            "tỏi băm",
+            "bơ lạt",
+            "hạt nêm",
+            "đường"
+        ]
+    },
+    {
+        "name": "Mực xào thập cẩm",
+        "ingredients": [
+            "mực",
+            "dứa",
+            "hành tây",
+            "cần tây",
+            "dưa leo",
+            "cà chua",
+            "tỏi"
+        ]
+    },
+    {
+        "name": "Mực chiên giòn sốt chua ngọt",
+        "ingredients": [
+            "mực tẩm bột mua sẵn",
+            "hành tây",
+            "cà chua",
+            "hành lá",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Tôm Sú Hấp Bia",
+        "ingredients": [
+            "tôm sú",
+            "sả",
+            "muối",
+            "bia",
+            "rau ăn kèm: xà lách",
+            "cà chua",
+            "rau thơm"
+        ]
+    },
+    {
+        "name": "Bề bề rang muối",
+        "ingredients": [
+            "bề bề",
+            "sả",
+            "ớt sừng",
+            "hành khô",
+            "dầu ăn",
+            "muối tiêu"
+        ]
+    },
+    {
+        "name": "Tôm xóc bơ tỏi cho bé ăn dặm",
+        "ingredients": [
+            "tôm đất",
+            "bơ",
+            "tỏi băm hoặc bột tỏi",
+            "nồi chiên không dầu"
+        ]
+    },
+    {
+        "name": "Tôm hùm nướng phô mai",
+        "ingredients": [
+            "tôm",
+            "phômai bò cười",
+            "creamchess",
+            "bơ tường an nhỏ",
+            "bột mì hoặc bột bắp",
+            "sữa tươi không đường",
+            "phomai sợi",
+            "hành trắng",
+            "lá ngò rí",
+            "hạt nêm hải sản",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Bào Ngư, Sò Điệp, Vẹm Xanh, Ốc Bulot, Tôm Hùm Đất- Sốt Cajun Bơ Tỏi",
+        "ingredients": [
+            "tôm hùm đất",
+            "vẹm xanh",
+            "sò điệp",
+            "bào ngư",
+            "ốc bulot",
+            "bắp mỹ",
+            "bột cajun",
+            "ớt bột cayenne",
+            "bột ngọt",
+            "tỏi bằm nhỏ",
+            "bơ lạt",
+            "cam",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Tôm hùm nướng bơ tỏi",
+        "ingredients": [
+            "tôm",
+            "bơ",
+            "tỏi",
+            "bột canh",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Cua rang me",
+        "ingredients": [
+            "cua",
+            "tỏi",
+            "hành lá",
+            "hành tím",
+            "me"
+        ]
+    },
+    {
+        "name": "Cua rang muối Hong Kong",
+        "ingredients": [
+            "cua thịt hoặc cua gạch",
+            "bột chiên khô",
+            "bột chiên xù",
+            "chà bông",
+            "tôm khô",
+            "hạt điều",
+            "bột nêm",
+            "muối ớt hoặc muối tôm",
+            "tiêu",
+            "tỏi",
+            "hành tây"
+        ]
+    },
+    {
+        "name": "Cua huỳnh đế hấp",
+        "ingredients": [
+            "cua huỳnh đế",
+            "nhánh gừng",
+            "vài sả",
+            "lòng trắng trứng",
+            "hành",
+            "muối",
+            "hạt tiêu"
+        ]
+    },
+    {
+        "name": "Ghẹ hấp nước dừa",
+        "ingredients": [
+            "ghẹ sống",
+            "dừa tươi",
+            "muối ớt xanh"
+        ]
+    },
+    {
+        "name": "Cua Ghẹ rang me",
+        "ingredients": [
+            "ghẹ to hoặc cua",
+            "rau cắt hạt lựu",
+            "nguyên liệu sốt me",
+            "me chín",
+            "nước lọc",
+            "đường cát",
+            "tương ớt",
+            "hủ tương ok",
+            "nước mắm",
+            "bột gà knorr",
+            "xí muội thái lan ngâm với g nước sôi",
+            "bỏ hạt",
+            "xay nhuyễn",
+            "ớt hiểm hoặc ớt sừng băm",
+            "tỏi băm",
+            "hành tím băm"
+        ]
+    },
+    {
+        "name": "Miến Xào Tôm Cua",
+        "ingredients": [
+            "thịt cua biển",
+            "tôm càng xanh hấp chín bỏ vỏ",
+            "thịt băm xào chín",
+            "miến",
+            "hành tỏi băm",
+            "cà rốt bào sợi",
+            "rau cần tàu cắt khúc",
+            "hành lá cắt khúc",
+            "ngò rí",
+            "sốt xào miến",
+            "nước tương",
+            "dầu hào",
+            "dầu tỏi phi",
+            "đường"
+        ]
+    },
+    {
+        "name": "Cá mú hấp xì dầu",
+        "ingredients": [
+            "cá mú",
+            "gừng",
+            "rượu trắng",
+            "hành lá",
+            "thì là",
+            "đường",
+            "xì dầu",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Cá đuối nướng sả",
+        "ingredients": [
+            "cá đuối",
+            "sả",
+            "nghệ tươi",
+            "rau sống hỗn hợp",
+            "muối ớt hoặc mắm nêm",
+            "đậu phộng rang",
+            "hành phi",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Cá Dìa Nướng Muối Ớt",
+        "ingredients": [
+            "cá dìa đen",
+            "hành tím",
+            "muối",
+            "bột ngọt",
+            "ớt sừng hoặc",
+            "lá chuối"
+        ]
+    },
+    {
+        "name": "Cá chìa vôi nướng muối ớt",
+        "ingredients": [
+            "cá chìa vôi",
+            "sả",
+            "nghệ tươi",
+            "ớt",
+            "muối ớt xanh",
+            "rau sống",
+            "bánh tráng cuốn",
+            "chanh",
+            "tỏi",
+            "ớt",
+            "mắm nêm",
+            "gia vị:",
+            "muối",
+            "hạt nêm",
+            "đường",
+            "dầu"
+        ]
+    },
+    {
+        "name": "Cá nục hấp cuốn bánh tráng",
+        "ingredients": [
+            "cá nục",
+            "hành lá",
+            "tiêu",
+            "hạt nêm",
+            "nước mắm ngon",
+            "đường",
+            "chanh",
+            "tỏi giã ớt"
+        ]
+    },
+    {
+        "name": "Cá hấp xì dầu bao ngon",
+        "ingredients": [
+            "cá tráp hoặc cá diêu hồng tuỳ loại theo sở thích",
+            "gừng",
+            "hành lá",
+            "ngò",
+            "mùi",
+            "cà rốt",
+            "xì dầu",
+            "dầu hào",
+            "muối",
+            "tiêu",
+            "đường"
+        ]
+    },
+    {
+        "name": "Gỏi Sứa Trộn Dưa Rau Muống",
+        "ingredients": [
+            "chân sứa",
+            "dưa rau muống chua ngọt",
+            "rau mùi : ngò gai",
+            "rau răm",
+            "rau thơm",
+            "mắm tỏi ớt"
+        ]
+    },
+    {
+        "name": "Gỏi Cá Trích Cuộn Bánh Tráng",
+        "ingredients": [
+            "filet cá trích tươi",
+            "dừa nạo",
+            "hành tím bào mỏng",
+            "đậu phộng rang giã nhuyễn",
+            "hành phi",
+            "bánh tráng",
+            "giấm gạo",
+            "rau sống các loại",
+            "gia vị: nước mắm",
+            "tỏi ớt đâm",
+            "đường",
+            "chanh…"
+        ]
+    },
+    {
+        "name": "Nhum nướng mỡ hành",
+        "ingredients": [
+            "nhum",
+            "hành lá",
+            "trứng cút",
+            "đậu phộng",
+            "dầu ăn",
+            "mayonelisa"
+        ]
+    },
+    {
+        "name": "Lẩu Thái Chua Cay Hải Sản 🦐 🐟 🥬",
+        "ingredients": [
+            "nghêu hoa",
+            "tôm càng xanh",
+            "tôm thẻ loại to",
+            "cá giò",
+            "nước lẩu",
+            "sả",
+            "cà chua",
+            "hành tây",
+            "tỏi",
+            "hành",
+            "me",
+            "ớt khô",
+            "gia vị: nước mắm",
+            "bột ngọt",
+            "đường",
+            "bột nêm",
+            "rau nhúm lẩu",
+            "cần",
+            "cải",
+            "các loại nấm",
+            "bún",
+            "mì ăn kèm"
+        ]
+    },
+    {
+        "name": "Lẩu Đầu Cá Bớp Măng Chua",
+        "ingredients": [
+            "đầu cá bớp",
+            "cá bớp cắt lát",
+            "bạc hà",
+            "rau muống",
+            "măng chua",
+            "cà chua",
+            "sả",
+            "thơm",
+            "me",
+            "nước mắm",
+            "đường",
+            "lá ngò gai",
+            "hành tỏi băm",
+            "sả cắt khúc đập dập"
+        ]
+    },
+    {
+        "name": "Cháo Hàu Nấu Nấm Lộc Nhung",
+        "ingredients": [
+            "ruột hàu",
+            "gạo",
+            "tiêu xay",
+            "đầu hành lá",
+            "nấm lộc nhung",
+            "gừng nhỏ",
+            "mắm",
+            "muối hồng",
+            "bột ngọt"
+        ]
+    },
+    {
+        "name": "Gỏi rau, củ, quả và rong biển",
+        "ingredients": [
+            "bơ",
+            "táo",
+            "ớt chuông",
+            "lê",
+            "xà lách",
+            "húng quế",
+            "húng lủi",
+            "rau mùi",
+            "rong biển ăn liền",
+            "vừng rang",
+            "dầu olive",
+            "sốt mayonnaise",
+            "sốt trộn gỏi"
+        ]
+    },
+    {
+        "name": "Hàu nướng mỡ hành bằng nồi chiên không dầu",
+        "ingredients": [
+            "hàu sữa hàu to lắm",
+            "trứng cút",
+            "bơ tuỳ thích cho ít vào thơm thì mọi người cho",
+            "hành khô e ra chợ mua cho nhanh chiên hành lâu lắm các mẹ",
+            "lạc đập dập",
+            "hành lá",
+            "dầu ăn",
+            "muối tiêu tuỳ chỉnh"
+        ]
+    },
+    {
+        "name": "Cá chìa vôi nướng muối ớt",
+        "ingredients": [
+            "cá chìa vôi",
+            "sả",
+            "nghệ tươi",
+            "ớt",
+            "muối ớt xanh",
+            "rau sống",
+            "bánh tráng cuốn",
+            "chanh",
+            "tỏi",
+            "ớt",
+            "mắm nêm",
+            "gia vị:",
+            "muối",
+            "hạt nêm",
+            "đường",
+            "dầu"
+        ]
+    },
+    {
+        "name": "Cá đuối nướng sả",
+        "ingredients": [
+            "cá đuối",
+            "sả",
+            "nghệ tươi",
+            "rau sống hỗn hợp",
+            "muối ớt hoặc mắm nêm",
+            "đậu phộng rang",
+            "hành phi",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Tôm mũ ni nướng bơ tỏi",
+        "ingredients": [
+            "tôm mũ ni",
+            "bơ",
+            "tỏi"
+        ]
+    },
+    {
+        "name": "Ốc nhảy, sò dương bi hấp sả gừng",
+        "ingredients": [
+            "ốc nhảy",
+            "sò dương bi",
+            "sả",
+            "gừng",
+            "ớt",
+            "lá chanh",
+            "nước chấm hải sản"
+        ]
+    },
+    {
+        "name": "Cá Hanh nướng muối ớt",
+        "ingredients": [
+            "cá hanh",
+            "giấy bạc",
+            "ớt tươi",
+            "muối",
+            "bột ngọt",
+            "đường",
+            "tương ớt",
+            "dưa leo hoặc rau sống ăn kèm"
+        ]
+    },
+    {
+        "name": "Tôm Càng Lúa Nướng Mọi",
+        "ingredients": [
+            "tôm càng lúa",
+            "muối tiêu rang xay",
+            "chanh",
+            "rau răm"
+        ]
+    },
+    {
+        "name": "Tu Hài Nướng Mỡ Hành",
+        "ingredients": [
+            "tu hài",
+            "hành tây",
+            "hành hoa",
+            "hành khô bóc năm nhỏ",
+            "mỡ heo",
+            "bơ",
+            "mầu điều",
+            "gia vị nên mỳ chính"
+        ]
+    },
+    {
+        "name": "Gỏi Cá Trích Cuộn Bánh Tráng",
+        "ingredients": [
+            "filet cá trích tươi",
+            "dừa nạo",
+            "hành tím bào mỏng",
+            "đậu phộng rang giã nhuyễn",
+            "hành phi",
+            "bánh tráng",
+            "giấm gạo",
+            "rau sống các loại",
+            "gia vị: nước mắm",
+            "tỏi ớt đâm",
+            "đường",
+            "chanh…"
+        ]
+    },
+    {
+        "name": "Cơm chiên dứa hải sản",
+        "ingredients": [
+            "tôm sú",
+            "cà rốt",
+            "bí ngòi",
+            "dứa chín",
+            "lạp xưởng trứng muối",
+            "trứng gà",
+            "trắng"
+        ]
+    },
+    {
+        "name": "Bữa trưa hấp dẫn với cơm gà xối mỡ giòn rụm",
+        "ingredients": [
+            "cơm gà xối mỡ",
+            "canh bí xanh nấu rong biển tôm khô",
+            "cơm nghệ",
+            "dưa leo cà chua",
+            "dưa lê"
+        ]
+    },
+    {
+        "name": "Cơm đùi gà quay",
+        "ingredients": [
+            "đùi gà",
+            "ngũ vị hương",
+            "mật ong",
+            "tỏi băm",
+            "nước tương",
+            "hạt nêm",
+            "đường",
+            "tiêu",
+            "dầu hào",
+            "tương ớt chinsu",
+            "dầu ăn",
+            "gạo",
+            "nước"
+        ]
+    },
+    {
+        "name": "Cơm gà lười",
+        "ingredients": [
+            "gà làm sạch",
+            "gạo",
+            "lòng gà",
+            "rau bắp cải",
+            "hành khô",
+            "gừng",
+            "bột nghệ",
+            "gia vị cơ bản"
+        ]
+    },
+    {
+        "name": "Cơm hến mắm ruốc",
+        "ingredients": [
+            "thịt hến",
+            "bóng bì",
+            "cơm nguội hoặc bún",
+            "bạc hà",
+            "bắp chuối bào",
+            "đậu phộng rang",
+            "mắm ruốc huế",
+            "giá sống",
+            "rau răm",
+            "hành lá",
+            "hành sả băm",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Cơm tấm sườn bì chả và các món ăn kèm",
+        "ingredients": [
+            "sườn nướng",
+            "chả trứng",
+            "cơm tấm sườn bì chả",
+            "canh cải thìa nấu tôm",
+            "cá viên",
+            "bưởi hồng"
+        ]
+    },
+    {
+        "name": "Cơm tấm sườn nướng",
+        "ingredients": [
+            "gạo tấm",
+            "cốt lết",
+            "muối",
+            "dầu ăn",
+            "ướp sườn",
+            "nước mắm",
+            "hành bằm",
+            "tỏi bằm",
+            "hạt nêm",
+            "dầu điều",
+            "mật ong",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Cơm tấm thịt ba chỉ nướng",
+        "ingredients": [
+            "thịt ba chỉ",
+            "nước sauce nêm gourmet hay oyster",
+            "bột nêm",
+            "đường",
+            "tiêu",
+            "tỏi",
+            "mè"
+        ]
+    },
+    {
+        "name": "Cơm Tấm Sườn, Lạp Xưởng, Ốp La",
+        "ingredients": [
+            "thịt sườn cốc lết loại t- bone",
+            "lạp xưởng tiêu mai quế lộ",
+            "trứng gà",
+            "cà chua hoặc dưa leo ăn kèm",
+            "tỏi phi thơm",
+            "hành tím băm nhỏ",
+            "nước mắm ngon",
+            "sả bằm",
+            "nước tương",
+            "sữa đặc có đường",
+            "tiêu xay",
+            "bột cà ri hoặc bột nghệ",
+            "dầu ăn hoặc dầu olive"
+        ]
+    },
+    {
+        "name": "Cơm chiên hải sản",
+        "ingredients": [
+            "mực tươi",
+            "tôm tươi",
+            "đậu que",
+            "cà rốt",
+            "bắp hạt",
+            "hành lá",
+            "nguội",
+            "trứng gà ta",
+            "hành tím băm",
+            "dưa leo",
+            "ớt",
+            "hạt nêm",
+            "nước mắm",
+            "nước tương",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Cơm chiên dương châu",
+        "ingredients": [
+            "cơm trắng",
+            "trứng gà",
+            "đậu que",
+            "cà rốt",
+            "lạp xưởng"
+        ]
+    },
+    {
+        "name": "Cơm rang dưa bò: cơm trưa VP",
+        "ingredients": [
+            "thịt bò",
+            "cà chua",
+            "dưa cải chua",
+            "nguội",
+            "trứng",
+            "cà rốt",
+            "hành khô to",
+            "tỏi",
+            "dầu hào",
+            "mắm ngon",
+            "bột nêm",
+            "tiêu xay",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Cơm rang cá mặn",
+        "ingredients": [
+            "cơm",
+            "cá khô",
+            "trứng gà",
+            "tép hành",
+            "mc tỏi phi",
+            "mc bột năng"
+        ]
+    },
+    {
+        "name": "Cơm Chiên Trứng Lạp Xưởng Rau Củ",
+        "ingredients": [
+            "cơm trắng",
+            "rau đông lạnh",
+            "lạp xưởng",
+            "trứng gà",
+            "sữa tươi",
+            "đường",
+            "tiêu đen",
+            "dầu ăn",
+            "dầu mè",
+            "dầu hào",
+            "nước tương",
+            "tỏi",
+            "hành tím"
+        ]
+    },
+    {
+        "name": "Cơm niêu hải sản",
+        "ingredients": [
+            "cơm trắng",
+            "tôm",
+            "râu mực",
+            "bạch tuộc",
+            "hành tây",
+            "rau luộc ăn kèm",
+            "gia vị trộn cơm",
+            "dầu olive",
+            "bột nêm",
+            "gia vị cho nước sốt",
+            "nước tương",
+            "đường",
+            "dầu hào",
+            "bột năng"
+        ]
+    },
+    {
+        "name": "Cơm Ý mực đen",
+        "ingredients": [
+            "gia vị",
+            "dầu olive",
+            "tỏi đập dập cắt nhỏ",
+            "hành tây thái hạt lựu",
+            "bơ nhạt",
+            "rượu vang trắng",
+            "lá thơm ý",
+            "cà chua tuỳ kích thước cắt nhỏ dằm nhuyễn",
+            "phô mai chảy",
+            "topping",
+            "hải sản tuỳ chọn",
+            "túi mực của mực",
+            "mọi người có thể dùng túi mực trực tiếp từ mực tươi",
+            "gạo risotto",
+            "có thể thay bằng mỳ ý nếu mọi người đã có sẵn"
+        ]
+    },
+    {
+        "name": "Cá ba sa kho tộ",
+        "ingredients": [
+            "ớt 🌶️",
+            "nước mắm ngon",
+            "đầu hành lá",
+            "tiêu xay",
+            "dầu hào",
+            "tương ớt"
+        ]
+    },
+    {
+        "name": "Cá kèo chay kho tộ,sườn chay sốt mật ong,bắp cải luộc,củ cải muối",
+        "ingredients": [
+            "cá kèo chay :k",
+            "sườn chay lõi giò:k",
+            "bắp cải :k",
+            "cải muối :k"
+        ]
+    },
+    {
+        "name": "Ba chỉ rang cháy cạnh",
+        "ingredients": [
+            "thịt ba chỉ",
+            "mắm",
+            "đường",
+            "hành lá",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Thịt kho trứng sốt tiêu",
+        "ingredients": [
+            "thịt ba rọi",
+            "trứng gà",
+            "sốt tiêu đen phú quốc",
+            "hành tỏi băm",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Cuốn bánh tráng thịt luộc, tôm chua",
+        "ingredients": [
+            "thịt ba rọi",
+            "tôm chua huế",
+            "lạp xưởng",
+            "bánh tráng cuốn",
+            "chuối chát",
+            "dưa leo",
+            "xà lách",
+            "rau thơm"
+        ]
+    },
+    {
+        "name": "Sườn chua ngọt xào ớt chuông",
+        "ingredients": [
+            "sườn non",
+            "ớt chuông nhỏ",
+            "hành lá",
+            "tỏi",
+            "hành tím",
+            "hành lá",
+            "quất"
+        ]
+    },
+    {
+        "name": "Gà kho gừng",
+        "ingredients": [
+            "gà",
+            "gừng",
+            "hành tím",
+            "ớt",
+            "hành lá",
+            "ngò rí",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Bò lúc lắc khoai tây trứng",
+        "ingredients": [
+            "khoai tây",
+            "trứng gà",
+            "ớt chuông xanh",
+            "hành tây",
+            "dầu ăn",
+            "tỏi xay",
+            "bơ tường an",
+            "cà chua",
+            "thịt bò philê",
+            "nước lọc",
+            "sốt xào"
+        ]
+    },
+    {
+        "name": "Tôm rang muối",
+        "ingredients": [
+            "tôm đất tươi",
+            "muối",
+            "sả",
+            "lá chanh",
+            "vị tinh",
+            "mayonase",
+            "tương ớt"
+        ]
+    },
+    {
+        "name": "Trứng chiên thịt băm",
+        "ingredients": [
+            "trứng gà",
+            "thịt bằm",
+            "hành tím băm",
+            "hành lá",
+            "gia vị nêm: mắm",
+            "bột ngọt",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Trứng Đúc Thịt",
+        "ingredients": [
+            "thịt heo xay",
+            "nấm mèo đã ngâm nở",
+            "trứng gà",
+            "hành lá",
+            "nước mắm ngon",
+            "tiêu xay",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Trứng chiên hàu",
+        "ingredients": [
+            "ruột hàu sữa",
+            "trứng gà",
+            "hành lá",
+            "hành tím",
+            "hành tím",
+            "bơ tường an",
+            "dầu ăn",
+            "gia vị hạt nêm",
+            "tiêu",
+            "nước mắm"
+        ]
+    },
+    {
+        "name": "Đậu hũ nhồi thịt sốt cà chua",
+        "ingredients": [
+            "đậu",
+            "thịt băm",
+            "hành tím",
+            "tỏi",
+            "hành lá",
+            "hạt tiêu",
+            "cà chua",
+            "hành",
+            "gia vị",
+            "bột ngọt",
+            "mắm"
+        ]
+    },
+    {
+        "name": "Cơm cháy, kho quẹt chay",
+        "ingredients": [
+            "cơm nguội",
+            "nấm đùi gà",
+            "nấm hương hoặc nấm đông cô",
+            "nước tương",
+            "dầu hào",
+            "mạch nha",
+            "ớt bột hq",
+            "tương ớt hq",
+            "mật mía",
+            "nước",
+            "bột năng",
+            "hành khô",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Rau muống xào tóp mỡ",
+        "ingredients": [
+            "rau muống",
+            "mỡ phần",
+            "tỏi",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Bò xào lúc lắc",
+        "ingredients": [
+            "thịt bò",
+            "ớt chuông",
+            "hành tây",
+            "cần tây",
+            "tỏi",
+            "sốt ướp thịt bò",
+            "nước tương",
+            "dầu hào",
+            "tiêu",
+            "bột năng",
+            "dầu ăn",
+            "sốt nấu bò lúc lắc",
+            "nước tương",
+            "tương ớt",
+            "tương cà",
+            "dầu hào",
+            "đường",
+            "nước lọc",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Mực xào dứa, giá, hẹ",
+        "ingredients": [
+            "mực ống",
+            "dứa",
+            "hẹ",
+            "giá",
+            "cà rốt",
+            "hành tây"
+        ]
+    },
+    {
+        "name": "Thịt bằm xào nấm đông cô ăn với đậu hủ trắng",
+        "ingredients": [
+            "thịt nạc tùy khẩu phần ăn nhiều hay ít",
+            "đ nấm đông cô hoặc bất kỳ loại nấm nào bạn muốn",
+            "đậu hủ trắng",
+            "tiêu",
+            "muối",
+            "gia vị nêm nếm",
+            "nước lọc"
+        ]
+    },
+    {
+        "name": "Rau lang xào tỏi",
+        "ingredients": [
+            "rau lang",
+            "tỏi",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "🌱 Rau Khoai Lang Luộc",
+        "ingredients": [
+            "đọt khoai lang",
+            "muối hột",
+            "nước đủ để luộc rau"
+        ]
+    },
+    {
+        "name": "Bông thiên lý xào thịt bò",
+        "ingredients": [
+            "hoa thiên lý",
+            "thịt bò",
+            "tỏi băm",
+            "bơ tường an",
+            "hạt nêm",
+            "nước mắm",
+            "đường",
+            "dầu hào",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Khổ Qua Xào Trứng",
+        "ingredients": [
+            "khổ qua",
+            "trứng gà",
+            "dầu ăn",
+            "muối",
+            "tiêu xay",
+            "nước tương",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Cà Pháo Xanh Muối Xổi Mắm Tôm",
+        "ingredients": [
+            "cà pháo xanh",
+            "muối hột",
+            "mắm tôm",
+            "đường",
+            "chanh",
+            "bột ngọt",
+            "tỏi",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Canh chua cá lóc đồng nấu bông điên điển",
+        "ingredients": [
+            "cá lóc đồng gr",
+            "bông điên điển",
+            "giá",
+            "đậu bắp",
+            "đậu rồng",
+            "trái cà chua",
+            "thơm",
+            "ngò gai",
+            "rau ôm",
+            "chén nước cốt me",
+            "dầu ăn",
+            "nước mắm",
+            "bột ngọt",
+            "đường",
+            "hành tím băm nhỏ"
+        ]
+    },
+    {
+        "name": "Canh Ngao Nấu Dứa (Ngao Fake Bằng Vẹm Đen)",
+        "ingredients": [
+            "vẹm to đã gỡ thịt",
+            "cà chua",
+            "thơm",
+            "hành tím",
+            "tỏi",
+            "rau răm",
+            "viêm súp gà",
+            "nước mắm",
+            "đường"
+        ]
+    },
+    {
+        "name": "Canh khổ qua Nhồi Thịt",
+        "ingredients": [
+            "khổ qua",
+            "thịt nạc xay",
+            "nấm mèo",
+            "cà rốt",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Canh Cua Đồng Nấu Rau Đay, Mồng Tơi",
+        "ingredients": [
+            "cua đồng xay hoặc giã nát",
+            "rau đay",
+            "mồng tơi",
+            "hành lá",
+            "hành tím băm",
+            "hạt nêm",
+            "đường",
+            "bột ngọt",
+            "tiêu xay",
+            "tsbp dầu ăn"
+        ]
+    },
+    {
+        "name": "Canh Rau Ngót Thịt Băm",
+        "ingredients": [
+            "rau ngót",
+            "thịt heo băm",
+            "hành tím",
+            "nước",
+            "muối",
+            "nước mắm",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Canh bồ ngót Nhật và tôm mực",
+        "ingredients": [
+            "rau bồ ngót nhật",
+            "tôm",
+            "mực tươi",
+            "hành tím",
+            "tỏi băm",
+            "hành lá",
+            "gia vị: đường",
+            "muối",
+            "dầu ăn",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Canh mướp nấu nấm đùi gà và hạt sen",
+        "ingredients": [
+            "hạt sen",
+            "mướp nhỏ",
+            "nấm đùi gà",
+            "hành lá",
+            "mùi tàu",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Canh rau đay mướp nấu thịt xay",
+        "ingredients": [
+            "rau đay",
+            "mướp",
+            "thịt xay",
+            "gia vị",
+            "muối nêm mì gói"
+        ]
+    },
+    {
+        "name": "Cá nục kho cà “ cơm gia đình",
+        "ingredients": [
+            "cá nục loại nhỏ",
+            "cà chua",
+            "tương cà",
+            "nước dừa tươi",
+            "hành tím",
+            "gừng bé",
+            "hành lá",
+            "ớt",
+            "hạt nêm cơm",
+            "vá nước mắm",
+            "đường phèn"
+        ]
+    },
+    {
+        "name": "Cơm Tôm Thịt Nạc Rang & Rau Luộc Eat Clean",
+        "ingredients": [
+            "tôm",
+            "thịt nạc rang",
+            "cơm lứt trộn rong biển",
+            "giá đỗ",
+            "bắp cải tim luộc"
+        ]
+    },
+    {
+        "name": "Mực rim thịt ba chỉ (ba rọi) - cơm nưa",
+        "ingredients": [
+            "mực tươi",
+            "thịt ba chỉ",
+            "gia vị: nước mắm",
+            "tiêu",
+            "bột hành",
+            "đường",
+            "cơm nưa"
+        ]
+    },
+    {
+        "name": "Hộp cơm vui vẻ 4 (gà rang sả ớt, cải thảo xào tỏi, cơm trắng)",
+        "ingredients": [
+            "gà",
+            "sả băm",
+            "ớt",
+            "hành tím băm",
+            "gia vị cho món gà rang sả ớt",
+            "cải thảo",
+            "tỏi",
+            "gia vị cho món cải thảo xào tỏi"
+        ]
+    },
+    {
+        "name": "Cơm ngon nhà Huý 🏡: Mực dồn thịt sốt cà - Canh mồng tơi, rau dền, mướp nấu thịt, mọc",
+        "ingredients": [
+            "mực ống",
+            "thịt nạc xay",
+            "mọc",
+            "mộc nhĩ",
+            "cà chua",
+            "mồng tơi",
+            "rau dền",
+            "mướp",
+            "đường",
+            "muối",
+            "bột ngọt",
+            "bột nêm",
+            "nước mắm",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Canh Rau Muống Nấu Hến",
+        "ingredients": [
+            "rau muống",
+            "hến",
+            "hạt nêm",
+            "muối",
+            "nước mắm",
+            "ớt bột",
+            "hành tây"
+        ]
+    },
+    {
+        "name": "Da Heo Quay Kho Dưa Cải",
+        "ingredients": [
+            "da heo quay giòn",
+            "dưa cải muối chua",
+            "hành tím băm",
+            "tỏi",
+            "đường",
+            "nước mắm",
+            "hạt nêm",
+            "bột ngọt",
+            "sa tế",
+            "dầu hào",
+            "tiêu",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Canh mít non",
+        "ingredients": [
+            "mít non",
+            "tôm",
+            "xương đuôi heo",
+            "lá lốt",
+            "hạt nêm",
+            "bột ngọt",
+            "tiêu",
+            "hành tím"
+        ]
+    },
+    {
+        "name": "Thịt Ba Chỉ Luộc Chấm Mắm Nêm",
+        "ingredients": [
+            "thịt ba chỉ heo",
+            "hành tím",
+            "nước mắm",
+            "hạt nêm",
+            "mắm nên"
+        ]
+    },
+    {
+        "name": "Canh Chua Cá Đuối",
+        "ingredients": [
+            "cá đuối",
+            "tỏi cô đơn",
+            "thơm",
+            "cà chua",
+            "bạc hà",
+            "giá đỗ",
+            "hoa chuối bào",
+            "me chín",
+            "ngỗ",
+            "hành lá",
+            "ngò gai",
+            "húng quế trắng",
+            "mắm",
+            "muối",
+            "đường",
+            "bột ngọt"
+        ]
+    },
+    {
+        "name": "Sườn Non Kho Thơm, Trứng Cút",
+        "ingredients": [
+            "sườn non",
+            "thơm",
+            "trứng cút",
+            "luộc chín",
+            "ớt",
+            "tiêu xanh",
+            "sốt kho đa dụng sốt kho thịt",
+            "cá",
+            "gà",
+            "vịt tiện lợi",
+            "hành tỏi băm",
+            "dừa xiêm",
+            "lấy nước"
+        ]
+    },
+    {
+        "name": "SP.0814 - Khổ Qua Xào Bò Chay",
+        "ingredients": [
+            "bò lát chay",
+            "khổ qua",
+            "boa rô",
+            "dầu hào chay",
+            "hạt nêm chay",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Cá Thu Nhật Kho Cà Chua Bi",
+        "ingredients": [
+            "cá thu nhật",
+            "cà chua bi",
+            "hạt nêm",
+            "nước tương",
+            "dầu hào",
+            "đường",
+            "tiêu",
+            "ớt",
+            "hành tỏi",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Canh Bầu Chua Nấu Tôm Thịt",
+        "ingredients": [
+            "thịt ba rọi",
+            "tôm tươi",
+            "bầu",
+            "hành tím",
+            "dầu ăn",
+            "nước mắm",
+            "đường",
+            "bột ngọt",
+            "muối",
+            "nước"
+        ]
+    },
+    {
+        "name": "Cuối tuần đổi món Bánh Kẹp ăn vặt nha",
+        "ingredients": [
+            "bánh tráng gói bánh",
+            "hành phi",
+            "bò khô",
+            "bate",
+            "hành lá",
+            "nước tương",
+            "tép khô",
+            "trứng cút",
+            "than nướng"
+        ]
+    },
+    {
+        "name": "Bánh tráng nướng phomai",
+        "ingredients": [
+            "bánh tráng",
+            "trứng gà",
+            "tép khô",
+            "phô mai mozzarella",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Bánh tráng trộn Trứng gà",
+        "ingredients": [
+            "bánh tráng",
+            "trứng gà",
+            "hành phi",
+            "muối tôm",
+            "khô bò",
+            "khô mực",
+            "tắc",
+            "lá rau răm"
+        ]
+    },
+    {
+        "name": "Ốc len xào cốt dừa",
+        "ingredients": [
+            "ốc len đã đập đuôi",
+            "tỏi băm",
+            "hành tím băm",
+            "gừng nhỏ xíu",
+            "riềng xíu xiu",
+            "sả",
+            "lá chanh",
+            "ớt hiểm",
+            "hộp nước cốt dừa",
+            "nước dừa hoặc nước lọc cũng được",
+            "tương ớt",
+            "tương cà",
+            "dầu hào",
+            "mắm muối gia vị đầy đủ",
+            "ngỗ",
+            "lá é quế trang trí"
+        ]
+    },
+    {
+        "name": "Ốc Đinh(ốc Dùi) xào sả ớt đặm đà",
+        "ingredients": [
+            "ốc",
+            "sả",
+            "ớt cay",
+            "lá chanh hoặc lá bưởi",
+            "lá quất",
+            "gia vị :",
+            "bột nêm",
+            "súp",
+            "đường",
+            "nước"
+        ]
+    },
+    {
+        "name": "Chân gà rút xương xả tắc thơm ngon",
+        "ingredients": [
+            "chân gà rút xương",
+            "đường cát",
+            "nước mắm ngon",
+            "giấm hoặc chanh",
+            "muối hột",
+            "nước lọc"
+        ]
+    },
+    {
+        "name": "Tàu hũ ky xiên ớt chuông nướng chay",
+        "ingredients": [
+            "tàu hũ ky cuộn tươi",
+            "ớt chuông đỏ",
+            "ớt chuông vàng",
+            "hành tây tím",
+            "nước tương",
+            "ngũ vị hương",
+            "mật ong",
+            "bột hành tỏi",
+            "rau xà lách",
+            "lá húng lủi"
+        ]
+    },
+    {
+        "name": "Gỏi bò khô",
+        "ingredients": [
+            "bò khô",
+            "đu đủ xanh",
+            "rau thơm",
+            "đậu phộng rang",
+            "xì dầu",
+            "ớt tương",
+            "đường",
+            "dấm"
+        ]
+    },
+    {
+        "name": "Trứng CÚT lộn xào me",
+        "ingredients": [
+            "trứng cút lộn",
+            "dầu ăn",
+            "tỏi",
+            "ớt băm nhỏ",
+            "nước cốt me cô đặc",
+            "đường",
+            "nước mắm",
+            "tương ớt",
+            "ăn kèm: rau răm",
+            "đậu phộng rang vàng",
+            "hành tím phi vàng"
+        ]
+    },
+    {
+        "name": "Vịt lộn hầm lá ngải",
+        "ingredients": [
+            "trứng vịt lộn",
+            "gia vị hầm thuốc bắc",
+            "lá ngải cứu",
+            "bột canh / bột nêm"
+        ]
+    },
+    {
+        "name": "Bắp xào ruốc và mỡ hành",
+        "ingredients": [
+            "bơ lạt",
+            "đường",
+            "nước tương",
+            "bắp",
+            "ruốc",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Cách làm khoai lang nướng tươm mật róc vỏ dễ dàng",
+        "ingredients": [
+            "khoai lang",
+            "nước đá"
+        ]
+    },
+    {
+        "name": "Bánh mì xíu mại",
+        "ingredients": [
+            "thịt xay",
+            "đậu hà lan",
+            "cà chua",
+            "hành tím băm",
+            "rau xà lách",
+            "gia vị",
+            "bánh mì"
+        ]
+    },
+    {
+        "name": "Bánh mì chạo tôm, thịt quay vét tủ",
+        "ingredients": [
+            "bánh mì dài",
+            "chạo tôm",
+            "mấy thịt",
+            "cà rốt chua ngọt",
+            "rau thơm",
+            "dưa leo",
+            "tương ngọt"
+        ]
+    },
+    {
+        "name": "Bánh Mì Chả Bò Đà Nẵng",
+        "ingredients": [
+            "bánh mì nóng giòn đặc ruột",
+            "chả bò loại ngon",
+            "dưa leo",
+            "tương ớt ngọt hội an",
+            "hành ngò",
+            "húng lủi",
+            "rau răm",
+            "muối tiêu"
+        ]
+    },
+    {
+        "name": "Bánh mì kẹp bánh bột lọc chả lụa",
+        "ingredients": [
+            "bột năng",
+            "nước sôi",
+            "ổ bánh mì",
+            "nhân tôm thịt",
+            "hành lá",
+            "dầu ăn",
+            "hành tím",
+            "chả lụa cắt dài nhỏ",
+            "nước mắm",
+            "đường",
+            "nước cốt chanh",
+            "sa tế"
+        ]
+    },
+    {
+        "name": "Bánh tiêu rễ tre",
+        "ingredients": [
+            "bột mì",
+            "đường",
+            "men nở",
+            "nước",
+            "bột nổi",
+            "bột khai",
+            "nước chanh",
+            "mè rang"
+        ]
+    },
+    {
+        "name": "Chuối Chiên",
+        "ingredients": [
+            "chuối chín",
+            "bột chiên chuối",
+            "mè đen",
+            "nước"
+        ]
+    },
+    {
+        "name": "Xôi xéo",
+        "ingredients": [
+            "gạo nếp",
+            "đậu xanh lột vỏ",
+            "hành tím",
+            "gia vị: bột nghệ",
+            "muối",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "SP.1043 - Xôi Mặn Vintage",
+        "ingredients": [
+            "i - xôi",
+            "nếp",
+            "lá dứa",
+            "dầu",
+            "ii - pate gan heo",
+            "gan heo",
+            "sữa tươi",
+            "hành tây băm nhuyễn",
+            "tỏi băm nhuyễn",
+            "muối",
+            "tiêu",
+            "bơ thực vật tường an",
+            "iii - mỡ hành",
+            "hành lá",
+            "dầu ăn",
+            "muối",
+            "iv - ăn kèm",
+            "chả lụa",
+            "lạp xưởng",
+            "chà bông",
+            "trứng cút luộc",
+            "nước tương"
+        ]
+    },
+    {
+        "name": "SP.1036 - Xôi Gà Hấp",
+        "ingredients": [
+            "nếp thái",
+            "thịt gà",
+            "nấm đông cô",
+            "lạp xưởng",
+            "xá xíu",
+            "dầu ăn",
+            "nước tương",
+            "hành lá",
+            "muối"
+        ]
+    },
+    {
+        "name": "Bánh bao nhân trứng muối",
+        "ingredients": [
+            "bột vỏ bánh",
+            "bột mì",
+            "đường trắng",
+            "sữa tươi không đường",
+            "muối",
+            "baking powder",
+            "men ngọt",
+            "shortening - mình dùng mỡ heo đã chiên để tủ lạnh cho đông",
+            "lấy phần màu trắng",
+            "nhân thịt trứng muối:",
+            "nạc xay",
+            "giò sống",
+            "trứng muối",
+            "ngò rí",
+            "hành lá",
+            "nấm mèo",
+            "hành tím",
+            "gia vị: cf đường",
+            "mcf muối",
+            "mcf bột ngọt",
+            "mcf dầu hào",
+            "mcf dầu mè",
+            "cf tiêu xay"
+        ]
+    },
+    {
+        "name": "Cá Viên Chiên Eat Clean",
+        "ingredients": [
+            "thịt cá phi lê",
+            "ức gà tươi",
+            "trứng gà",
+            "thìa cafe bột bắp",
+            "hành tím",
+            "hành lá",
+            "gia vị:",
+            "bột nghệ",
+            "mắm",
+            "tiêu",
+            "thìa cafe dầu olive"
+        ]
+    },
+    {
+        "name": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+        "ingredients": [
+            "bò bằm",
+            "gia vị ướp bò: nước tương",
+            "tiêu",
+            "bột nêm",
+            "tỏi băm",
+            "lá lốt",
+            "bún tươi",
+            "đậu phộng rang",
+            "rau dùng kèm",
+            "rau xà lách",
+            "cải đường",
+            "nước mắm chua ngọt",
+            "tỏi",
+            "ớt",
+            "nước mắm ngon",
+            "chanh",
+            "đường"
+        ]
+    },
+    {
+        "name": "Trứng cút nướng chén, giải trí nhẹ cho cơn mưa bất chợt. Hihihi",
+        "ingredients": [
+            "trứng cút",
+            "pho mai",
+            "bơ thực vật",
+            "tép rang khô hoặc chà bông",
+            "xúc xích",
+            "hành lá",
+            "hành tím mua về tự phi thơm cho ngon",
+            "sốt mayonnaise",
+            "tương ớt",
+            "me trộn",
+            "nước mắm",
+            "đường",
+            "ớt để làm nước chấm ngọt chưa cay nè"
+        ]
+    },
+    {
+        "name": "Lòng dồi sụn nướng",
+        "ingredients": [
+            "thành",
+            "thịt băm",
+            "sườn sụn xay",
+            "lòng lợn",
+            "nguyên liệu gia vị",
+            "rau răm",
+            "hành tay",
+            "cà rốt",
+            "hành tây",
+            "đường",
+            "tiêu",
+            "muối",
+            "mắm",
+            "dầu mè"
+        ]
+    },
+    {
+        "name": "Nem chua rán",
+        "ingredients": [
+            "gr giò sống",
+            "gr thịt heo xay",
+            "gr bì heo",
+            "hành tím",
+            "trứng",
+            "bột chiên xù nhỏ",
+            "bột chiến giòn"
+        ]
+    },
+    {
+        "name": "Phô mai que",
+        "ingredients": [
+            "thanh phô mai string cheese",
+            "trứng",
+            "sữa tươi",
+            "bột chiên xù",
+            "tinh bột bắp"
+        ]
+    },
+    {
+        "name": "Khoai tây lốc xoáy phô mai",
+        "ingredients": [
+            "khoai tây lớn",
+            "bột phomai",
+            "bột chiên giòn",
+            "que nhọn",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bánh tráng nướng Đà Lạt bằng chảo",
+        "ingredients": [
+            "bánh tráng dày đà lạt",
+            "trứng gà",
+            "tép khô",
+            "dầu ăn",
+            "hành ngò thái nhỏ",
+            "mắm ruốc",
+            "đường",
+            "chà bông"
+        ]
+    },
+    {
+        "name": "Gỏi Xoài Khô Mực",
+        "ingredients": [
+            "khô mực nướng bằng nckd",
+            "xoài xanh",
+            "rau răm lặt rửa sạch",
+            "nước mắm kẹo chua ngọt",
+            "hành phi"
+        ]
+    },
+    {
+        "name": "Xôi chiên nhân thịt",
+        "ingredients": [
+            "gạo nếp",
+            "thịt nạc vai",
+            "mộc nhĩ",
+            "ít hạt tiêu",
+            "nước mắm",
+            "hạt nêm",
+            "dầu ăn",
+            "hành khô"
+        ]
+    },
+    {
+        "name": "Gà nướng phủ muối ớt",
+        "ingredients": [
+            "gà ta",
+            "bột ớt",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Bánh căn",
+        "ingredients": [
+            "gạo ngâm mềm xay hoặc pha từ bột khô",
+            "xúc xích",
+            "thanh cua",
+            "thịt băm",
+            "rau sống nhiều loại",
+            "hẹ",
+            "hành lá",
+            "gia vị",
+            "nguyên liệu như bên dưới"
+        ]
+    },
+    {
+        "name": "Bánh Tráng Phơi Sương Cuốn Trứng Lòng Đào",
+        "ingredients": [
+            "bánh tráng dẻo",
+            "combo kèm theo: bơ",
+            "muối tôm hành phi",
+            "muối nhuyễn",
+            "ớt rim",
+            "trứng gà nhiệt độ phòng",
+            "rau răm",
+            "xoài xanh bào sợi"
+        ]
+    },
+    {
+        "name": "Súp Tteokbokki màn thầu - 떡만두국",
+        "ingredients": [
+            "màn thầu kim chi nấu canh hàn quốc",
+            "ai không thích ăn kim chi thì thay bằng nhân khác",
+            "màn thầu loại hấp",
+            "rán thường",
+            "tteokbokki loại nấu canh 떡국떡",
+            "thịt bò",
+            "mình dùng phần diềm thăn nấu canh thấy ngon nhất",
+            "các bạn có thể dùng phần khác",
+            "nước dùng cá cơm hàn quốc - 멸치 육수 코인",
+            "hoặc thay bằng cá cơm khô",
+            "lá tảo bẹ",
+            "lá kim khô",
+            "loại không có gia vị dùng để gói kimbap",
+            "trứng",
+            "hành baro",
+            "ớt",
+            "ai thích ăn cay thì cho không thì bỏ qua",
+            "tỏi",
+            "canh nước vo gạo",
+            "gia vị : muối",
+            "gia vị thịt bò matna",
+            "tiêu",
+            "rượu nấu ăn hoặc soju đều được",
+            "dầu mè",
+            "ai thích ăn ngọt thì cho thêm đường",
+            "mình không cho đường ạ"
+        ]
+    },
+    {
+        "name": "Gà rán sốt cay",
+        "ingredients": [
+            "đùi gà góc tư",
+            "bột tẩm khô chiên giòn",
+            "hộp sữa đặc nhỏ",
+            "tương ớt",
+            "dầu hào",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bò cuộn nấm kim châm nướng BBQ",
+        "ingredients": [
+            "thịt ba chỉ bò mỹ",
+            "sốt ướp thịt bbq",
+            "nấm kim châm"
+        ]
+    },
+    {
+        "name": "Bánh tráng kẹp chả cá",
+        "ingredients": [
+            "chả cá",
+            "nạc xay",
+            "bánh tráng nem",
+            "bột nêm",
+            "tiêu",
+            "hành",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Khoai tây chiên lắc phô mai",
+        "ingredients": [
+            "khoai tây làm sẵn",
+            "bột phô mai",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bí Đỏ Hồ Lô Nhồi Gà & Hạt Dẻ (Chestnut) Nướng Phô Mai Mozzarella",
+        "ingredients": [
+            "bí đỏ hồ lô butternut",
+            "đùi gà",
+            "hạt dẻ trùng khánh",
+            "phô mai mozzarella",
+            "tỏi",
+            "muối",
+            "tiêu",
+            "dầu olive",
+            "lá oregano khô",
+            "lá parsley trang trí"
+        ]
+    },
+    {
+        "name": "Chuối Nếp Cẩm Nướng Chan Nước Cốt Dừa",
+        "ingredients": [
+            "phần nếp cẩm",
+            "nếp cẩm",
+            "trái chuối chín",
+            "nước cốt dừa",
+            "muỗng cafe đường",
+            "lá chuối",
+            "lá dứa",
+            "ít muối",
+            "đậu phộng rang giã nhỏ",
+            "phần nước cốt dừa",
+            "nước cốt dừa",
+            "bột báng",
+            "gr- gr đường",
+            "ít muối",
+            "muỗng cafe bột năng cho vào chén thêmít nước khuấy đều"
+        ]
+    },
+    {
+        "name": "Gan bò rim",
+        "ingredients": [
+            "gan bò",
+            "hành",
+            "tỏi",
+            "ớt sa tế",
+            "sả gừng",
+            "bì sữa tươi không đường",
+            "gia vị tuỳ theo khẩu vị"
+        ]
+    },
+    {
+        "name": "Bánh tráng cuốn - đặc sản tây ninh",
+        "ingredients": [
+            "sấy ăn liền",
+            "xoài xanh bào sợi",
+            "rau răm",
+            "khô bò",
+            "đậu phộng rang",
+            "trứng cút luộc",
+            "muối tây ninh",
+            "hành phi",
+            "mắm me",
+            "tương ớt",
+            "sốt mayonnaise",
+            "bánh tráng đỏ tây ninh"
+        ]
+    },
+    {
+        "name": "Bánh tráng cuốn thập cẩm (mâm cơm nhỏ của Trang 37)",
+        "ingredients": [
+            "thịt ba chỉ luộc",
+            "xúc xích",
+            "giò me",
+            "trứng rán",
+            "cà rốt",
+            "xoài chua",
+            "dưa chuột",
+            "rau sống các loại",
+            "bún",
+            "bánh đa cuốn gỏi"
+        ]
+    },
+    {
+        "name": "Đổi vị với bánh tráng cuốn chấm mắm me chua ngọt",
+        "ingredients": [
+            "thịt heo xay",
+            "nấm mèo",
+            "bánh tráng để cuốn",
+            "rau sống các loại",
+            "giá",
+            "xà lách",
+            "dưa leo",
+            "sắn",
+            "bún tươi",
+            "gia vị: nước mắm",
+            "đường",
+            "me",
+            "ớt",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Bánh khoai mỡ chiên",
+        "ingredients": [
+            "khoai mỡ tím",
+            "bột mì",
+            "sữa tươi",
+            "sữa đặc"
+        ]
+    },
+    {
+        "name": "Bánh gối và bơ, trứng 🍳 (Avocado toast)",
+        "ingredients": [
+            "bánh sandwich",
+            "bơ nhỏ",
+            "muối",
+            "tiêu",
+            "trứng"
+        ]
+    },
+    {
+        "name": "Khoai Môn Lệ Phố",
+        "ingredients": [
+            "bột chiên xù",
+            "dầu ăn",
+            "khoai lang tím",
+            "đậu xanh cà vỏ",
+            "khoai môn",
+            "bột nếp",
+            "bột chiên xù",
+            "đường"
+        ]
+    },
+    {
+        "name": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+        "ingredients": [
+            "bột mì đa dụng",
+            "thịt heo xay",
+            "hành tây",
+            "miến",
+            "nấm hương",
+            "mộc nhĩ",
+            "trứng gà",
+            "trứng cút",
+            "lạp sườn",
+            "bột nêm",
+            "nước mắm",
+            "đường",
+            "muối",
+            "hạt tiêu",
+            "chanh"
+        ]
+    },
+    {
+        "name": "Bánh tôm hồ tây",
+        "ingredients": [
+            "bột chiên giòn",
+            "nước lọc",
+            "bột tỏi",
+            "rau xà lách",
+            "cà rốt",
+            "dưa chuột",
+            "khoai lang",
+            "mắm",
+            "bột ớt",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Cá viên chiên ăn kèm đồ chua",
+        "ingredients": [
+            "cá viên ba sa",
+            "cà rốt 🥕",
+            "cải trắng",
+            "dưa leo 🥒🥒"
+        ]
+    },
+    {
+        "name": "Sốt Tắc Chấm Bánh Tráng",
+        "ingredients": [
+            "sốt tắc",
+            "cốt tắc",
+            "sa tế",
+            "tương ớt",
+            "muối tôm",
+            "đường",
+            "nước lọc",
+            "topping",
+            "mayonnaise",
+            "hành phi",
+            "tỏi phi",
+            "đậu phộng rang"
+        ]
+    },
+    {
+        "name": "Nem nướng Nha Trang",
+        "ingredients": [
+            "thịt nạc dăm",
+            "giò sống",
+            "tỏi băm",
+            "bột năng",
+            "dầu hào",
+            "dầu ăn",
+            "nước mắm",
+            "mật ong",
+            "hạt nêm",
+            "tiêu",
+            "bột màu điều",
+            "bánh tráng cuốn",
+            "rau thơm",
+            "xà lách",
+            "dưa leo",
+            "chuối chát",
+            "xoài xanh",
+            "cà rốt",
+            "cải",
+            "tôm tươi",
+            "thịt nạc",
+            "pa tê gan",
+            "bột nếp"
+        ]
+    },
+    {
+        "name": "Chuối nướng chấm nước cốt dừa",
+        "ingredients": [
+            "chuối sứ",
+            "nước cốt dừa nhỏ",
+            "đường",
+            "muối",
+            "bột năng",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Chè Dừa Dầm Sầu Riêng",
+        "ingredients": [
+            "dừa nạo lấy ml cốt",
+            "dão dừa",
+            "sữa tươi không đường",
+            "nước dừa xiêm",
+            "đường",
+            "bột năng",
+            "dừa",
+            "sầu riêng",
+            "bột rau câu dẻo",
+            "hương lá dứa"
+        ]
+    },
+    {
+        "name": "Chè sầu riêng Thái Lan",
+        "ingredients": [
+            "xôi nếp trắng",
+            "sầu riêng",
+            "cốt dừa",
+            "muối",
+            "đường"
+        ]
+    },
+    {
+        "name": "Chè bưởi thốt nốt",
+        "ingredients": [
+            "bột năng",
+            "đường thốt nốt",
+            "muối",
+            "cùi bưởi"
+        ]
+    },
+    {
+        "name": "Chè chuối bọc xôi nướng",
+        "ingredients": [
+            "nếp",
+            "chuối mốc",
+            "đường phèn",
+            "đường cát",
+            "cốt dừa",
+            "cốm tươi",
+            "bột sắn dây"
+        ]
+    },
+    {
+        "name": "Chè bắp nếp bột sắn dây",
+        "ingredients": [
+            "bắp nếp",
+            "bột sắn dây",
+            "đường phèn",
+            "hồng trà"
+        ]
+    },
+    {
+        "name": "Tàu hũ trân châu đường đen",
+        "ingredients": [
+            "sữa đậu nành",
+            "bột làm thạch",
+            "đường",
+            "trân châu trắng",
+            "đường đen"
+        ]
+    },
+    {
+        "name": "Bánh mì sữa chua",
+        "ingredients": [
+            "bột mì số",
+            "sữa chua có đường",
+            "men instant",
+            "mật ong",
+            "muối",
+            "bơ lạt"
+        ]
+    },
+    {
+        "name": "Kem Bơ Sầu Riêng 🥑🍨",
+        "ingredients": [
+            "sầu riêng tách múi sẵn",
+            "bơ lớn gr",
+            "đá viên",
+            "kem dừa /kem vani",
+            "sữa tươi",
+            "sữa đặc",
+            "topping tuỳ chọn"
+        ]
+    },
+    {
+        "name": "Kem chuối, kem xoài",
+        "ingredients": [
+            "nước chốt dừa",
+            "sữa đặc",
+            "sữa tươi không đường",
+            "sữa chua",
+            "chuối",
+            "xoài",
+            "nhãn",
+            "dừa",
+            "đậu phộng",
+            "vani ống"
+        ]
+    },
+    {
+        "name": "Rau câu phô mai",
+        "ingredients": [
+            "jelly g",
+            "phô mai",
+            "lòng đỏ trứng",
+            "sữa đặc",
+            "cà phê hòa tan",
+            "nước",
+            "g đường",
+            "sữa tươi"
+        ]
+    },
+    {
+        "name": "Bánh dẻo nhân đậu xanh",
+        "ingredients": [
+            "đậu xanh bóc vỏ",
+            "đường cát",
+            "dầu ăn",
+            "muối",
+            "bột nếp",
+            "bột gạo",
+            "bột năng gr",
+            "sữa tươi không đường",
+            "tinh dầu hoa bưởi"
+        ]
+    },
+    {
+        "name": "Bánh da lợn vân thủy",
+        "ingredients": [
+            "lá dứa : g lá dứa",
+            "đường",
+            "bột năng",
+            "bột gạo",
+            "dầu ăn",
+            "cốt dừa :g nước cốt",
+            "bột năng",
+            "bột gạo",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Chè hạt sen nhãn lồng",
+        "ingredients": [
+            "nhãn lồng",
+            "hạt sen tươi",
+            "đường phèn"
+        ]
+    },
+    {
+        "name": "Khúc Bạch Trái Vải",
+        "ingredients": [
+            "whipping cream",
+            "sữa tươi",
+            "đường",
+            "lá gelatin",
+            "vải",
+            "khuôn tim",
+            "hoa hồng khô",
+            "vàng thực phẩm"
+        ]
+    },
+    {
+        "name": "Bộ Sưu Tập Chè Sương Sáo",
+        "ingredients": [
+            "bột sương sáo",
+            "nước",
+            "đường",
+            "cốt dừa",
+            "dừa nạo vắt lấy cốt",
+            "dão ml",
+            "muối",
+            "đường",
+            "bột năng",
+            "sữa tươi không đường",
+            "bột gạo / sắn dây",
+            "lá dứa",
+            "topping",
+            "hạt chia /é ngâm nước nóng cho nở",
+            "topping",
+            "đậu đen / đậu đỏ hầm mềm bằng nồi áp suất",
+            "topping",
+            "dền luộc lấy nước",
+            "bột năng nhồi với nước dền còn nóng",
+            "đường",
+            "topping",
+            "dền luộc lấy nước cốt",
+            "đường",
+            "nước",
+            "bột rau câu giòn/ dẻo",
+            "topping :",
+            "dừa /lê cắt hạt lựu áo qua bột năng"
+        ]
+    },
+    {
+        "name": "Tàu Hũ Sương Sáo Bánh Flan",
+        "ingredients": [
+            "sương sáo",
+            "tàu hũ non mua sẵn",
+            "nước",
+            "đường mía thô/đường thốt nốt",
+            "gừng tươi",
+            "bánh flan mua sẵn",
+            "đá bào"
+        ]
+    },
+    {
+        "name": "Sữa chua nếp cẩm",
+        "ingredients": [
+            "nếp cẩm",
+            "hũ sữa chua có đường",
+            "đường vàng"
+        ]
+    },
+    {
+        "name": "Sữa chua mix sầu riêng và ngũ cốc",
+        "ingredients": [
+            "hộp sữa chua không đường hoặc có đường tùy thích",
+            "sầu riêng hoặc tùy thích",
+            "granola / ngũ cốc",
+            "hạt chia"
+        ]
+    },
+    {
+        "name": "Bánh đậu xanh trái cây",
+        "ingredients": [
+            "đậu xanh k vỏ",
+            "nước cốt dừa",
+            "đường thốt nốt",
+            "bột rau câu",
+            "muối",
+            "màu thực phẩm"
+        ]
+    },
+    {
+        "name": "Bánh chín tầng mây (bánh da lợn)",
+        "ingredients": [
+            "bột năng",
+            "bột gạo tẻ",
+            "đường",
+            "nước màu xanh",
+            "đỏ",
+            "tím",
+            "nước cốt dừa",
+            "phần đậu xanh",
+            "bột năng",
+            "đậu xanh hấp chín",
+            "cốt dừa",
+            "đường",
+            "nồi hấp",
+            "khuôn bánh"
+        ]
+    },
+    {
+        "name": "Bánh Bò Rễ Tre",
+        "ingredients": [
+            "bột gạo",
+            "bột năng",
+            "nước cốt dừa",
+            "nước dừa dão",
+            "đường trắng",
+            "muối",
+            "men ngọt",
+            "baking soda",
+            "matcha",
+            "bột gấc",
+            "hoa đậu biếc",
+            "thốt nốt",
+            "bột nghệ"
+        ]
+    },
+    {
+        "name": "Chè đậu xanh đánh",
+        "ingredients": [
+            "đậu xanh cà vỏ",
+            "đường",
+            "vani"
+        ]
+    },
+    {
+        "name": "Chè khoai môn cốt dừa",
+        "ingredients": [
+            "khoai môn cao",
+            "đường",
+            "nếp",
+            "cốt dừa ml"
+        ]
+    },
+    {
+        "name": "Chè trôi nước hoa ngũ sắc",
+        "ingredients": [
+            "phần nhân",
+            "đậu xanh không vỏ",
+            "đường trắng",
+            "muối",
+            "nước cốt dừa",
+            "muỗng nhỏ vani",
+            "phần vỏ",
+            "bột nếp",
+            "nước cốt dừa ấm",
+            "nước thanh long ruột đỏ",
+            "hoa đậu biếc khô hoặc tươi",
+            "bột trà xanh hòa với nước ấm khuấy đều",
+            "nước cốt lá cẩm",
+            "nước cốt dành dành",
+            "phần nước đường thốt nốt",
+            "đường thốt nốt",
+            "nước",
+            "gừng cắt lát",
+            "muối",
+            "phần ăn kèm",
+            "nước cốt dừa",
+            "bột năng",
+            "xíu muối"
+        ]
+    },
+    {
+        "name": "Chè Vải Đậu Ngự",
+        "ingredients": [
+            "đậu",
+            "vải tươi",
+            "đường phèn",
+            "hạt chia khô",
+            "lá dứa nhỏ"
+        ]
+    },
+    {
+        "name": "Thạch Chè Hạt Sen Hoa Nhài",
+        "ingredients": [
+            "rau câu giòn rovin",
+            "nước",
+            "hạt sen tươi",
+            "sen",
+            "lá dứa",
+            "đường phèn",
+            "nước",
+            "hoa nhài tươi"
+        ]
+    },
+    {
+        "name": "Chè Đậu Ván",
+        "ingredients": [
+            "đậu ván",
+            "bột năng",
+            "nước",
+            "đường vàng",
+            "nước cốt dừa nguyên chất"
+        ]
+    },
+    {
+        "name": "Bộ Sưu Tập Chè Sương Sáo",
+        "ingredients": [
+            "bột sương sáo",
+            "nước",
+            "đường",
+            "cốt dừa",
+            "dừa nạo vắt lấy cốt",
+            "dão ml",
+            "muối",
+            "đường",
+            "bột năng",
+            "sữa tươi không đường",
+            "bột gạo / sắn dây",
+            "lá dứa",
+            "topping",
+            "hạt chia /é ngâm nước nóng cho nở",
+            "topping",
+            "đậu đen / đậu đỏ hầm mềm bằng nồi áp suất",
+            "topping",
+            "dền luộc lấy nước",
+            "bột năng nhồi với nước dền còn nóng",
+            "đường",
+            "topping",
+            "dền luộc lấy nước cốt",
+            "đường",
+            "nước",
+            "bột rau câu giòn/ dẻo",
+            "topping :",
+            "dừa /lê cắt hạt lựu áo qua bột năng"
+        ]
+    },
+    {
+        "name": "Sữa chua trân châu Hạ long",
+        "ingredients": [
+            "sữa chua",
+            "lọ thủy tinh",
+            "hộp sữa chua mua sẵn",
+            "sữa tươi",
+            "hộp sữa đặc ông thọ",
+            "nước đun sôi",
+            "nước đun sôi để nguội",
+            "lò nướng hoặc thùng xốp",
+            "nồi cơm điện",
+            "trân châu",
+            "bột năng",
+            "đường",
+            "dừa cùi",
+            "đồ ăn kèm khác",
+            "dừa khô",
+            "chuối khô",
+            "ômai"
+        ]
+    },
+    {
+        "name": "Rau câu trái dừa",
+        "ingredients": [
+            "rau câu dẻo gói g",
+            "nước dừa",
+            "nước lạnh",
+            "đường",
+            "dừa tươi nguyên"
+        ]
+    },
+    {
+        "name": "Bánh tráng xoài cuộn",
+        "ingredients": [
+            "xoài chín",
+            "đường",
+            "vừng rang vàng"
+        ]
+    },
+    {
+        "name": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+        "ingredients": [
+            "phần vỏ bánh",
+            "nước",
+            "bơ lạt",
+            "trứng",
+            "bột mì đa dụng",
+            "đường",
+            "muối",
+            "phần nhân kem",
+            "sữa tươi không đường",
+            "whipping cream",
+            "đường",
+            "trứng",
+            "bột bắp",
+            "bơ nhạt",
+            "vanilla",
+            "muối"
+        ]
+    },
+    {
+        "name": "Bánh Mousse Chanh dây",
+        "ingredients": [
+            "cốt bánh bông lan",
+            "khuôn bánh",
+            "trứng gà",
+            "muối",
+            "giấm trắng/ cốt chanh",
+            "đường",
+            "bột mỳ số",
+            "sữa tươi",
+            "dầu ăn",
+            "cốt chanh dây",
+            "nước cốt chanh dây",
+            "đường",
+            "kem mousse chanh dây",
+            "nước cốt chanh dây",
+            "whipping cream",
+            "gelatin",
+            "thạch chanh dây",
+            "nước cốt chanh dây",
+            "gelatin"
+        ]
+    },
+    {
+        "name": "Bánh Tiramisu",
+        "ingredients": [
+            "bánh lady finger",
+            "bột cacao",
+            "nước nhúng bánh",
+            "cà phê đen",
+            "rượu rum",
+            "nước lọc",
+            "phần kem bánh",
+            "lòng đỏ trứng",
+            "đường",
+            "muối",
+            "tinh chất vani",
+            "whipping cream",
+            "mascapone"
+        ]
+    },
+    {
+        "name": "Bông lan trứng muối",
+        "ingredients": [
+            "trứng muối nướng chín",
+            "bóp nhuyễn",
+            "ruốc gà/ heo",
+            "cốt bánh",
+            "sốt dầu trứng:",
+            "lòng đỏ trứng",
+            "đường",
+            "muối",
+            "nước cốt chanh",
+            "dầu ăn",
+            "bơ nhạt đun chảy",
+            "sốt phô mai:",
+            "lòng đỏ trứng",
+            "đường",
+            "bột ngô",
+            "sữa không đường",
+            "cream cheese",
+            "phô mai bò cười"
+        ]
+    },
+    {
+        "name": "Bánh Crepe Sầu Riêng",
+        "ingredients": [
+            "phần bột",
+            "bột mì đa dụng",
+            "bột bắp",
+            "quả trứng gà",
+            "sữa tươi",
+            "nước cốt dừa",
+            "muỗng canh đường",
+            "bơ lạt",
+            "phần kem tươi và sầu riêng",
+            "kem tươi whipping cream",
+            "muỗng canh đường",
+            "- gr sầu riêng tùy sở nhiều hay ít"
+        ]
+    },
+    {
+        "name": "Waffle Chà Bông Gà Cay Rong Biển",
+        "ingredients": [
+            "bột mì",
+            "bột bắp",
+            "bơ lạt để mềm",
+            "sữa tươi",
+            "trứng gà",
+            "baking powder",
+            "vanilla dạng nước",
+            "đường xay",
+            "chà bông gà cay rong biển mè trắng",
+            "bơ"
+        ]
+    },
+    {
+        "name": "Bánh trung thu rau câu",
+        "ingredients": [
+            "bột rau câu cá dẻo",
+            "nước",
+            "hạt sen",
+            "long nhãn",
+            "kỷ tử",
+            "đường thốt nốt",
+            "tinh chất vani hoặc dầu chuối"
+        ]
+    },
+    {
+        "name": "Làm bánh mochi kem lạnh",
+        "ingredients": [
+            "bột nếp sống",
+            "đường",
+            "nước nóng",
+            "sữa tươi ko đường có thể thay bằng nước ép hoa",
+            "dầu ăn",
+            "bột bắp hoặc bột bánh dẻo để chống dính",
+            "bột trà xanh",
+            "bột nghệ",
+            "bột dền hoặc khoai môn",
+            "kem các vị"
+        ]
+    },
+    {
+        "name": "Bánh sừng bò croissant bơ thực vật (Margarine)",
+        "ingredients": [
+            "bột mỳ đa dụng",
+            "bơ thực vật",
+            "đường kính trắng",
+            "sữa không đường",
+            "men instant",
+            "lòng đỏ trứng gà"
+        ]
+    },
+    {
+        "name": "Bánh tart trứng cho bé dưới 1 tuổi",
+        "ingredients": [
+            "khoai lang",
+            "bột mì",
+            "bơ lạt",
+            "lòng đỏ trứng gà",
+            "sữa công thức"
+        ]
+    },
+    {
+        "name": "Bánh quy bơ PT",
+        "ingredients": [
+            "bơ nhạt",
+            "bột đường",
+            "trứng gà",
+            "bột mì số",
+            "vani",
+            "bột trà xanh",
+            "cacao",
+            "nhân hạt",
+            "hạt dẻ",
+            "hạt điều",
+            "bơ nhạt",
+            "mật ong",
+            "đường cát"
+        ]
+    },
+    {
+        "name": "Bánh tai heo",
+        "ingredients": [
+            "bột mỳ đa dụng",
+            "trứng gà",
+            "bơ nhạt",
+            "cốt dừa",
+            "đường",
+            "chanh",
+            "muối",
+            "sữa đặc",
+            "bột ca cao",
+            "dầu chiên"
+        ]
+    },
+    {
+        "name": "Milo dầm trân châu đường đen",
+        "ingredients": [
+            "bột năng",
+            "bột cacao",
+            "đường nâu",
+            "nước",
+            "đường nâu",
+            "nước",
+            "cacao",
+            "milo",
+            "sữa đặc"
+        ]
+    },
+    {
+        "name": "RAU CÂU sơn thủy",
+        "ingredients": [
+            "bột rau câu câu giòn",
+            "đường cát",
+            "hoa đậu biếc khô",
+            "lá cẩm tươi",
+            "nước cốt dừa",
+            "sữa đặc"
+        ]
+    },
+    {
+        "name": "Kem chuối mix cho ngày hè nắng nóng😋",
+        "ingredients": [
+            "chuối xiêm",
+            "đường cát",
+            "nước cốt dừa",
+            "sữa đặc",
+            "sữa tươi",
+            "ống vani",
+            "bơ",
+            "mít do nhà mình có gì nên dùng nấy nè",
+            "đậu phộng rang",
+            "bọc nilong",
+            "nước lọc",
+            "bột năng"
+        ]
+    },
+    {
+        "name": "Chè sâm bổ lượng",
+        "ingredients": [
+            "hạt sen",
+            "táo đỏ",
+            "nhãn nhục",
+            "phổ tai càng nhìu càng ngon",
+            "đường phèn"
+        ]
+    },
+    {
+        "name": "Chè Khoai Dẻo Đài Loan",
+        "ingredients": [
+            "đường phèn",
+            "mml nước cốt dừa",
+            "khoai tím",
+            "khoai vàng",
+            "bột năng",
+            "mè rang",
+            "lá dứa"
+        ]
+    },
+    {
+        "name": "Kem Bơ Sầu Riêng 🥑🍨",
+        "ingredients": [
+            "sầu riêng tách múi sẵn",
+            "bơ lớn gr",
+            "đá viên",
+            "kem dừa /kem vani",
+            "sữa tươi",
+            "sữa đặc",
+            "topping tuỳ chọn"
+        ]
+    },
+    {
+        "name": "Sữa chua dẻo 2 vị (cacao, trà xanh)",
+        "ingredients": [
+            "sữa chua",
+            "sữa tươi",
+            "bột gelatin",
+            "bột cacao",
+            "bột trà xanh",
+            "đường",
+            "sữa đặc"
+        ]
+    },
+    {
+        "name": "Bánh cam - bánh rán lúc lắc",
+        "ingredients": [
+            "phần nhân",
+            "dầu ăn",
+            "đậu xanh hấp chín",
+            "dừa sợi sấy khô",
+            "đường",
+            "muối",
+            "phần vỏ",
+            "bột nếp",
+            "bột tẻ",
+            "bột bắp",
+            "khoai lang / khoai tây hấp chín",
+            "đường",
+            "muối",
+            "bột nở",
+            "nước nóng",
+            "dầu ăn",
+            "vừng trắng"
+        ]
+    },
+    {
+        "name": "BÁNH RÁN CAM TƯƠI & SỐT DÂU MẬT ONG",
+        "ingredients": [
+            "bột bánh rán pha sẵn",
+            "nước lọc",
+            "mứt dâu dalat",
+            "mật ong",
+            "lá húng lủi",
+            "lá bạc hà trang trí"
+        ]
+    },
+    {
+        "name": "Chè đậu đen nước cốt dừa",
+        "ingredients": [
+            "đậu đen",
+            "nước cốt dừa lớn",
+            "đậu phộng rang",
+            "đường",
+            "vani"
+        ]
+    },
+    {
+        "name": "Bánh Chuối Hấp Cốt Dừa",
+        "ingredients": [
+            "phần bánh chuối :",
+            "chuối sứ lớn",
+            "bỏ vỏ",
+            "thái khoanh tròn",
+            "bột năng",
+            "nước",
+            "đường",
+            "muối",
+            "màu vàng/bột nghệ",
+            "phần cốt dừa:",
+            "dừa nạo",
+            "sữa tươi không đường",
+            "đường",
+            "muối",
+            "bột năng",
+            "m bột sắn/ bột gạo",
+            "lá dứa",
+            "cắt khúc",
+            "bột báng",
+            "ngâm giờ-> luộc chín trong -> ngâm nước lạnh -> xong đổ ra rổ cho ráo nước",
+            "ăn kèm:",
+            "đậu phộng rang",
+            "giã dập",
+            "mè rang vàng"
+        ]
+    },
+    {
+        "name": "Bánh khoai mì nướng",
+        "ingredients": [
+            "khoai mì tươi",
+            "nước cốt dừa",
+            "đường",
+            "muối",
+            "bột bắp"
+        ]
+    },
+    {
+        "name": "Bánh su kem vỏ giòn",
+        "ingredients": [
+            "trứng",
+            "đường",
+            "vani",
+            "bột bắp",
+            "sữa tươi không đường",
+            "whipping cream",
+            "bơ lạt",
+            "bột mì",
+            "muối"
+        ]
+    },
+    {
+        "name": "Chè khúc bạch ngũ sắc",
+        "ingredients": [
+            "siro dâu tây",
+            "nước hoa đậu biếc",
+            "nước lá dứa",
+            "nước chanh leo",
+            "sữa đặc",
+            "long nhãn",
+            "đường",
+            "bột rau câu cá dẻo"
+        ]
+    },
+    {
+        "name": "Chè Thạch Lá Dứa Trân Châu Nho Vừng 🍹",
+        "ingredients": [
+            "bột năng",
+            "lá dứa",
+            "chùm nhãn lồng",
+            "nước cốt dừa",
+            "hộp sữa tươi có đường vinamilk",
+            "sữa bột nguyên kem",
+            "bột rau câu cá dẻo",
+            "nước nóng",
+            "gừng",
+            "nho khô",
+            "muối",
+            "hạt vừng",
+            "đường trắng"
+        ]
+    },
+    {
+        "name": "Bánh bò nướng",
+        "ingredients": [
+            "bột gạo",
+            "bột năng",
+            "đường cát",
+            "cơm rượu cái",
+            "nước",
+            "nước",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bánh tráng phơi sương",
+        "ingredients": [
+            "bánh tráng dẻo",
+            "muối nhuyễn",
+            "mỡ hành",
+            "hành phi",
+            "tỏi phi",
+            "sate",
+            "đậu phộng",
+            "trứng cút"
+        ]
+    },
+    {
+        "name": "Bánh tráng cuốn chay cùng sốt bơ đậu phộng",
+        "ingredients": [
+            "bắp cải tím",
+            "cà rốt",
+            "dưa chuột",
+            "xà lách",
+            "rau mầm",
+            "đậu phộng",
+            "nước cốt chanh",
+            "giấm táo",
+            "nước tương",
+            "tỏi",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Răng mực xào bơ tỏi",
+        "ingredients": [
+            "răng mực",
+            "tỏi băm",
+            "bơ lạt",
+            "hạt nêm",
+            "đường"
+        ]
+    },
+    {
+        "name": "Bánh mì nướng muối ớt",
+        "ingredients": [
+            "bánh mì cỡ vừa vừa",
+            "nước sốt:",
+            "bơ",
+            "đường",
+            "sa tế",
+            "bột ớt",
+            "tương ớt",
+            "topping:",
+            "xúc xích",
+            "trứng luộc tuỳ nhu cầu",
+            "ruốc",
+            "tương ớt",
+            "tương cà",
+            "mayonaise rưới lên bề mặt",
+            "mỡ hành"
+        ]
+    },
+    {
+        "name": "SP.0995 - Bò Bía Mặn",
+        "ingredients": [
+            "bánh tráng",
+            "sắn",
+            "lạp xưởng gan",
+            "lạp xưởng đỏ",
+            "chả quế",
+            "dầu ăn",
+            "hột gà",
+            "xốt tương mè kewpie",
+            "mật dừa nước",
+            "tương đen",
+            "tương ớt",
+            "rau sống : xà lách",
+            "húng thơm",
+            "húng quế"
+        ]
+    },
+    {
+        "name": "Tai heo ngâm chua ngọt",
+        "ingredients": [
+            "tai heo",
+            "cà rốt",
+            "su hào",
+            "ớt xanh",
+            "ớt sừng",
+            "tắc",
+            "lá chanh",
+            "tỏi",
+            "me",
+            "đường",
+            "mắm",
+            "bột nêm",
+            "mì chính"
+        ]
+    },
+    {
+        "name": "Kimbap truyền thống 🍱",
+        "ingredients": [
+            "lá kim",
+            "cơm trắng",
+            "thịt bò",
+            "cải muối",
+            "thân uông",
+            "cải xôi",
+            "cà rốt",
+            "nấm hương",
+            "trứng gà",
+            "dầu ăn",
+            "dầu mè",
+            "muối",
+            "mè rang",
+            "tỏi",
+            "xì dầu",
+            "mành cuốn",
+            "tương ớt",
+            "mayonnaise"
+        ]
+    },
+    {
+        "name": "Bánh gạo toppoki sốt kem dâu",
+        "ingredients": [
+            "bột kem rose hanbe g",
+            "tương ớt hàn quốc",
+            "– ml nước dùng cá khô",
+            "sữa tươi không đường",
+            "tỏi băm",
+            "dầu mè",
+            "bánh gạo topokki hanbe nhân phô mai",
+            "topping",
+            "tùy thích)"
+        ]
+    },
+    {
+        "name": "Đêm hôm mà đói thì cấp cứu ngay món MỲ CAY 7 CẤP ĐỘ siêu nhanh gọn nhé 😍",
+        "ingredients": [
+            "mỳ siukay",
+            "xúc xích",
+            "bò viên",
+            "đường",
+            "rau ngò gai"
+        ]
+    },
+    {
+        "name": "Gà rán Hàn Quốc xưa và nay (cách làm không có sốt)",
+        "ingredients": [
+            "gà",
+            "trứng nhỏ hoặc đánh tan chia làm phần",
+            "bột mì",
+            "bột khoai tây",
+            "baking soda",
+            "bột nở",
+            "hạt nêm",
+            "bột tỏi",
+            "bột hành",
+            "tiêu",
+            "dầu hào",
+            "nước tương"
+        ]
+    },
+    {
+        "name": "Thịt ba chỉ nướng tại gia kiểu Hàn Quốc",
+        "ingredients": [
+            "thịt ba chỉ tùy sức ăn",
+            "thịt không tẩm ướp nên mình phải chọn phần thịt thật ngon",
+            "mềm nha",
+            "cá nhân mình trung thành với thịt meat deli bán ở winmart",
+            "nó mềm ngon dã man",
+            "hành baro",
+            "tỏi",
+            "hành tây",
+            "nấm kim châm",
+            "nấm đùi gà to",
+            "kim chi",
+            "loại chua chút sẽ ngon hơn",
+            "gia vị : muối nấu ăn",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Mì lạnh sốt đậu nành Hàn Quốc",
+        "ingredients": [
+            "tay mì sợi nhỏ của hàn",
+            "trứng gà",
+            "kim chi ăn kèm",
+            "cà rốt",
+            "dưa leo baby",
+            "nước sốt đậu nành",
+            "đậu hũ non",
+            "sữa đậu nành không đường",
+            "bơ đậu phộng",
+            "mè rang",
+            "muối hồng"
+        ]
+    },
+    {
+        "name": "Sushi cá hồi",
+        "ingredients": [
+            "cơm",
+            "cá hồi",
+            "cà rốt",
+            "dưa leo",
+            "trứng gà",
+            "hợp thành cua",
+            "rong biển cuộn cơm",
+            "đầu hành",
+            "nước mắm tỏi ớt",
+            "dầu ăn",
+            "dầu mè"
+        ]
+    },
+    {
+        "name": "Mì Ramen Gà Xé Sốt Xì Dầu",
+        "ingredients": [
+            "mì ramen",
+            "đùi gà",
+            "dầu ăn",
+            "sốt xì dầu tỉ lệ: tương",
+            "đường",
+            "dầu hào",
+            "kecap sốt xì dầu ngọt homemade",
+            "mè vàng rang",
+            "rau tươi ăn kèm",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Udon hải sản",
+        "ingredients": [
+            "udon đông đá",
+            "tôm",
+            "càng tôm hùm đã luộc chín",
+            "dashi",
+            "nước"
+        ]
+    },
+    {
+        "name": "Bánh xèo Nhật Bản Okonomiyaki (Tôm, cá ngừ)",
+        "ingredients": [
+            "bột mì",
+            "nước",
+            "bắp cải bào",
+            "trứng gà",
+            "cá ngừ đóng hộp",
+            "tôm tươi bóc vỏ",
+            "sốt okonomiyaki",
+            "mayonnaise",
+            "cá ngừ bào"
+        ]
+    },
+    {
+        "name": "Katsu Curry - Cơm Cà Ri Thịt Chiên Xù Nhật Bản",
+        "ingredients": [
+            "thịt cốt lết",
+            "trứng gà",
+            "muối",
+            "bột bắp",
+            "bột chiên xù",
+            "rau cắt hạt lựu",
+            "gạo nhật",
+            "sốt cà ri nhật sốt cà ri nhật bản",
+            "bắp cải tím /trắng bào mỏng"
+        ]
+    },
+    {
+        "name": "Nước lẩu thái tomyum",
+        "ingredients": [
+            "giềng xả tỏi hàng tím",
+            "cà chua",
+            "bột súp tomyum",
+            "tương cà",
+            "cốt dừa",
+            "hạt nêm",
+            "bột ngọt",
+            "đường"
+        ]
+    },
+    {
+        "name": "Pad Thái",
+        "ingredients": [
+            "sợi phở khô",
+            "tôm tươi",
+            "chả cácá",
+            "trứng gà",
+            "me",
+            "hẹ",
+            "giá"
+        ]
+    },
+    {
+        "name": "Somtum Mực - Gỏi đu đủ mắm Thái + Mực",
+        "ingredients": [
+            "đu đủ",
+            "cà chua bi /nhỏ",
+            "đậu que / đậu đũa",
+            "ớt",
+            "tỏi",
+            "hành",
+            "cà pháo /cà ngọt / cà đắng",
+            "tôm khô",
+            "hành lá",
+            "ngò gai",
+            "ngò ta",
+            "cốt me",
+            "chanh",
+            "mắm cô gái thái",
+            "snack ớt cô gái thái",
+            "mướp đắng",
+            "mực",
+            "syrup thốt nốt /đường thốt nốt"
+        ]
+    },
+    {
+        "name": "Xôi xoài Thái Lan",
+        "ingredients": [
+            "nếp cái hoa vàng",
+            "lá cẩm",
+            "xoài quê",
+            "cốt dừa",
+            "đường",
+            "muối"
+        ]
+    },
+    {
+        "name": "Vịt quay Bắc Kinh",
+        "ingredients": [
+            "gia vị ướp vịt:",
+            "vịt",
+            "bột tỏi",
+            "bột gừng",
+            "bột ngủ vị hương hoặc húng lìu",
+            "đường",
+            "bột hoa hiên",
+            "mật ong",
+            "dầu hào",
+            "dầu oliu hoặc dầu ăn",
+            "bột canh hoặc hạt nêm",
+            "củ hành tây",
+            "nhánh nhỏ gừng",
+            "vài dọt dầu mè",
+            "vài cọng hành lá",
+            "phần nước sốt chấm vịt:",
+            "xì dầu",
+            "đường",
+            "nước lạnh",
+            "dấm",
+            "bột năng hoặc bột bắp",
+            "tỏi",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Dimsum chiên nước",
+        "ingredients": [
+            "bột mì",
+            "bột bắp",
+            "nước sôi",
+            "muối",
+            "ức gà",
+            "hành",
+            "cải đỏ"
+        ]
+    },
+    {
+        "name": "Bánh bao kim sa trứng muối",
+        "ingredients": [
+            "bột mi đa dụng",
+            "nước hoạt sửa tươi",
+            "men",
+            "bột nở",
+            "qua trứng muối",
+            "đường cát",
+            "sửa đặt",
+            "bôt nếp muỗn"
+        ]
+    },
+    {
+        "name": "SP.0916 - Khâu Nhục Chao Đỏ",
+        "ingredients": [
+            "thịt ba rọi heo",
+            "chao đỏ",
+            "dừa xiêm",
+            "rượu trắng thơm",
+            "gừng",
+            "hành lá",
+            "ngũ vị hương",
+            "tiêu xay",
+            "đường phèn",
+            "tỏi",
+            "hành tím"
+        ]
+    },
+    {
+        "name": "Mì vịt tiềm",
+        "ingredients": [
+            "đùi vịt góc tư",
+            "mì vàng",
+            "cải thìa",
+            "cà rốt",
+            "nấm hương khô",
+            "dừa",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Đậu hũ Tứ Xuyên",
+        "ingredients": [
+            "nấm đùi gà",
+            "tai nấm hương tươi",
+            "đậu làng mơ",
+            "gừng",
+            "nhánh tỏi",
+            "hành",
+            "thìa cf xuyên tiêu",
+            "thìa cf ớt bột hq",
+            "thìa canh nước tương",
+            "thìa canh dầu hào",
+            "thìa canh tương ớt",
+            "ml nước",
+            "hành lá",
+            "rau mùi"
+        ]
+    },
+    {
+        "name": "Sủi Cảo Nước Dùng Rau Củ Nấm",
+        "ingredients": [
+            "🍲 nước dùng",
+            "bắp",
+            "cải trắng nhỏ",
+            "nấm đông cô to",
+            "rau xanh",
+            "bột nêm rau",
+            "tiêu xay",
+            "hành lá trang trí",
+            "🥣 nước chấm chua ngọt",
+            "dấm gạo",
+            "nước tương",
+            "mật ong tỉ lệ ::",
+            "ớt cắt lát nhỏ",
+            "tương ớt nếu thích",
+            "🥟 sủi cảo mua sẵn hoặc tự gói"
+        ]
+    },
+    {
+        "name": "CHÂN GÀ HẤP TÀU XÌ KIỂU HONGKONG (CHÂN GÀ PHÙNG CHẢO)",
+        "ingredients": [
+            "chân gà",
+            "giấm tiều",
+            "mạch nha",
+            "gừng",
+            "đại hồi",
+            "tàu xì",
+            "dầu hào",
+            "dầu mè",
+            "dầu điều",
+            "bột gà",
+            "đường vàng",
+            "muối",
+            "tiêu",
+            "tỏi băm",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Cơm gà hải nam -canh hạt sen sườn dải",
+        "ingredients": [
+            "gà",
+            "hành tím",
+            "tỏi",
+            "hành lá",
+            "gừng",
+            "rau mùi",
+            "mỡ gà",
+            "gia vị",
+            "muối",
+            "đường",
+            "mỳ chính",
+            "dầu hào",
+            "tiêu",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Trứng cuộn cơm chiên cho bé",
+        "ingredients": [
+            "cơm nửa",
+            "tỏi",
+            "trứng gà",
+            "thịt hoặc không cần cũng được"
+        ]
+    },
+    {
+        "name": "Gà Xào Bắp Cải Phô Mai Hàn Quốc",
+        "ingredients": [
+            "đùi gà",
+            "bắp cải trắng",
+            "bắp cải tím",
+            "cà rốt",
+            "boa rô vừa",
+            "hành tây",
+            "tỏi",
+            "phô mai mozzarella bào nhỏ",
+            "sốt ướp gà",
+            "sốt ớt hàn quốc gochujang",
+            "nước tương",
+            "mật ong",
+            "dầu hào",
+            "bột ớt hàn quốc",
+            "bột tỏi",
+            "dầu mè",
+            "mè trắng rang",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Miến trộn Japchae (잡채) - Ẩm thực Hàn Quốc",
+        "ingredients": [
+            "nguyên liệu chính",
+            "bò",
+            "miến sợi to hàn quốc",
+            "dầu ăn",
+            "cà rốt",
+            "hành tây",
+            "giá đỗ",
+            "rau cải ngọt",
+            "kim chi",
+            "vừng rang",
+            "nguyên liệu sốt trộn",
+            "đường nâu",
+            "xì dầu",
+            "tương ớt gochujang",
+            "dầu mè",
+            "hạt tiêu"
+        ]
+    },
+    {
+        "name": "Mì tương đen Hàn Quốc",
+        "ingredients": [
+            "mì khoai tây tươi",
+            "thịt nạc vai",
+            "bí ngòi",
+            "hành tây",
+            "cà rốt",
+            "dưa chuột",
+            "sốt tương đen hàn quốc",
+            "dầu ăn",
+            "đường",
+            "hạt nêm",
+            "dầu hào…"
+        ]
+    },
+    {
+        "name": "청국장- Canh đậu tương đậm đặc lên men (khác với canh đậu tương 된장찌개 nha)",
+        "ingredients": [
+            "청국장 - đậu tương lên men loại có mùi",
+            "không phải 된장",
+            "xem ảnh ở phần cách làm nha",
+            "đậu tương thường - 된장",
+            "thịt ba chỉ hoặc thịt vai",
+            "hoặc dùng thịt băm càng ngon",
+            "bí ngòi",
+            "hành tây",
+            "đậu hũ",
+            "hành ba rô",
+            "không dùng hết đâu nè",
+            "tỏi băm",
+            "ớt có thể lấy loại không cay để trang trí lên trên",
+            "bột ớt",
+            "đường",
+            "nước dùng ninh xương của hàn quốc",
+            "cái này mình chưa thấy ở vn bán phổ biến",
+            "toàn nhờ người bên hàn mang sang",
+            "không mua được thì bỏ qua nè",
+            "kim chi loại đã chua",
+            "mỳ chính",
+            "mắm tép hàn 새우젓"
+        ]
+    },
+    {
+        "name": "Cà Ri Xanh Thái Lan",
+        "ingredients": [
+            "thịt gà",
+            "nước cốt dừa",
+            "bắp non",
+            "đậu que",
+            "cà phổi",
+            "rau húng quế",
+            "sốt cà ri xanh thái",
+            "lá chanh thái",
+            "ớt",
+            "muối",
+            "nước mắm",
+            "đường"
+        ]
+    },
+    {
+        "name": "해물전 - Bánh xèo hải sản Hàn Quốc",
+        "ingredients": [
+            "hành lá",
+            "giấy bột chiên 부침가루 hàn quốc",
+            "có thể thay bằng bột chiên giòn",
+            "giấy nước",
+            "để pha với bột trên",
+            "tôm bé",
+            "mực",
+            "loại mực nhỏ bằng bàn tay",
+            "dùng loại to gì gia giảm lại",
+            "trứng",
+            "tiêu",
+            "muối",
+            "ớt",
+            "trứng",
+            "cà rốt",
+            "có thể thêm hải sản khác tuỳ khẩu vị",
+            "nấm hương tươi"
+        ]
+    },
+    {
+        "name": "SP.1007 - Cơm trộn Hàn Quốc",
+        "ingredients": [
+            "trắng",
+            "thịt bò thái lát",
+            "nước tương teriyaki",
+            "dầu ăn",
+            "hành lá",
+            "trứng gà",
+            "kim chi",
+            "bắp cải xắt sợi",
+            "mè trắng"
+        ]
+    },
+    {
+        "name": "Súp miso",
+        "ingredients": [
+            "rong biển wakame khô",
+            "tương miso",
+            "hạt nêm dashi cá ngừ bào",
+            "hành boaro",
+            "đậu hũ non"
+        ]
+    },
+    {
+        "name": "Cá hồi nướng teriyaki",
+        "ingredients": [
+            "cá hồi phi lê",
+            "sốt teriyaki đóng",
+            "mè rang"
+        ]
+    },
+    {
+        "name": "Gà xào hạt điều kiểu Thái cho em bé",
+        "ingredients": [
+            "ức gà",
+            "hạt điều rang",
+            "sốt",
+            "ớt chuông đỏ hoặc xanh",
+            "hành tây sợi",
+            "bông cải trắng hoặc rau tuỳ chọn đã trần sơ qua nước sôi",
+            "lá húng quế hoặc lá thơm"
+        ]
+    },
+    {
+        "name": "Mì hoành thánh xá xíu",
+        "ingredients": [
+            "sợi mì trứng",
+            "thịt heo",
+            "gia vị ướp làm xá xíu : dầu hào",
+            "hắc xì dầu",
+            "ngũ vị hương",
+            "bột canh",
+            "tiêu",
+            "dầu ăn",
+            "bột tỏi",
+            "bột hành )",
+            "lá hoành thánh",
+            "nhân hoành thánh : thịt băm",
+            "tôm tươi",
+            "bột nêm",
+            "hành tỏi băm nhuyễn",
+            "nước mắm",
+            "tiêu",
+            "dầu mè)",
+            "cà rốt",
+            "cải",
+            "nấm hương",
+            "tôm khô",
+            "nước dùng từ xương heo hoặc gà",
+            "hành",
+            "tỏi",
+            "hành lá",
+            "rau ngò"
+        ]
+    },
+    {
+        "name": "Gà viên Tsukune",
+        "ingredients": [
+            "thịt & gia vị tẩm ướp",
+            "thịt gà đùi băm / xay",
+            "trứng gà",
+            "hành lá thái nhỏ",
+            "sốt soja",
+            "dầu vừng",
+            "bột khoai",
+            "đường vàng",
+            "bột gừng",
+            "hạt tiêu",
+            "sốt yakitori",
+            "sốt đậu nành",
+            "mirin",
+            "sake",
+            "nước",
+            "đường vàng"
+        ]
+    },
+    {
+        "name": "Bánh Rán Đôremon từ bột pha sẵn",
+        "ingredients": [
+            "bột bánh rán pha sẵn",
+            "sữa tươi không đường"
+        ]
+    },
+    {
+        "name": "Cơm nắm cá ngừ rong biển",
+        "ingredients": [
+            "nóng",
+            "rong biển trộn cơm",
+            "cá ngừ",
+            "dầu mè",
+            "đường",
+            "sốt mayonnaise",
+            "tương ớt",
+            "lá kim"
+        ]
+    },
+    {
+        "name": "Canh tương đậu (Kongbiji jjigae)",
+        "ingredients": [
+            "sườn non",
+            "bã đậu",
+            "kimchi",
+            "hành boaro",
+            "tỏi xay",
+            "tiêu",
+            "bột ngọt",
+            "đường",
+            "muối",
+            "thêm ớt bột"
+        ]
+    },
+    {
+        "name": "Gỏi miến trộn mực thái lan",
+        "ingredients": [
+            "muỗm mắm",
+            "muỗm đường",
+            "chanh",
+            "miến",
+            "mực",
+            "thịt xay",
+            "muỗm mè trắng rang",
+            "hành tây",
+            "cần tây",
+            "carot",
+            "hành"
+        ]
+    },
+    {
+        "name": "Thịt Bằm Chay Thailand (Lạp Thái)",
+        "ingredients": [
+            "cà chua bi",
+            "đậu que",
+            "hành tây",
+            "thịt băm chay",
+            "rau húng quế",
+            "nước mắm chay",
+            "nước tương",
+            "hạt nêm",
+            "đường",
+            "nước"
+        ]
+    },
+    {
+        "name": "Súp Vi Cá",
+        "ingredients": [
+            "vi cá",
+            "nước dùng gà",
+            "nấm bào ngư"
+        ]
+    },
+    {
+        "name": "Mì trộn indomie",
+        "ingredients": [
+            "mỳ indomie",
+            "tôm",
+            "trứng gà",
+            "hành lá"
+        ]
+    },
+    {
+        "name": "Gyudon - Cơm thịt Bò kiểu Nhật",
+        "ingredients": [
+            "thịt bò xắt mỏng",
+            "hành tây",
+            "hành tím nhỏ",
+            "nước dashi hoặc nước hầm xương",
+            "mirin",
+            "xì dầu",
+            "hắc xì dầu",
+            "rượu sake hoặc rượu trắng"
+        ]
+    },
+    {
+        "name": "Lòng gà - trứng non xào miến 😋😋 Đảm bảo ăn là ghiền",
+        "ingredients": [
+            "lòng gà",
+            "trứng non",
+            "tim",
+            "gan",
+            "mề gà",
+            "mọc nhĩ",
+            "nấm hương",
+            "miến",
+            "cà rốt",
+            "hành khô",
+            "hạt tiêu mắm muối gia vị"
+        ]
+    },
+    {
+        "name": "Lẩu gà lá é",
+        "ingredients": [
+            "gà",
+            "nấm rơm",
+            "nấm linh chi nâu",
+            "sả",
+            "hành lá",
+            "lá é",
+            "bún tươi",
+            "gia vị¹"
+        ]
+    },
+    {
+        "name": "Cơm thịt chiên xù Tonkatsu",
+        "ingredients": [
+            "thịt nạc dăm",
+            "bột chiên giòn",
+            "bột năng",
+            "bột chiên xù",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Súp tóc tiên óc heo,thanh cua và tôm",
+        "ingredients": [
+            "tôm sú",
+            "bộ óc heo",
+            "trứng cút",
+            "hạt sen",
+            "đậu hà lan",
+            "củ cà rốt",
+            "bắp mỹ",
+            "xương gà",
+            "củ gừng",
+            "tóc tiên",
+            "trứng gà ta",
+            "thanh cua",
+            "hành lá",
+            "ngò rí",
+            "bột năng",
+            "dầu mè",
+            "hạt nêm",
+            "muối",
+            "tiêu",
+            "bột ngọt"
+        ]
+    },
+    {
+        "name": "Cơm Chiên Bò Kim Chi",
+        "ingredients": [
+            "nguội",
+            "bò mỹ bào mỏng ướp sốt bbq hàn quốc",
+            "trứng gà",
+            "kim chi xắt nhỏ",
+            "hành lá",
+            "tỏi băm",
+            "dầu mè",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Gỏi Xoài cá Trê chiên xù",
+        "ingredients": [
+            "cá trê g",
+            "xoài xanh",
+            "bột năng",
+            "hành tím",
+            "tỏi",
+            "ớt",
+            "rau quế",
+            "gia vị",
+            "nước mắm",
+            "đường",
+            "dầu ăn",
+            "tương ớt"
+        ]
+    },
+    {
+        "name": "Pizza hải sản",
+        "ingredients": [
+            "đế bánh mua sẵn hoặc làm theo công thức bánh mỳ",
+            "topping : thanh cua",
+            "tôm",
+            "mực",
+            "dứa",
+            "cá ngừ",
+            "sốt mayone",
+            "lá thyme",
+            "tương cà chua",
+            "phô mai"
+        ]
+    },
+    {
+        "name": "Bánh mì pizza phô mai cấp tốc",
+        "ingredients": [
+            "bánh mì",
+            "phô mai mozzarella",
+            "tương cà ketchup"
+        ]
+    },
+    {
+        "name": "🍕Pizza bò băm 🍕",
+        "ingredients": [
+            "bột mì",
+            "baking powder",
+            "muối",
+            "men nở",
+            "sữa k đường",
+            "đường",
+            "dầu ăn",
+            "thịt bò 🐮",
+            "sốt cà chua",
+            "phô mai mozzarella sợi",
+            "dứa🍍🍍",
+            "hành tây"
+        ]
+    },
+    {
+        "name": "Mì ý sốt bò băm",
+        "ingredients": [
+            "mỳ ý",
+            "tương cà chua",
+            "hành tây",
+            "thịt bò băm",
+            "tỏi",
+            "ớt chinsu",
+            "gia vị",
+            "đường"
+        ]
+    },
+    {
+        "name": "Mì Ý sốt kem nấm",
+        "ingredients": [
+            "mì ý",
+            "kem tươi",
+            "nấm đùi gà",
+            "hành tây băm nhỏ",
+            "bơ",
+            "muối",
+            "gia vị italian seasoning mixed",
+            "dầu ô liu",
+            "đường",
+            "lá parsley tươi"
+        ]
+    },
+    {
+        "name": "Steak bò mỹ",
+        "ingredients": [
+            "bò mỹ",
+            "khoai tây",
+            "muối",
+            "tiêu",
+            "bơ nhạt",
+            "hành tây",
+            "nước sốt",
+            "nước tương",
+            "ketchup",
+            "bột năng",
+            "muối tiêu",
+            "đường"
+        ]
+    },
+    {
+        "name": "Sườn nướng bằng nồi chiên không dầu",
+        "ingredients": [
+            "sườn",
+            "mắm",
+            "muối",
+            "hạt nêm",
+            "đường",
+            "dầu hào",
+            "tương ớt",
+            "gợi ý cho -g sườn thìa mắm thìa hạt nêm thìa nhỏ đường",
+            "muối thìa dầu hào",
+            "tương ớt",
+            "thìa nhỏ ngũ vị hương",
+            "hành",
+            "tỏi",
+            "có thể cho thêm các loại sốt pha sẵn",
+            "xíu bột mì không có cũng không sao"
+        ]
+    },
+    {
+        "name": "Cá hồi áp chảo sốt chanh dây",
+        "ingredients": [
+            "phi lê cá hồi",
+            "bắp cải thảo",
+            "bắp cải tím",
+            "pack nấm kim châm",
+            "đậu que",
+            "bơ lạt",
+            "chanh dây",
+            "muối",
+            "đường",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Salad cá ngừ trái bơ",
+        "ingredients": [
+            "bơ",
+            "hộp cá ngừ ngâm dầu",
+            "hành tây",
+            "cà chua",
+            "mùi",
+            "mayonnaise",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Salad Dưa Leo Gà Nướng",
+        "ingredients": [
+            "cà chua bi",
+            "dưa leo baby",
+            "xà lách thuỷ tinh",
+            "cà rốt",
+            "bắp mỹ",
+            "gà nướng",
+            "sốt dầu dấm"
+        ]
+    },
+    {
+        "name": "Soup bí đỏ béo ngậy",
+        "ingredients": [
+            "bí đỏ",
+            "nước luộc gà / sườn /hầm xương",
+            "mè",
+            "máy xay sinh tố"
+        ]
+    },
+    {
+        "name": "Bánh Tiramisu",
+        "ingredients": [
+            "bánh lady finger",
+            "bột cacao",
+            "nước nhúng bánh",
+            "cà phê đen",
+            "rượu rum",
+            "nước lọc",
+            "phần kem bánh",
+            "lòng đỏ trứng",
+            "đường",
+            "muối",
+            "tinh chất vani",
+            "whipping cream",
+            "mascapone"
+        ]
+    },
+    {
+        "name": "Chocolate Basque Burnt Cheesecake",
+        "ingredients": [
+            "creamcheese",
+            "đường trắng",
+            "đường nâu",
+            "tinh bột ngô",
+            "bột cacao không đường nguyên chất",
+            "trứng gà",
+            "lòng đỏ trứng",
+            "socola nguyên chất",
+            "whipping cream",
+            "tinh chất vanila vanila paste dùng để làm bánh",
+            "pha đồ uống"
+        ]
+    },
+    {
+        "name": "Bánh Macaron chocolate!",
+        "ingredients": [
+            "𝐍𝐠𝐮𝐲𝐞̂𝐧 𝐥𝐢𝐞̣̂𝐮 𝐥𝐚̀𝐦 𝐂𝐡𝐨𝐜𝐨𝐥𝐚𝐭𝐞 𝐌𝐚𝐜𝐚𝐫𝐨𝐧",
+            "đường bột nguyên chất",
+            "bột hạnh nhân",
+            "bột cacao",
+            "lòng trắng trứng",
+            "nước",
+            "đường mía",
+            "lòng trắng trứng",
+            "𝐍𝐠𝐮𝐲𝐞̂𝐧 𝐥𝐢𝐞̣̂𝐮 𝐥𝐚̀𝐦 𝐧𝐡𝐚̂𝐧 𝐂𝐡𝐨𝐜𝐨𝐥𝐚𝐭𝐞 𝐆𝐚𝐧𝐚𝐜𝐡𝐞",
+            "fresh cream",
+            "muối",
+            "chocolate powerful",
+            "chocolate đen %",
+            "vanilla"
+        ]
+    },
+    {
+        "name": "Bánh sừng bò",
+        "ingredients": [
+            "bột mì",
+            "men",
+            "sữa tươi",
+            "bơ",
+            "muối",
+            "đường",
+            "trứng",
+            "bơ",
+            "trứng",
+            "sữa tươi"
+        ]
+    },
+    {
+        "name": "Khoai tây chiên kèm sốt",
+        "ingredients": [
+            "bột bắp",
+            "bột năng",
+            "bột sư tử",
+            "khoai tây",
+            "sốt mù tạt mật ong",
+            "mù tạt vàng",
+            "mayonaise",
+            "mật ong",
+            "muối tinh",
+            "𝐒𝐨̂́𝐭 𝐬𝐮̛̃𝐚 𝐜𝐡𝐮𝐚",
+            "hộp sữa chua không đường",
+            "mayonaise",
+            "muối tinh",
+            "siro đường ngô",
+            "dấm táo heinz",
+            "nước cốt chanh",
+            "đường kính trắng",
+            "𝐒𝐨̂́𝐭 𝐛𝐨̛ 𝐡𝐨𝐚̀𝐧𝐠 𝐤𝐢𝐦",
+            "sốt mayonnaise",
+            "sữa đặc",
+            "hộp sữa chua không đường",
+            "bơ thực vật",
+            "tiêu xay",
+            "𝐒𝐨̂́𝐭 𝐛𝐨̛ 𝐭𝐨̉𝐢",
+            "bơ thực vật đun chảy",
+            "sốt mayonaise",
+            "sữa đặc",
+            "mật ong",
+            "muối tinh",
+            "rau mùi tây",
+            "tỏi phi thơm",
+            "𝐒𝐨̂́𝐭 𝐭𝐚𝐫𝐭𝐚𝐫e",
+            "trứng gà luộc chín thái vụn",
+            "dưa chuột muối chua",
+            "sốt mayonaise",
+            "muối tinh",
+            "hạt tiêu",
+            "hành tây thái nhỏ luộc qua nước sôi",
+            "mùi tây tươi băm nhỏ",
+            "𝐒𝐨̂́𝐭 𝐭𝐮̛𝐨̛𝐧𝐠 𝐨̛́𝐭 𝐧𝐠𝐨̣𝐭 𝐤𝐢𝐞̂̉𝐮 𝐇𝐚̀𝐧",
+            "dầu ớt",
+            "tỏi bằm nhỏ",
+            "hành tây thái nhỏ",
+            "phần :",
+            "sirup đường ngô",
+            "tương cà chua",
+            "rượu trắng",
+            "nước tương maggi",
+            "bột nêm bò",
+            "đường nâu hàn quốc",
+            "muối tinh",
+            "tiêu đen"
+        ]
+    },
+    {
+        "name": "Mì Ý sốt Pesto chay",
+        "ingredients": [
+            "mì ý hữu cơ",
+            "sốt pesto hiệu fiamma",
+            "đậu hủ trắng",
+            "bột ớt",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Beefsteak sốt tiêu đen kèm salad trộn",
+        "ingredients": [
+            "bò",
+            "sữa tươi không đường",
+            "bơ lạc",
+            "cà chua",
+            "tiêu đen",
+            "dầu hào",
+            "nước tương",
+            "giấm",
+            "bột năng",
+            "đường",
+            "sốt tiêu đen",
+            "dầu hào",
+            "rượu trắng",
+            "giấm",
+            "nước tương",
+            "đường",
+            "bột năng"
+        ]
+    },
+    {
+        "name": "Gà hầm rượu vang đỏ",
+        "ingredients": [
+            "gà chặt",
+            "cà rốt",
+            "gừng to",
+            "hành",
+            "tỏi khô",
+            "rượu vang đỏ",
+            "gia vị hạt tiêu",
+            "mì chính",
+            "bột canh"
+        ]
+    },
+    {
+        "name": "Salad Cải Diếp Cà Rốt Thanh Cua Sốt Caesar",
+        "ingredients": [
+            "lá xà lách romaine",
+            "cà rốt nhỏ",
+            "thanh của",
+            "ngò rí",
+            "sốt caesar"
+        ]
+    },
+    {
+        "name": "Taco thịt bò và taco tôm cá với salsa xoài",
+        "ingredients": [
+            "fillet cá chẻm",
+            "fillet cá diêu hồng",
+            "tôm càng xanh",
+            "thịt bò",
+            "sốt cà chua cô đặc",
+            "chanh xanh",
+            "ớt xanh",
+            "ngò rí",
+            "xoài chín",
+            "hũ đậu ngâm đóng hộp",
+            "hũ bắp đóng hộp",
+            "dưa leo baby",
+            "hành tây đà lạt",
+            "ớt chuông",
+            "bột gia vị fajita",
+            "xà lách iceberg",
+            "muối",
+            "đường"
+        ]
+    },
+    {
+        "name": "Sườn cừu nướng ướp thảo mộc",
+        "ingredients": [
+            "dẻ sườn cừu - người/ sườn",
+            "bánh mì",
+            "muối",
+            "tiêu",
+            "dầu olive",
+            "húng quế tây",
+            "mùi tây",
+            "hương thảo",
+            "tỏi",
+            "mù tạt dijon"
+        ]
+    },
+    {
+        "name": "Bánh Tart Trứng Vị Lá Dứa Nướng Nồi Chiên Không Dầu",
+        "ingredients": [
+            "kem trứng vị lá dứa nhất hương",
+            "đế bánh trứng mua sẵn"
+        ]
+    },
+    {
+        "name": "Bánh Waffle ăn kèm với kem",
+        "ingredients": [
+            "bột mỳ",
+            "đường",
+            "bột nổi",
+            "bột ca cao",
+            "muối",
+            "trứng gà",
+            "dầu ăn",
+            "sữa tươi không đường",
+            "vị kem mà mình yêu thích ha !",
+            "cherry hoặc dâu tây cũng rất tuyệt !"
+        ]
+    },
+    {
+        "name": "Pizza tôm và xúc xích phô mai 🧀",
+        "ingredients": [
+            "bột bánh mì",
+            "dầu oliu",
+            "nước",
+            "men",
+            "đường",
+            "muối",
+            "topping tôm",
+            "xúc xích phô mai tuỳ chỉnh theo sở thích của bé:",
+            "tôm phô mai",
+            "sốt cà",
+            "phô mai thái sợi",
+            "tôm",
+            "ngô ngọt",
+            "mayonnaise",
+            "bacon thái lát",
+            "xúc xích phô mai",
+            "xúc xích mini",
+            "phô mai",
+            "tương cà"
+        ]
+    },
+    {
+        "name": "Mỳ Ý Hải sản sốt cà chua",
+        "ingredients": [
+            "cà chua loại vừa",
+            "tôm loại vừa",
+            "mỳ ý",
+            "gia vị",
+            "hành khô cắt mỏng"
+        ]
+    },
+    {
+        "name": "Món Pháp - Bourguignon De Boeuf (Bò Hầm Rượu Vang Đỏ)",
+        "ingredients": [
+            "bò nạc",
+            "cà rốt",
+            "bơ",
+            "tỏi",
+            "hành tây lớn hoặc hành tây mini",
+            "nấm mỡ",
+            "rượu vang đỏ",
+            "nước dùng bò hoặc viên súp bò cô đặc",
+            "lá nguyệt quế",
+            "muối",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Bữa tối với thịt bò úc nướng cùng thịt xông khói cuộn trái bơ lă",
+        "ingredients": [
+            "fromage cỡ ngón tay",
+            "bông cải xanh",
+            "tôm to",
+            "thịt bò phi lê của úc",
+            "bơ chín",
+            "thịt heo xông khói",
+            "trứng gà",
+            "bột chiên giòn",
+            "ít bột chiên xù",
+            "mayonnaise"
+        ]
+    },
+    {
+        "name": "💚 Greek Salad - Salad Hy Lạp (Vegetarian)",
+        "ingredients": [
+            "phô mai feta",
+            "cà chua lớn chín mọng 🍅",
+            "ớt chuông xanh 🫑",
+            "hành tây 🧅",
+            "dưa leo 🥒",
+            "olive đen hoặc xanh tuỳ thích",
+            "lá oregano khô",
+            "dầu olive",
+            "nước cốt chanh 🍋",
+            "muối",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "💚 Bánh Mì Viên Bơ Tỏi Nướng Giòn",
+        "ingredients": [
+            "bánh mì sandwich",
+            "bơ mặn",
+            "parsley khô hoặc tươi",
+            "tỏi tươi"
+        ]
+    },
+    {
+        "name": "Olivier Salad (salad Nga)",
+        "ingredients": [
+            "khoai tây vừa",
+            "cà rốt nhỏ",
+            "táo",
+            "xúc xích",
+            "bắp mỹ",
+            "sốt trộn",
+            "rau mùi",
+            "kem tươi whipping cream",
+            "mayonnaise",
+            "muối",
+            "đường"
+        ]
+    },
+    {
+        "name": "SP.0652 - Gan Ngỗng Áp Chảo",
+        "ingredients": [
+            "gan ngỗng",
+            "táo đỏ",
+            "cam vàng",
+            "cherry",
+            "rau mầm",
+            "bánh mì đặc ruột",
+            "hương thảo",
+            "muối",
+            "tiêu",
+            "đường",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "French toast - 2 Cách ăn sandwich với dâu tây cho bữa sáng nhanh gọn",
+        "ingredients": [
+            "sandwich",
+            "dâu tây",
+            "làm french toast",
+            "sữa tươi",
+            "trứng",
+            "sữa đặc",
+            "làm sandwich phô mai dâu",
+            "mật ong",
+            "cream cheese"
+        ]
+    },
+    {
+        "name": "Combo Gà - thịt hun khói cuộn măng tây nướng",
+        "ingredients": [
+            "măng tây",
+            "thịt hun khói",
+            "bơ chín",
+            "góc tư gà vàng của pháp",
+            "gia vị: tiêu",
+            "muối",
+            "lá thyme khô"
+        ]
+    },
+    {
+        "name": "Mousse sô cô la",
+        "ingredients": [
+            "sô cô la tuỳ ý",
+            "mình dùng loại đắng nhẹ ít ngọt",
+            "sữa tươi",
+            "kem tươi",
+            "đường",
+            "gelatin bột",
+            "lòng đỏ trứng"
+        ]
+    },
+    {
+        "name": "💚 Bánh Táo Nướng Mứt Mơ & Hạt Thông",
+        "ingredients": [
+            "đế bánh ngàn lớp",
+            "táo",
+            "mứt mơ",
+            "hạt thông",
+            "hạt chia",
+            "lòng đỏ trứng gà"
+        ]
+    },
+    {
+        "name": "Chocolate BROWNIES",
+        "ingredients": [
+            "bơ lạt",
+            "đường cát",
+            "socola đen",
+            "trứng gà",
+            "muối",
+            "bột mì",
+            "bột cacao",
+            "các loại hạt: óc chó",
+            "hạt hồ đào",
+            "hạt điều",
+            "khuôn muffin vuông hoặc tròn"
+        ]
+    },
+    {
+        "name": "Bánh Lava Chocolate (socola) tan chảy Eat clean (siêu dễ)",
+        "ingredients": [
+            "bột yến mạch / bột nguyên cám",
+            "trứng gà",
+            "sữa tươi không đường",
+            "bột nở/ baking powder",
+            "chocolate đen nấu chảy/ bột cacao",
+            "chooclate đen",
+            "đường ăn kiêng"
+        ]
+    },
+    {
+        "name": "4 cheese pizza",
+        "ingredients": [
+            "đế seafood pizza",
+            "sốt kem seafood pizza",
+            "loại phomai"
+        ]
+    },
+    {
+        "name": "Pasta bò nướng cuộn phô mai",
+        "ingredients": [
+            "nấm đùi gà",
+            "súp lơ",
+            "mỳ pasta",
+            "bò",
+            "phô mai",
+            "cà chua",
+            "và các gia vị"
+        ]
+    },
+    {
+        "name": "Salad Bơ Tôm Áp Chảo",
+        "ingredients": [
+            "xà lách",
+            "bơ",
+            "cà chua bi",
+            "tôm tươi",
+            "cốt nước chanh",
+            "đường",
+            "nước lọc",
+            "dầu olive",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Vegatable and seafood soup with pasta (Súp nui hải sản rau củ)",
+        "ingredients": [
+            "dền",
+            "cà rốt",
+            "khoai tây",
+            "bông cải trắng",
+            "hành tây",
+            "tôm thẻ",
+            "mực baby",
+            "hành lá",
+            "nước mắm",
+            "hạt nêm",
+            "muối",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Bánh mì kẹp xúc xích 🌭",
+        "ingredients": [
+            "bột mì",
+            "sữa tươi không đường",
+            "trứng gà",
+            "lòng đỏ trứng gà",
+            "bơ lạt",
+            "men nở",
+            "đường",
+            "sữa béo",
+            "muối",
+            "xúc xích",
+            "tương cà hay tương ớt",
+            "sốt magoner"
+        ]
+    },
+    {
+        "name": "Cá điêu hồng nướng giấy bạc",
+        "ingredients": [
+            "cá điêu hồng",
+            "hành tây cắt múi cau",
+            "hành lâ cât khuac",
+            "xí muọi băm",
+            "sốt xí muội",
+            "tương xí muội",
+            "dầu hào",
+            "tương ớt",
+            "sate hk",
+            "đường",
+            "bột ngọt",
+            "tiêu",
+            "dầu điều",
+            "ớt băm",
+            "tỏi",
+            "hành tím",
+            "khoai tây chiên vàng",
+            "dầu giấm : g giấm",
+            "g đường",
+            "g đường",
+            "cafe muối",
+            "g dầu ăn",
+            "g tiêu nấu để nguội"
+        ]
+    },
+    {
+        "name": "Cá hồi nướng, măng tây xào tỏi",
+        "ingredients": [
+            "cá hồi phi lê",
+            "măng tây",
+            "tỏi",
+            "muối",
+            "tiêu",
+            "hạt nêm",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Mì Ý sốt cay",
+        "ingredients": [
+            "mì ý",
+            "mc tương ớt",
+            "mcf đường",
+            "mcf sốt sate",
+            "mc nước lọc",
+            "topping tùy ý"
+        ]
+    },
+    {
+        "name": "Sandwich Cá Hồi Xông Khói",
+        "ingredients": [
+            "bánh mì đen",
+            "trứng gà",
+            "cá hồi xông khói",
+            "xà lách",
+            "sốt mù tạc",
+            "muối",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Banh crepe nhân mặn",
+        "ingredients": [
+            "trứng",
+            "bột mì ngang",
+            "bột gạo",
+            "sữa tươi",
+            "muối",
+            "xúc xích",
+            "dưa leo",
+            "tương cà",
+            "tương ớt",
+            "majonnaise"
+        ]
+    },
+    {
+        "name": "Salad ức gà sốt mè rang 😋",
+        "ingredients": [
+            "thịt ức gà",
+            "rau xà lách",
+            "ngô ngọt",
+            "đậu hà lan",
+            "dâu tây sấy",
+            "nước sốt mè rang",
+            "tiêu",
+            "tương ớt",
+            "gừng"
+        ]
+    },
+    {
+        "name": "Bánh Mì Phô Mai Bơ Tỏi Ăn Sáng",
+        "ingredients": [
+            "bánh mì ngũ cốc",
+            "phô mai mozzarella bào",
+            "phô mai parmesan bột",
+            "tỏi băm",
+            "dầu olive",
+            "bơ mặn nấu chảy",
+            "lá thơm hỗn hợp khô"
+        ]
+    },
+    {
+        "name": "🌱 Bún Gạo Lứt Nước Lèo Cà Chua Nấm Hương Chay",
+        "ingredients": [
+            "bún gạo lứt khô",
+            "cà chua",
+            "nấm hương tươi",
+            "đậu hủ trắng",
+            "hành tím",
+            "tỏi",
+            "hành lá",
+            "ớt hiểm",
+            "tiêu xay",
+            "rau thơm : kinh giới"
+        ]
+    },
+    {
+        "name": "Mì quảng trộn chay",
+        "ingredients": [
+            "mì quảng",
+            "giá",
+            "nấm bào ngư"
+        ]
+    },
+    {
+        "name": "Lẩu nấm chay",
+        "ingredients": [
+            "các loại nấm : kim châm",
+            "hải sản",
+            "đùi gà",
+            "đông cô tươi",
+            "nấm rơm",
+            "cà rốt",
+            "bắp ngô ngọt",
+            "lơ xanh",
+            "lá phù trúc",
+            "cải trắng",
+            "bò lát chay",
+            "nấm hương khô",
+            "mộc nhĩ",
+            "bột chiên giòn",
+            "hạt nêm chay"
+        ]
+    },
+    {
+        "name": "Bánh Xèo Măng Trúc Chay",
+        "ingredients": [
+            "bột bánh xèo",
+            "nước",
+            "măng trúc",
+            "đậu hũ",
+            "tàu hũ ky chiên giòn lá lớn",
+            "giá",
+            "hành lá",
+            "rau sống : xà lách rau thơm",
+            "nước mắm chay chua ngọt"
+        ]
+    },
+    {
+        "name": "Gỏi chay khoai môn hoa chuối",
+        "ingredients": [
+            "bắp hoa chuối",
+            "cà rốt",
+            "rổ rau cải mầm",
+            "rau mùi",
+            "khuôn đậu",
+            "khoai môn",
+            "lon đậu phộng",
+            "mè rang",
+            "boa rô",
+            "gia vị nước chấm",
+            "nước tương",
+            "đường",
+            "nước cốt chanh"
+        ]
+    },
+    {
+        "name": "Nấm rơm kho tiêu - Đậu hũ chiên sả ớt",
+        "ingredients": [
+            "nấm rơm",
+            "tiêu xanh",
+            "nước tương",
+            "hạt nêm chay",
+            "tương ớt",
+            "ba rô",
+            "đậu hủ chiên",
+            "sả xay",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Nấm Đùi Gà Kho Tiêu Xanh Chay",
+        "ingredients": [
+            "nấm đùi gà baby",
+            "ớt",
+            "dây tiêu xanh",
+            "nước tương",
+            "mật mía",
+            "muối tiêu",
+            "dầu ăn",
+            "boa rô hoặc đầu hành /tỏi băm"
+        ]
+    },
+    {
+        "name": "Canh rong biển thịt bằm",
+        "ingredients": [
+            "thịt nạc vai",
+            "rong biển khô",
+            "đậu xanh",
+            "hạt sen tươi",
+            "hành ngò",
+            "hạt nêm",
+            "nước mắm",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Bánh bèo chay siêu đơn giản",
+        "ingredients": [
+            "bánh phồng tôm chay",
+            "đậu xanh không vỏ",
+            "mè",
+            "nước mắm chay",
+            "tỏi"
+        ]
+    },
+    {
+        "name": "Bánh bột lọc nhân đậu xanh (món chay)",
+        "ingredients": [
+            "đậu xanh không vỏ",
+            "bột năng",
+            "hạt nêm chay",
+            "nước tương",
+            "đường",
+            "bột ngọt",
+            "dầu ăn",
+            "hành tím"
+        ]
+    },
+    {
+        "name": "Nem/chả giò chay truyền thống",
+        "ingredients": [
+            "đậu phụ trắng",
+            "miến dong",
+            "mộc nhĩ to",
+            "nấm hương khô",
+            "nhỏ cà rốt",
+            "giá đỗ",
+            "rau mùi ta",
+            "muối",
+            "hạt tiêu",
+            "nước mắm chay",
+            "hạt nêm chay",
+            "bánh đa nem miền bắc"
+        ]
+    },
+    {
+        "name": "Mì xào chay",
+        "ingredients": [
+            "mì korea",
+            "đậu chiên vàng",
+            "nấm đông cô",
+            "nấm rơm khô",
+            "thịt chỉ chay mua sẵn",
+            "rau các thứ : carrot",
+            "bông cải",
+            "đậu hòa lan",
+            "ớt sừng",
+            "bắp cải",
+            "cải ngọt",
+            "bắp hạt",
+            "gừng",
+            "ngò",
+            "gia vị nêm chay: dầu hào",
+            "dầu mè",
+            "nước tương",
+            "bột nêm",
+            "đường"
+        ]
+    },
+    {
+        "name": "Cà tím nướng mỡ hành ớt chuông",
+        "ingredients": [
+            "cà tím",
+            "ớt chuông đỏ",
+            "hành lá",
+            "tỏi",
+            "tóp mỡ",
+            "mỡ heo",
+            "nước mắm",
+            "đường",
+            "đậu phộng rang hoặc mè rang"
+        ]
+    },
+    {
+        "name": "Salad Ức Gà Luộc & Mầm Cỏ Linh Lăng (Eat Clean)",
+        "ingredients": [
+            "ức gà lớn",
+            "mầm cỏ linh lăng 🌱 rau mầm hỗn hợp hạt cỏ linh lăng & cỏ cà ri",
+            "xà lách",
+            "cà chua bi",
+            "hành phi 🌱 hành phi giòn tự nhiên",
+            "sốt dầu dấm"
+        ]
+    },
+    {
+        "name": "Poke Bowl Cá Hồi Xông Khói & Rau Củ Quả",
+        "ingredients": [
+            "cơm hoặc một loại ngũ cốc bạn thích như quinoa",
+            "hay lúa mì",
+            "lúa mạch…",
+            "các nguyên liệu khác",
+            "cá hồi xông khói cá hồi xông khói nguyên tảng - smoked salmon",
+            "mầm cỏ linh lăng 🌱 rau mầm hỗn hợp hạt cỏ linh lăng & cỏ cà ri",
+            "bơ 🥑",
+            "lá tía non",
+            "lá bạc hà",
+            "đậu lupin",
+            "hạt lựu chín",
+            "rong biển lá kim",
+            "mè rang thơm",
+            "nước sốt trộn sốt tương nhật cho món poke bowl",
+            "wasabi"
+        ]
+    },
+    {
+        "name": "Đậu non, tempeh chiên sốt nấm kim châm",
+        "ingredients": [
+            "nấm sò nâu",
+            "nấm kim châm",
+            "đậu hũ trứng",
+            "tempeh",
+            "bột sư tử",
+            "gói bột chiên giòn",
+            "hành lá",
+            "hành",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Bún lứt trộn ức gà",
+        "ingredients": [
+            "bún lứt",
+            "ức gà",
+            "các loại rau : cải thảo",
+            "rau cải",
+            "hành khô",
+            "hạt nêm",
+            "mắm",
+            "mì chính",
+            "dầu hào",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Phở Sắn Cuốn Chay",
+        "ingredients": [
+            "phở sắn",
+            "đậu phụ",
+            "dưa leo",
+            "ớt chuông đỏ",
+            "ớt chuông vàng",
+            "bắp cải tím",
+            "bánh tráng rau",
+            "nước mắm chay chua ngọt"
+        ]
+    },
+    {
+        "name": "Chả Lụa Chay Kho Tiêu",
+        "ingredients": [
+            "chả lụa chay",
+            "boa rô",
+            "tiêu",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Đậu hũ bao bố sốt nước tương chay",
+        "ingredients": [
+            "đậu hũ",
+            "sắn",
+            "khoai lang",
+            "cà rốt",
+            "nấm mèo",
+            "nấm hương",
+            "bún tàu"
+        ]
+    },
+    {
+        "name": "Cơm chiên lá é chay",
+        "ingredients": [
+            "cơm nguội",
+            "lá é trắng",
+            "nấm đùi gà",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Canh Chua Đậu Rồng Nấm Chay",
+        "ingredients": [
+            "đậu rồng",
+            "nấm kim châm",
+            "đậu hũ non",
+            "cà chua",
+            "thơm",
+            "ngò gai",
+            "nước tắc",
+            "nước lọc",
+            "muối",
+            "đường",
+            "nước mắm chay"
+        ]
+    },
+    {
+        "name": "Khổ qua kho tiêu “ kho chay”",
+        "ingredients": [
+            "khổ qua",
+            "nc tương tam thái tử",
+            "hạt nêm chay",
+            "ớt",
+            "tiêu",
+            "hành ngò",
+            "đường"
+        ]
+    },
+    {
+        "name": "CHẢ chén chay",
+        "ingredients": [
+            "nấm bào ngư xám",
+            "bột mì đa dụng",
+            "bột năng",
+            "hành boa-rô",
+            "dầu ăn",
+            "đường",
+            "bột ngọt",
+            "muối",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Mít non kho tộ chay",
+        "ingredients": [
+            "mít non",
+            "gia vị nêm chay"
+        ]
+    },
+    {
+        "name": "Gỏi mít chay",
+        "ingredients": [
+            "mít non",
+            "đậu khuôn",
+            "nấm bào ngư",
+            "nấm rơm tươi",
+            "nấm mèo",
+            "boaro",
+            "ớt đỏ",
+            "rau răm",
+            "đậu phộng",
+            "dầu ăn",
+            "hạt nêm",
+            "tiêu",
+            "nước tương",
+            "bánh tráng nướng"
+        ]
+    },
+    {
+        "name": "Bún chả cá Đà Nẵng chay",
+        "ingredients": [
+            "chả chay",
+            "tàu hủ ky",
+            "cà chua",
+            "thơm",
+            "bí đỏ",
+            "bắp cải",
+            "măng nứa tươi",
+            "bún tươi",
+            "hành lá",
+            "rau sống: xà lách thái nhỏ",
+            "rau thơm",
+            "chanh",
+            "ớt tuỳ ý"
+        ]
+    },
+    {
+        "name": "Bánh Nậm Chay",
+        "ingredients": [
+            "bột bánh",
+            "bột gạo",
+            "nước",
+            "muối",
+            "dầu ăn",
+            "nhân bánh",
+            "nấm đùi gà",
+            "nấm mèo đã ngâm nở",
+            "cà rốt",
+            "đậu hũ xay nhuyễn",
+            "hành lá cắt nhỏ",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Bánh Bột Lọc Nấm Chay",
+        "ingredients": [
+            "bột năng",
+            "bột tàn mì",
+            "nước",
+            "bắp ngọt",
+            "cà rốt cắt hạt lựu hấp chín",
+            "nấm đông cô ngâm nở",
+            "nấm kim châm",
+            "lá tàu hủ ki chiên giòn bóp nhỏ",
+            "lá chuối"
+        ]
+    },
+    {
+        "name": "Mì xá xíu chay",
+        "ingredients": [
+            "tàu hủ",
+            "cải thìa cắt khúc",
+            "hành tây nhỏ cắt hạt lựu",
+            "mì vàng cọng nhỏ khô",
+            "giá rửa sạch rồi để ráo",
+            "muối",
+            "đường",
+            "chút bột ngọt",
+            "bột xá xíu",
+            "dầu oliu",
+            "hành lá",
+            "cọng ngò cắt lát chung với nhau để vô"
+        ]
+    },
+    {
+        "name": "Đậu hũ sốt cà chua",
+        "ingredients": [
+            "cà chua nhỏ",
+            "đậu trắng",
+            "hành",
+            "hành lá",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Nấm rơm kho tộ chay",
+        "ingredients": [
+            "nấm rơm",
+            "dầu ăn",
+            "ớt",
+            "boa rô",
+            "bột nêm",
+            "mì chính",
+            "tiêu",
+            "ớt bột"
+        ]
+    },
+    {
+        "name": "Miến xào rau nấm thanh nhẹ",
+        "ingredients": [
+            "miến dong",
+            "rau cải thảo",
+            "mộc nhĩ",
+            "cà rốt",
+            "dầu ăn",
+            "nước tương",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Cơm 1 người - Canh khổ qua nhồi thịt, trứng chiên thịt, rau muống xào, đậu hũ chiên giòn, dưa leo",
+        "ingredients": [
+            "rưỡi) khổ qua",
+            "thịt bằm",
+            "nấm mèo khô",
+            "trứng gà",
+            "đậu hũ chiên",
+            "rau muống",
+            "dưa leo baby",
+            "tỏi băm",
+            "gạo",
+            "nước mắm",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Sườn non chiên giòn (chay)",
+        "ingredients": [
+            "khoai từ",
+            "bột nêm chay",
+            "bột mì ngang",
+            "bột năng"
+        ]
+    },
+    {
+        "name": "Váng đậu, nấm xào kim chi (món chay)",
+        "ingredients": [
+            "lá váng đậu",
+            "đầu nấm đùi gà to",
+            "kim chi chay",
+            "hạt nêm nấm",
+            "hành khô",
+            "_ hành lá",
+            "dầu ăn"
+        ]
+    },
+    {
+        "name": "Soup rong tóc tiên chay",
+        "ingredients": [
+            "rong tóc tiên",
+            "đậu hủ non",
+            "bắp non",
+            "hành boa-rô",
+            "gừng",
+            "bột năng",
+            "gia vị: hạt nêm chay",
+            "đường",
+            "nước tương"
+        ]
+    },
+    {
+        "name": "Cơm hấp lá sen chay",
+        "ingredients": [
+            "hạt sen tươi",
+            "cà rốt",
+            "bí đỏ",
+            "tỏi băm",
+            "sườn chay",
+            "lá sen",
+            "nguội",
+            "gia vị knorr chay",
+            "chả chay",
+            "dầu hào"
+        ]
+    },
+    {
+        "name": "Bì cuốn chay",
+        "ingredients": [
+            "đậu hũ",
+            "khoai lang",
+            "cà rốt",
+            "sắn",
+            "sườn chay",
+            "miến",
+            "rau thơm",
+            "xà lách",
+            "tương hột",
+            "đậu phộng rang",
+            "bánh tráng mỏng"
+        ]
+    },
+    {
+        "name": "Khổ qua rừng kho nước tương chay",
+        "ingredients": [
+            "khổ qua rừng",
+            "hạt nêm chay hoặc hạt nêm thường",
+            "nước tương cũng tương tự hạt nêm",
+            "đường",
+            "tỏi",
+            "tiêu hạt"
+        ]
+    },
+    {
+        "name": "Lẩu chao chay",
+        "ingredients": [
+            "khoai môn",
+            "sả",
+            "sả non băm nhỏ",
+            "chao bông mai",
+            "hạt nêm chay",
+            "muối",
+            "đường",
+            "ớt bằm",
+            "topping",
+            "rau muống",
+            "nấm tươi",
+            "đậu hũ",
+            "chả chay …",
+            "bún tươi"
+        ]
+    },
+    {
+        "name": "Bò kho bánh mì chay",
+        "ingredients": [
+            "nấm đông cô",
+            "nấm đùi gà",
+            "nấm hầu thủ",
+            "thịt dê chay",
+            "đậu hũ vuông",
+            "khoai tây",
+            "cà rốt",
+            "cải trắng",
+            "khoai lang",
+            "khoai sọ",
+            "xốt bò kho",
+            "sườn non chay",
+            "hoa hồi",
+            "gừng",
+            "bánh mì",
+            "đường phèn",
+            "hạt nêm",
+            "tiêu"
+        ]
+    },
+    {
+        "name": "Salad diêm mạch",
+        "ingredients": [
+            "diêm mạch",
+            "ớt chuông",
+            "cà rốt",
+            "chanh",
+            "rau mùi ta",
+            "lá húng",
+            "kinh giới"
+        ]
+    },
+    {
+        "name": "Tempeh áp chảo sốt xì dầu",
+        "ingredients": [
+            "tempeh",
+            "xì dầu",
+            "muối",
+            "đường",
+            "dầu mè",
+            "tỏi"
+        ]
+    },
+    {
+        "name": "Bánh xèo gạo lứt (chay)",
+        "ingredients": [
+            "gạo lứt đỏ",
+            "nếp lứt trắng",
+            "sắn dây",
+            "cà rốt",
+            "hành tây",
+            "giá",
+            "hành lá",
+            "rau ăn bánh xèo: cải bẹ xanh",
+            "xà lát",
+            "rau thơm các loại",
+            "nước tương tamari",
+            "ớt bằm",
+            "nước dùng rau"
+        ]
+    },
+    {
+        "name": "Đậu hũ kho chay",
+        "ingredients": [
+            "đậu hũ nhỏ chiên sẵn",
+            "thơm",
+            "nấm mèo",
+            "nấm đùi gà",
+            "đậu cô ve",
+            "cà rốt"
+        ]
+    },
+    {
+        "name": "Bí đỏ và nấm kim châm chiên giòn",
+        "ingredients": [
+            "bí đỏ",
+            "nấm kim châm",
+            "bột chiên giòn",
+            "bột năng",
+            "gia vị"
+        ]
+    },
+    {
+        "name": "Súp Măng Tây Trắng Nấm Tuyết Chay",
+        "ingredients": [
+            "măng tây trắng",
+            "nấm tuyết",
+            "đậu hũ mềm",
+            "dầu mè",
+            "nước dùng rau",
+            "muối",
+            "tiêu",
+            "bột bắp",
+            "nước lọc"
+        ]
+    },
+    {
+        "name": "Mì quảng trộn chay",
+        "ingredients": [
+            "mì quảng",
+            "giá",
+            "nấm bào ngư"
+        ]
+    },
+    {
+        "name": "Đậu nhồi thịt sốt cà",
+        "ingredients": [
+            "đậu khuôn",
+            "thịt ba chỉ",
+            "nấm mộc nhĩ",
+            "bún gạo khô",
+            "hành lá",
+            "hạt nêm",
+            "ngũ vị hương",
+            "hành khô",
+            "tiêu",
+            "bột ngọt",
+            "muối",
+            "đường",
+            "nước mắm",
+            "cà chua"
+        ]
+    },
+    {
+        "name": "💚 Nấm Bào Ngư & Bơ Mặn Nướng Giấy Bạc (Vegetarian)",
+        "ingredients": [
+            "nấm bào ngư",
+            "bơ mặn",
+            "tiêu xay"
+        ]
+    },
+    {
+        "name": "Chả bắp chiên giòn chay",
+        "ingredients": [
+            "bắp mỹ",
+            "đậu cô ve",
+            "ngò rí",
+            "bột chiên giòn",
+            "hạt nêm"
+        ]
+    },
+    {
+        "name": "Canh Rong Biển Thanh Nhiên",
+        "ingredients": [
+            "rong biển khô",
+            "đậu hũ trứng",
+            "trứng gà",
+            "thịt xay",
+            "hạt nêm",
+            "muối",
+            "bột ngọt",
+            "đường",
+            "tiêu",
+            "dầu ăn",
+            "dầu mè"
+        ]
+    },
+    {
+        "name": "Ngày chay : đậu phộng rang muối, canh cải xoăn, đậu bắp luộc chấm chao",
+        "ingredients": [
+            "đậu bắp",
+            "chao",
+            "cải xoăn",
+            "đậu phộng"
+        ]
+    },
+    {
+        "name": "Bún Xào Nghệ Chay",
+        "ingredients": [
+            "nghệ tươi",
+            "sườn chay",
+            "nấm mèo",
+            "đậu cô ve",
+            "bún tươi dạng khô",
+            "dầu hào chay",
+            "hạt nêm chay",
+            "nước tương",
+            "ớt"
+        ]
+    },
+    {
+        "name": "Miến măng chay",
+        "ingredients": [
+            "măng tươi",
+            "nước dùng từ nấm hoặc sắn",
+            "chân nấm đông cô",
+            "gừng tươi",
+            "muối",
+            "hạt nêm",
+            "rau húng quế",
+            "miến (miến rong hoặc miến đậu xanh"
+        ]
+    },
+    {
+        "name": "Rau Củ Luộc - Nấm Hương Kho Quẹt Chay",
+        "ingredients": [
+            "đậu bắp non",
+            "cà rốt",
+            "nấm rơm khô",
+            "nước cơm",
+            "hành boa rô",
+            "nước tương",
+            "hắc xì dầu",
+            "đường thốt nốt"
+        ]
+    },
+    {
+        "name": "Đậu hủ kho tương hột (món chay)",
+        "ingredients": [
+            "đậu hủ chiên",
+            "muỗng canh tương hột",
+            "muỗng canh đường",
+            "sả",
+            "ớt trái",
+            "boa rô",
+            "dầu ăn",
+            "muỗng canh tương cà",
+            "nước lọc"
+        ]
+    }
+]

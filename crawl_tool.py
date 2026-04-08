@@ -44,27 +44,22 @@ def clean_ingredient(text):
             
     return final_list
 
-DANH_SACH_TEST = ["Phở bò tái lăn", "Phở bò nạm gầu", "Phở gà ta", "Bún bò Huế (Giò, gân, chả)",
-"Bún bò bắp", "Bún riêu cua đồng", "Bún ốc", "Bún thịt nướng",
-"Bún chả Hà Nội", "Bún đậu mắm tôm", "Miến lươn trộn", "Miến lươn nước",
-"Miến măng gà", "Miến xào hải sản", "Mì vằn thắn", "Hủ tiếu Nam Vang",
-"Hủ tiếu gõ", "Hủ tiếu mực", "Bún bề bề", "Bánh đa cua",
-"Phở cuốn Hà Nội", "Phở xào mềm", "Bún cá rô đồng", "Bún chả cá Quy Nhơn",
-"Bún sườn sụn nấu sấu", "Bún dọc mùng", "Hủ tiếu Nam Vang khô (trộn)", "Mì xào giòn hải sản",
-"Bánh đa cua bể", "Bún thang", "Miến xào cua", "Bún cá ngừ", "Bún cá thu", "Bún cá lóc", "Bún cá rô đồng","Chíp chíp hấp sả", "Nghêu hấp thái", "Ốc hương rang muối tuyết", "Ốc hương xào bơ tỏi",
-"Mực nhảy hấp hành gừng", "Mực nướng sa tế", "Mực một nắng nướng than", "Tôm sú nướng mắm nhĩ",
-"Tôm hùm nướng phô mai", "Cua rang me", "Ghẹ xanh hấp", "Lẩu hải sản chua cay",
-"Hàu nướng mỡ hành", "Hàu nướng phô mai", "Sò điệp nướng mỡ hành", "Nhum biển nướng trứng",
-"Cá mú hấp xì dầu", "Cá đuối nướng mỡ hành", "Sò huyết rang me", "Tôm tít (bề bề) rang muối",
-"Lẩu cá bớp măng chua", "Cua huỳnh đế hấp", "Mực sữa chiên nước mắm", "Bạch tuộc nướng sa tế",
-"Ốc móng tay xào rau muống", "Ốc len xào dừa", "Sò lông nướng mỡ hành", "Cháo hàu",
-"Gỏi sứa trộn vả", "Còi biên mai nướng muối ớt", "Tôm hùm đất (Crawfish) sốt Cajun","Mì Quảng Ếch", "Mì Quảng Tôm Thịt", "Mì Quảng Gà ta", "Mì Quảng Cá lóc",
-"Mì Quảng Bò", "Mì Quảng Sứa", "Bún chả cá Đà Nẵng", "Bún cá ngừ",
-"Bún sứa nước lèo", "Bún mắm nêm heo quay", "Bún mắm nêm nem chả",
-"Bún mắm nêm thịt luộc", "Bánh tráng cuốn thịt heo hai đầu da"]
+# --- DANH SÁCH MÓN ĂN CẦN CRAWL ---
+FOOD_LIST_TEST = "clean-data/food_name_ingredients.json"
+try:
+    with open(FOOD_LIST_TEST, "r", encoding="utf-8") as f:
+        DANH_SACH_TEST = json.load(f)
+    print(f"🚀 Bắt đầu crawl với {len(DANH_SACH_TEST)} món ăn từ file {FOOD_LIST_TEST}")
+except Exception as e:
+    print(f"❌ Lỗi khi đọc file JSON: {e}")
+    DANH_SACH_TEST = []
+
+# --- CẤU HÌNH SCRAPER ---
 scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'darwin', 'desktop': True})
 
+# --- KẾT QUẢ THU ĐƯỢC ---
 results = []
+not_found_links = []
 
 print("--- ĐANG CRAWL DỮ LIỆU CHI TIẾT ---")
 
@@ -132,14 +127,19 @@ for mon_an in DANH_SACH_TEST:
             print(f"   ✅ Đã lấy xong {len(ingredients)} nguyên liệu.")
         else:
             print(f"   ❌ Không tìm thấy link cho: {mon_an}")
-
+            not_found_links.append(mon_an)
     except Exception as e:
         print(f"   ❌ Lỗi: {e}")
         
     time.sleep(2) # Nghỉ một chút để tránh bị block
 
 # --- XUẤT KẾT QUẢ RA JSON ---
-with open("recipes07-bun-pho-mien.json", "w", encoding="utf-8") as f:
+with open("clean_food_ingredients.json", "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
+# 3. Lưu danh sách các món KHÔNG tìm thấy ra một file riêng để bạn kiểm tra lại
+    if not_found_links:
+        with open("not_found_foods.json", "w", encoding="utf-8") as f:
+            json.dump(not_found_links, f, ensure_ascii=False, indent=4)
+        print(f"\n⚠️ Đã lưu {len(not_found_links)} món không tìm thấy vào file 'not_found_foods.json'")
 print("\n✨ Hoàn thành! Dữ liệu đã được lưu vào file")
