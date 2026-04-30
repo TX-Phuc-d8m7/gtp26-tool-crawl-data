@@ -4,8 +4,11 @@ import urllib.parse
 import time
 import json
 import re
+import os
 
-# Ham làm sạch nguyên liệu, loại bỏ số lượng, đơn vị đo lường và các thông tin không cần thiết
+# ---------- DANH SÁCH HÀM ----------
+
+# 1. Hàm làm sạch nguyên liệu, loại bỏ số lượng, đơn vị đo lường và các thông tin không cần thiết
 def clean_ingredient(text):
     # 1. Chuyển về chữ thường
     text = text.lower()
@@ -21,7 +24,6 @@ def clean_ingredient(text):
     text = re.sub(r'\d+([\/\.]\d+)?', '', text)
     
     # 5. Danh sách các đơn vị đo lường cần xóa
-    # Lưu ý: Sắp xếp các từ dài lên trước để tránh xóa nhầm (ví dụ: 'muỗng cafe' trước 'muỗng')
     units = [
         'muỗng cafe', 'muỗng cà phê', 'muỗng canh', 'muỗng', 'tsp', 'tbsp', 
         'lít', 'lit', 'kg', 'kilogam', 'gam', 'gram', 'lạng', 'củ', 'cây', 
@@ -44,8 +46,11 @@ def clean_ingredient(text):
             
     return final_list
 
+
+
 # --- DANH SÁCH MÓN ĂN CẦN CRAWL ---
-FOOD_LIST_TEST = "clean-data/food_name_ingredients.json"
+current_dir = os.path.dirname(os.path.abspath(__file__))
+FOOD_LIST_TEST = os.path.join(current_dir, "..", "clean-data", "food_name_instruction.json")
 try:
     with open(FOOD_LIST_TEST, "r", encoding="utf-8") as f:
         DANH_SACH_TEST = json.load(f)
@@ -54,20 +59,22 @@ except Exception as e:
     print(f"❌ Lỗi khi đọc file JSON: {e}")
     DANH_SACH_TEST = []
 
+
+
 # --- CẤU HÌNH SCRAPER ---
 scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'darwin', 'desktop': True})
+
+
+
 
 # --- KẾT QUẢ THU ĐƯỢC ---
 results = []
 not_found_links = []
-
 print("--- ĐANG CRAWL DỮ LIỆU CHI TIẾT ---")
-
 for mon_an in DANH_SACH_TEST:
     print(f"\n🔍 Đang xử lý: {mon_an}")
     query = urllib.parse.quote(mon_an)
     search_url = f"https://cookpad.com/vn/tim-kiem/{query}"
-    
     try:
         # 1. Lấy link chi tiết
         response = scraper.get(search_url)
@@ -88,7 +95,7 @@ for mon_an in DANH_SACH_TEST:
             detail_soup = BeautifulSoup(detail_res.text, 'html.parser')
             
             # 3. Trích xuất tên món ăn (để đảm bảo chính xác theo bài viết)
-            recipe_name = detail_soup.find('h1').get_text(strip=True) if detail_soup.find('h1') else mon_an
+            recipe_name = mon_an
             
             # 4. Trích xuất nguyên liệu
             # Cookpad thường để nguyên liệu trong các thẻ div có class "ingredient" hoặc div có itemprop
@@ -108,7 +115,6 @@ for mon_an in DANH_SACH_TEST:
                     bdi.decompose() 
                 # --------------------------
 
-
                 # 2. Lấy text, dùng separator là khoảng trắng để tránh dính chữ (như lỗi "bột gạotài kí")
                 # Sau đó chuyển tất cả về chữ thường .lower()
                 raw_text = item.get_text(" ", strip=True)
@@ -117,29 +123,64 @@ for mon_an in DANH_SACH_TEST:
                 # 3. Làm sạch nguyên liệu
                 cleaned_ingredients = clean_ingredient(raw_text)
                 ingredients.extend(cleaned_ingredients)
+
+            # 4. Trích xuất phần hướng dẫn nấu ăn 
+            instruction_steps = []
+            
+            # Cải thiện bộ lọc: Ưu tiên tìm theo thuộc tính itemprop của schema món ăn
+            step_tags = detail_soup.find_all(['li', 'div'], attrs={'itemprop': 'recipeInstructions'})
+            
+            # Nếu không tìm thấy, dùng bộ lọc class cũ của bạn
+            if not step_tags:
+                step_tags = detail_soup.select('ol.list-none li p.overflow-wrap-anywhere')
+            
+            for idx, tag in enumerate(step_tags):
+                # Lấy text (kiểm tra xem nó là thẻ p hay thẻ li)
+                text = tag.get_text(strip=True)
+                if text:
+                    instruction_steps.append(f"{text}")
+
+            # Trích xuất thêm phần "Bí quyết" (Advice) nếu có
+            advice_section = detail_soup.find('div', id='advice')
+            if advice_section:
+                advice_text = advice_section.find('p', class_='overflow-wrap-anywhere')
+                if advice_text:
+                    # Thêm bí quyết như một bước cuối cùng hoặc ghi chú
+                    instruction_steps.append(f"Bí quyết: {advice_text.get_text(strip=True)}")
+
+            # Chuyển mảng thành chuỗi văn bản có xuống dòng
+            full_instructions = "\n".join(instruction_steps)
             
             # Lưu vào danh sách kết quả
             data = {
                 "name": recipe_name,
-                "ingredients": ingredients
+                "ingredients": ingredients,
+                "instructions": full_instructions
             }
             results.append(data)
-            print(f"   ✅ Đã lấy xong {len(ingredients)} nguyên liệu.")
+            print(f"   ✅ Đã lấy xong {len(ingredients)} nguyên liệu và {len(instruction_steps)} bước hướng dẫn.")
         else:
             print(f"   ❌ Không tìm thấy link cho: {mon_an}")
             not_found_links.append(mon_an)
     except Exception as e:
         print(f"   ❌ Lỗi: {e}")
         
-    time.sleep(2) # Nghỉ một chút để tránh bị block
+    time.sleep(2) 
+
+
 
 # --- XUẤT KẾT QUẢ RA JSON ---
-with open("clean_food_ingredients.json", "w", encoding="utf-8") as f:
+out_dir = "label-data"
+os.makedirs(out_dir, exist_ok=True)
+
+with open(os.path.join(out_dir, "clean_food_ingredients.json"), "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
-# 3. Lưu danh sách các món KHÔNG tìm thấy ra một file riêng để bạn kiểm tra lại
+
+
+# --- DANH SÁCH MÓN KHÔNG TÌM THẤY ---
     if not_found_links:
-        with open("not_found_foods.json", "w", encoding="utf-8") as f:
+        with open(os.path.join(out_dir, "not_found_foods.json"), "w", encoding="utf-8") as f:
             json.dump(not_found_links, f, ensure_ascii=False, indent=4)
         print(f"\n⚠️ Đã lưu {len(not_found_links)} món không tìm thấy vào file 'not_found_foods.json'")
 print("\n✨ Hoàn thành! Dữ liệu đã được lưu vào file")
