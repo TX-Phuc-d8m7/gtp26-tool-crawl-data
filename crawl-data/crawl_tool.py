@@ -25,9 +25,9 @@ def clean_ingredient(text):
     
     # 5. Danh sách các đơn vị đo lường cần xóa
     units = [
-        'muỗng cafe', 'muỗng cà phê', 'muỗng canh', 'muỗng', 'tsp', 'tbsp', 
+        'muỗng cafe', 'muỗng cà phê', 'muỗng cf', 'muỗng canh', 'muỗng', 'tsp', 'tbsp', 
         'lít', 'lit', 'kg', 'kilogam', 'gam', 'gram', 'lạng', 'củ', 'cây', 
-        'tô', 'bát', 'chén', 'quả', 'trái', 'con', 'khoảng', 'bó', 'miếng', 'cm', 
+        'tô', 'bát', 'chén', 'quả', 'trái', 'con', 'khoảng', 'bó', 'miếng', 'cm', 'gr'
     ]
     # Tạo regex pattern cho units: \b(unit1|unit2)\b để khớp chính xác từ
     unit_pattern = r'\b(' + '|'.join(units) + r')\b'
@@ -173,14 +173,14 @@ for mon_an in DANH_SACH_TEST:
 out_dir = "label-data"
 os.makedirs(out_dir, exist_ok=True)
 
-with open(os.path.join(out_dir, "clean_food_ingredients.json"), "w", encoding="utf-8") as f:
+with open(os.path.join(out_dir, "clean_food_ingredients1.json"), "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
 
 
 # --- DANH SÁCH MÓN KHÔNG TÌM THẤY ---
     if not_found_links:
-        with open(os.path.join(out_dir, "not_found_foods.json"), "w", encoding="utf-8") as f:
+        with open(os.path.join(out_dir, "not_found_foods1.json"), "w", encoding="utf-8") as f:
             json.dump(not_found_links, f, ensure_ascii=False, indent=4)
         print(f"\n⚠️ Đã lưu {len(not_found_links)} món không tìm thấy vào file 'not_found_foods.json'")
 print("\n✨ Hoàn thành! Dữ liệu đã được lưu vào file")
